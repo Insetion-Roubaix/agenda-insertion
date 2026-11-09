@@ -1,0 +1,1260 @@
+{
+ "totalElements": 20,
+ "content": [
+  {
+   "id": 770903,
+   "ville": "Lille",
+   "codePostal": "59260",
+   "codeInsee": "59350",
+   "longitude": 3.1094939708709717,
+   "latitude": 50.62681198120117,
+   "description": "Nous prenons un temps de deux heures pour parler en français sur des sujets divers et variés afin d'approfondir les connaissances des usagers sur la langue française. Nous travaillons également la mobilité en donnant rendez-vous dans des lieux différents sur le territoire de Fives et Hellemmes-Lille. ",
+   "heureDebut": "13:00:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Coaching",
+    "Aides à l'emploi",
+    "S'informer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Atelier",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 15,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 9,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-12T13:00:00.000+00:00",
+   "titre": "Café Langue - uniquement public de Vaucanson",
+   "codesRome": [
+    "K2130"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/770903",
+   "libelleEtablissement": "Agence LILLE VAUCANSON",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1344828,
+     "dateHeureDebut": "2026-11-12T13:00:00Z",
+     "dateHeureFin": "2026-11-12T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 15,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 9
+    }
+   ]
+  },
+  {
+   "id": 731897,
+   "ville": "La Madeleine",
+   "codePostal": "59110",
+   "codeInsee": "59368",
+   "longitude": 3.072129964828491,
+   "latitude": 50.64491271972656,
+   "description": "rendez-vous inscription en ligne ou la mise à jour du profil de compétences, en accompagnement avec les volontaires en service civique. Réservé aux demandeurs d'emploi de l'agence de La Madeleine.",
+   "heureDebut": "13:15:00",
+   "heureFin": "14:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Se préparer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Atelier",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "rendez-vous de 45 min afin de compléter la demande d'inscription ou la mise à jour du profil de compétences",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 1,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 1,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-12T13:15:00.000+00:00",
+   "titre": "rendez-vous inscription en ligne ou la mise à jour du profil de compétences",
+   "codesRome": [
+    "M16"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/731897",
+   "libelleEtablissement": "Agence LA MADELEINE",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1297155,
+     "dateHeureDebut": "2026-11-12T13:15:00Z",
+     "dateHeureFin": "2026-11-12T14:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 1,
+     "nombreInscritDistanceSession": 0,
+     "nombreInscritPresentielSession": 1
+    }
+   ]
+  },
+  {
+   "id": 777826,
+   "ville": "Lille",
+   "codePostal": "59000",
+   "codeInsee": "59350",
+   "longitude": 3.0389840602874756,
+   "latitude": 50.61337661743164,
+   "description": "Participez à la réunion d'information collective de présentation du dispositif IOD accompagnement personnalisé de 6 mois avec Impulsions métropole Sud. Médiation directe vers et dans l'emploi. Recrutement sans CV. Critères : - Bénéficiaires RSA réel et payable - Habitants : RONCHIN, FACHES THUMESNIL, TEMPLEMARS, WATTIGNIES, LILLE MOULIN, LILLE FIVES, SAINT MAURICE PELLEVOISIN, LILLE CENTRE, VIEUX LILLE, LEZENNES, LESQUIN, LILLE SUD. - Niveau Bac et infra ",
+   "heureDebut": "13:00:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Recrutement sans CV"
+   ],
+   "publics": [
+    "Bénéficiaires RSA"
+   ],
+   "type": "Réunion d'information",
+   "benefices": [
+    "CDD",
+    "Opportunité d'emploi",
+    "CDI"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "IMPULSIONS METROPOLE SUD",
+     "urlEntreprise": "",
+     "siret": "40300668700012",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "LSI",
+     "urlEntreprise": "",
+     "siret": "81937784700036",
+     "offresId": []
+    }
+   ],
+   "deroulement": "Réunion d'information collective",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 25,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 7,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-16T13:00:00.000+00:00",
+   "titre": "Réunion de présentation dispositif IOD",
+   "codesRome": [
+    "K22"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/777826",
+   "libelleEtablissement": "Agence LILLE GRAND SUD",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1353187,
+     "dateHeureDebut": "2026-11-16T13:00:00Z",
+     "dateHeureFin": "2026-11-16T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 25,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 7
+    }
+   ]
+  },
+  {
+   "id": 758349,
+   "ville": "La Madeleine",
+   "codePostal": "59110",
+   "codeInsee": "59368",
+   "longitude": 3.07265305519104,
+   "latitude": 50.645626068115234,
+   "description": "Vous souhaitez des informations sur la pension d'invalidité ? Un conseiller CPAM sera présent à l'agence de La Madeleine pour tout vous expliquer : Conditions d'accès Maintien de la pension Cumul avec d'autres allocations ou un salaire : la réunion est exclusivement réservée aux demandeurs d'emploi de l'agence de La Madeleine",
+   "heureDebut": "09:30:00",
+   "heureFin": "11:00:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "HANDISCUTER"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "S'informer"
+   ],
+   "publics": [
+    "Personnes en situation de handicap"
+   ],
+   "type": "Réunion d'information",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "Dans le cadre de la SEEPH (semaine pour l'emploi des personnes en situation de handicap), la CPAM animera une réunion d'informations en agence, sur les généralités et la pension d'invalidité. A la fin de la réunion, les agents CPAM répondront à vos questions.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 12,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 2,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-17T09:30:00.000+00:00",
+   "titre": "CPAM : modalités de la pension d'invalidité (réservé aux demandeurs d'emploi de l'agence de La Madeleine)",
+   "codesRome": [
+    "A"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/758349",
+   "libelleEtablissement": "Agence LA MADELEINE",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1329169,
+     "dateHeureDebut": "2026-11-17T09:30:00Z",
+     "dateHeureFin": "2026-11-17T11:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 12,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 2
+    }
+   ]
+  },
+  {
+   "id": 773545,
+   "ville": "Villeneuve-d'Ascq",
+   "codePostal": "59493",
+   "codeInsee": "59009",
+   "longitude": 3.157183885574341,
+   "latitude": 50.60606002807617,
+   "description": " Vous êtes inscrit au JOB DATING Métiers de la propreté du 19 nov 2026 Vous souhaitez vous préparer au Job Dating du 19 novembre à la maison des métiers de la propreté de Villeneuve d'Ascq ? Inscrivez vous à l'Action STARTER ! Déroulé de l'Action : Mercredi Matin à partir de 9h30 Présentation de l'Action Atelier Métiers Quizz Préparation Rencontre Employeur comment aborder son Handicap en Entretien L'après midi à partir de 14h Atelier complémentaire métier Démonstration matérielle Visite INHNI Rencontre entreprise : - Enseigne et son fonctionnement - Opportunités d'emploi - Exemple de condition de travail détaillée (port de charge, adaptation de poste possible ) Démarquez vous des autres candidats pour le job dating métiers de la propreté du 19 novembre ",
+   "heureDebut": "08:30:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Budapest",
+   "operations": [
+    "La semaine de l'emploi",
+    "Métiers de la propreté",
+    "HANDISCUTER"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Découverte secteur / métier",
+    "Recrutement",
+    "Découverte formation",
+    "Marché du travail",
+    "Coaching",
+    "Se préparer",
+    "S'informer",
+    "Insertion"
+   ],
+   "publics": [
+    "Personnes en situation de handicap"
+   ],
+   "type": "Atelier",
+   "benefices": [
+    "Rencontre recruteur",
+    "Opportunité d'emploi",
+    "Contrat en alternance"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "AKTO",
+     "urlEntreprise": "",
+     "siret": "85300098200548",
+     "offresId": []
+    }
+   ],
+   "deroulement": "Atelier de préparation réservé aux 20 premiers inscrits ! Nombres de places limitées. Mercredi 9h30 / 12h et 14h / 16h ",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 12,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 5,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-18T08:30:00.000+00:00",
+   "titre": "ATELIER STARTER avec AKTO Préparez vous au Job Dating Métiers de la propreté du 19 novembre 2026",
+   "codesRome": [
+    "K2205"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/773545",
+   "libelleEtablissement": "Agence SECLIN",
+   "libelleOrganisateurPrincipal": "Cap Emploi",
+   "sessions": [
+    {
+     "id": 1347943,
+     "dateHeureDebut": "2026-11-18T08:30:00Z",
+     "dateHeureFin": "2026-11-18T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 12,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 5
+    }
+   ]
+  },
+  {
+   "id": 713114,
+   "ville": "Hem",
+   "codePostal": "59510",
+   "codeInsee": "59299",
+   "longitude": 3.1904149055480957,
+   "latitude": 50.66350555419922,
+   "description": "Accueillir et sensibiliser : informer et détecter les porteurs de projets Accompagner à la création/reprise : structurer l'idée, élaborer le business plan, sécuriser le parcours. Former : proposer des modules adaptés aux créateurs/repreneurs. Tester son activité : via la couveuse d'entreprises Incubatest, permettant de tester un projet en grandeur réelle avant de créer son entreprise. Soutenir après la création : suivi et conseils dans les premières années d'activité ",
+   "heureDebut": "13:00:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "#TousMobilisés"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Création d'entreprise",
+    "S'informer",
+    "Insertion"
+   ],
+   "publics": [
+    "Résidents en quartier prioritaire de la ville",
+    "Tout public"
+   ],
+   "type": "Réunion d'information",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "BGE HAUTS DE FRANCE",
+     "urlEntreprise": "",
+     "siret": "39229727100398",
+     "offresId": []
+    }
+   ],
+   "deroulement": "Permanence pour présenter l'action \"ALLEZ VERS \" ",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 10,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 4,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-18T13:00:00.000+00:00",
+   "titre": "Action \"ALLEZ VERS\" avec la BGE - réservé au public de HEM QPV",
+   "codesRome": [
+    "A1102",
+    "D13"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/713114",
+   "libelleEtablissement": "Agence HEM",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1282832,
+     "dateHeureDebut": "2026-11-18T13:00:00Z",
+     "dateHeureFin": "2026-11-18T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 10,
+     "nombreInscritDistanceSession": 0,
+     "nombreInscritPresentielSession": 4
+    }
+   ]
+  },
+  {
+   "id": 769171,
+   "ville": "Lille",
+   "codePostal": "59800",
+   "codeInsee": "59350",
+   "longitude": 3.0597031116485596,
+   "latitude": 50.63310623168945,
+   "description": "Rejoignez nous pour un atelier unique où vous pourrez explorer et affiner votre projet professionnel grâce à des outils innovants. Cet atelier vous permettra de découvrir des métiers passionnants et des secteurs d'activités correspondants à vos compétences. Vous aurez l'opportunité d'utiliser des bornes interactives Yookan pour identifier vos compétences et explorer des secteurs d'activités qui vous correspondent. Ensuite, vous pourrez plonger dans l'univers de la réalité virtuelle avec des casques VR pour découvrir des métiers de manière immersive. Cet atelier est conçu pour vous aider à mieux comprendre vos aspirations professionnelles et à découvrir de nouvelles opportunités. Ne manquez pas cette occasion unique de booster votre projet professionnel avec des outils de pointe.",
+   "heureDebut": "13:00:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Découverte secteur / métier"
+   ],
+   "publics": [
+    "Jeunes"
+   ],
+   "type": "Atelier",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "Étape 1 : Utilisation des bornes interactives Yookan pour travailler sur votre projet professionnel et identifier des compétences et des secteurs d'activités correspondants. Étape 2 : Utilisation des casques de réalité virtuelle pour découvrir des métiers de manière immersive.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 8,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 3,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-25T13:00:00.000+00:00",
+   "titre": "Atelier immersif YOOKAN : explorez des métiers grâce à la réalité virtuelle et les bornes interactives. Uniquement pour les demandeurs d'emplois suivi par France Travail CROIX",
+   "codesRome": [
+    "I1308"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/769171",
+   "libelleEtablissement": "Agence CROIX",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1342763,
+     "dateHeureDebut": "2026-11-25T13:00:00Z",
+     "dateHeureFin": "2026-11-25T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 8,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 3
+    }
+   ]
+  },
+  {
+   "id": 721651,
+   "ville": "Lille",
+   "codePostal": "59000",
+   "codeInsee": "59350",
+   "longitude": 3.0326590538024902,
+   "latitude": 50.627254486083984,
+   "description": "Pour les personnes bénéficiaires du RSA, l'objectif de la Méthode IOD est de la médiation directe vers et dans l'emploi: CDI, CDD, intérim sur 6 mois, CDDI. Critères : - Bénéficiaires RSA réel et payable Présentation de l'accompagnement IOD (Intervention sur l'Offre et la Demande), une méthode innovante et personnalisée pour faciliter votre retour à l'emploi. Découverte d'opportunités concrètes : des offres d'emploi adaptées seront présentées et proposées. Impulsions Métropole Sud: Résider sur les quartiers : Vieux Lille, Lille Centre Lille Sud Insertion: Résider sur les quartiers : Vauban Esquermes, Faubourg de Béthune, Wazemmes * Favoriser les contacts avec les Employeurs dans le cadre de recrutement, * Vous proposer des offres d'emploi, sous contrat de travail d'une durée minimale de 1 mois * Vous positionner sur des offres d'emploi * Vous accompagner dans la mise en relation avec l'employeur * Vous suivre pendant la période d'intégration en Entreprise * Candidature sans CV ",
+   "heureDebut": "13:30:00",
+   "heureFin": "14:30:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Recrutement",
+    "Recrutement sans CV",
+    "Aides à l'emploi"
+   ],
+   "publics": [
+    "Bénéficiaires RSA"
+   ],
+   "type": "Réunion d'information",
+   "benefices": [
+    "Rencontre recruteur",
+    "CDD",
+    "Opportunité d'emploi",
+    "CDI"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "IMPULSIONS METROPOLE SUD",
+     "urlEntreprise": "",
+     "siret": "40300668700020",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "LILLE SUD INSERTION",
+     "urlEntreprise": "",
+     "siret": "40193200900046",
+     "offresId": []
+    }
+   ],
+   "deroulement": "Présentation du dispositif Méthode IOD par les 2 structures Impulsions Métropole Sud et Lille Sud Insertion qui seront présentes. - Information de l'accompagnement individuel durant les 6 mois - Informations sur les offres d'emplois et le suivi du candidat Échanges avec nos conseillers et professionnels pour répondre à toutes vos questions. ",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 25,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 6,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-26T13:30:00.000+00:00",
+   "titre": "Présentation Méthode IOD pour BRSA ( Bénéficiaires du RSA) RESERVE AUX DEMANDEURS DE L'AGENCE LILLE PORT FLUVIAL",
+   "codesRome": [
+    "G",
+    "K1801",
+    "K2204"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/721651",
+   "libelleEtablissement": "Agence LILLE PORT FLUVIAL",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1289022,
+     "dateHeureDebut": "2026-11-26T13:30:00Z",
+     "dateHeureFin": "2026-11-26T14:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 25,
+     "nombreInscritDistanceSession": 0,
+     "nombreInscritPresentielSession": 6
+    }
+   ]
+  },
+  {
+   "id": 785244,
+   "ville": "Hem",
+   "codePostal": "59510",
+   "codeInsee": "59299",
+   "longitude": 3.2000479698181152,
+   "latitude": 50.669925689697266,
+   "description": "Venez rencontrer le centre de formation Ordinat'Hem qui propose des formations dans le numérique ainsi que des remises à niveau. ",
+   "heureDebut": "08:30:00",
+   "heureFin": "10:30:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "#TousMobilisés"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Découverte formation",
+    "S'informer"
+   ],
+   "publics": [
+    "Bénéficiaires RSA",
+    "Tout public"
+   ],
+   "type": "Réunion d'information",
+   "benefices": [
+    "Formation assurée"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 10,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 4,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-27T08:30:00.000+00:00",
+   "titre": "Rencontre avec Ordinat'Hem (public hémois UNIQUEMENT)",
+   "codesRome": [
+    "K21"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/785244",
+   "libelleEtablissement": "Agence HEM",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1362207,
+     "dateHeureDebut": "2026-11-27T08:30:00Z",
+     "dateHeureFin": "2026-11-27T10:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 10,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 4
+    }
+   ]
+  },
+  {
+   "id": 800171,
+   "ville": "Lille",
+   "codePostal": "59000",
+   "codeInsee": "59350",
+   "longitude": 3.0326590538024902,
+   "latitude": 50.627254486083984,
+   "description": "Venez rencontrer le PLIE (Plan Local pour l'Insertion et l'Emploi) et découvrez leur accompagnement et les possibilités qui s'offre à vous. Uniquement pour les personnes inscrites à l'Agence de France Travail de Lille Port fluvial et non bénéficiaire du RSA.",
+   "heureDebut": "13:00:00",
+   "heureFin": "15:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "S'informer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Réunion d'information",
+   "benefices": [
+    "Opportunité d'emploi"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 25,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 0,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-12-15T13:00:00.000+00:00",
+   "titre": "Réunion d'information en vue de l'intégration en accompagnement avec le PLIE ",
+   "codesRome": [
+    "K1801"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/800171",
+   "libelleEtablissement": "Agence LILLE PORT FLUVIAL",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1381246,
+     "dateHeureDebut": "2026-12-15T13:00:00Z",
+     "dateHeureFin": "2026-12-15T15:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 25,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": null
+    }
+   ]
+  },
+  {
+   "id": 772284,
+   "ville": "Lille",
+   "codePostal": "59800",
+   "codeInsee": "59350",
+   "longitude": 3.0597031116485596,
+   "latitude": 50.63310623168945,
+   "description": "Vous avez repéré une formation financée par la Région et souhaitez y accéder avec toutes les cartes en main ? Cet atelier est fait pour vous ! Rejoignez-nous pour une session pratique et dynamique qui vous guidera pas à pas à travers toutes les étapes essentielles, de votre inscription jusqu'à la fin de votre formation. Au programme : - Réunions d'information collective : Comprenez ce qu'on attend de vous et préparez-vous efficacement. - Entretien de motivation : Découvrez les clés pour convaincre et réussir. - Tests de sélection : Anticipez les épreuves pour éviter les mauvaises surprises. - Aspects pratiques : Faites le point sur la rémunération, les aides financières, et vos droits pendant la formation. Pourquoi participer ? - Boostez votre confiance avant de vous lancer. - Optimisez vos chances de réussite dès le départ. - Échangez avec nos experts pour obtenir des réponses concrètes à toutes vos questions.",
+   "heureDebut": "08:30:00",
+   "heureFin": "11:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Découverte formation"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Atelier",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 30,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 9,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-10T08:30:00.000+00:00",
+   "titre": "La formation financée par la région - mode d'emploi",
+   "codesRome": [
+    "A"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/772284",
+   "libelleEtablissement": "Agence La Halle Lille Métropole",
+   "libelleOrganisateurPrincipal": "La Halle de l'emploi",
+   "sessions": [
+    {
+     "id": 1346461,
+     "dateHeureDebut": "2026-11-10T08:30:00Z",
+     "dateHeureFin": "2026-11-10T11:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 30,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 9
+    }
+   ]
+  },
+  {
+   "id": 799316,
+   "ville": "Tourcoing",
+   "codePostal": "59200",
+   "codeInsee": "59599",
+   "longitude": 3.163106918334961,
+   "latitude": 50.72117233276367,
+   "description": " L'entreprise Urban Renov intervient sur des chantiers de rénovation et de second oeuvre dans toute la Métropole lilloise. Dans le cadre de son développement, la structure recrute environ 15 salariés en contrat d'insertion. Ces contrats permettent d'acquérir une première expérience dans les métiers du bâtiment, avec un accompagnement. Vous êtes attendus a 9H pour une présentation et un entretien, n'oubliez pas votre CV ",
+   "heureDebut": "08:00:00",
+   "heureFin": "11:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Insertion"
+   ],
+   "publics": [
+    "Bénéficiaires RSA"
+   ],
+   "type": "Job dating",
+   "benefices": [
+    "CDD"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": " Vos missions Sous la responsabilité d'un encadrant de chantier, vous participerez aux travaux de second oeuvre, par exemple : préparation et protection des chantiers (bâchage, évacuation des gravats, nettoyage) ; travaux de peinture : préparation des supports, ponçage, enduits, mise en peinture ; pose de revêtements de sols et de murs ; petits travaux de plâtrerie et de pose de cloisons ou de plaques de plâtre ; manutention et approvisionnement en matériaux ; respect des consignes de sécurité et port des équipements de protection. Conditions du poste Contrat : CDDI (contrat à durée déterminée d'insertion) Durée hebdomadaire : 29 heures, du lundi au jeudi",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 20,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 5,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-09T08:00:00.000+00:00",
+   "titre": "Urban Renov recrute environ 15 salariés en contrat d'insertion. Ces contrats permettent d'acquérir une première expérience dans les métiers du bâtiment, avec un accompagnement.",
+   "codesRome": [
+    "F1704"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/799316",
+   "libelleEtablissement": "CONSEIL DEPARTEMENTAL 59 ",
+   "libelleOrganisateurPrincipal": "Conseil départemental du Nord (59)",
+   "sessions": [
+    {
+     "id": 1380179,
+     "dateHeureDebut": "2026-11-09T08:00:00Z",
+     "dateHeureFin": "2026-11-09T11:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 20,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 5
+    }
+   ]
+  },
+  {
+   "id": 782962,
+   "ville": "Tourcoing",
+   "codePostal": "59200",
+   "codeInsee": "59599",
+   "longitude": 3.172089099884033,
+   "latitude": 50.717769622802734,
+   "description": "Venez rencontrer le PLIE (Plan Local pour l'Insertion et l'Emploi) et découvrez son offre de services et ses possibilités d'accompagnement.",
+   "heureDebut": "13:00:00",
+   "heureFin": "14:30:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Aides à l'emploi",
+    "S'informer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Réunion d'information",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "Présentation de l'accompagnement PLIE pour le secteur de Tourcoing. Un entretien personnalisé avec un premier rendez-vous vous sera proposé à l'issue de l'événement.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 30,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 12,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-09T13:00:00.000+00:00",
+   "titre": " Présentation de l' accompagnement PLIE ",
+   "codesRome": [
+    "K1801"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/782962",
+   "libelleEtablissement": "Agence TOURCOING",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1359563,
+     "dateHeureDebut": "2026-11-09T13:00:00Z",
+     "dateHeureFin": "2026-11-09T14:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 30,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 12
+    }
+   ]
+  },
+  {
+   "id": 758625,
+   "ville": "Lille",
+   "codePostal": "59800",
+   "codeInsee": "59350",
+   "longitude": 3.0597031116485596,
+   "latitude": 50.63310623168945,
+   "description": "Après le succès de notre première édition, la Halle de l'Emploi est ravie de vous convier à la 2ème édition de son forum thématique dédié à l'évolution des modes de travail. Que vous souhaitiez vous lancer à votre compte ou compléter vos revenus, cet événement est conçu pour vous ouvrir des portes inédites. Pour répondre à toutes vos envies de changement, nous avons réuni des partenaires spécialisés. Ne laissez pas votre avenir au hasard, venez construire votre \"autre\" façon de travailler ! Retrouvez nos partenaires : Actual, COOP RH, APEC, Hauts les COOPS, Aware Poratge, CCI, OUICARE, AXA, Bras droit des Dirigeants, Cap Finances, ASD Immobilier, Reconversion en franchise pour les femmes, Edelvi marketing, Success Portage, Heytens, La Compagnie des toits, Age d'Or, Toerana Habitat, ASR Nettoyage",
+   "heureDebut": "08:30:00",
+   "heureFin": "09:30:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "#TousMobilisés"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Découverte secteur / métier",
+    "Recrutement",
+    "Création d'entreprise",
+    "Marché du travail",
+    "S'informer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Forum",
+   "benefices": [
+    "Rencontre recruteur",
+    "Opportunité d'emploi",
+    "Temps partiel"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "ASSOCIATION POUR L'EMPLOI DES CADRES",
+     "urlEntreprise": "",
+     "siret": "77567223101748",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "MR CONCEPT",
+     "urlEntreprise": "",
+     "siret": "88447617700024",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "ASD PATRIMOINE",
+     "urlEntreprise": "",
+     "siret": "78945950000060",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "EDELVI FIELD MARKETING",
+     "urlEntreprise": "",
+     "siret": "81162442800108",
+     "offresId": []
+    }
+   ],
+   "deroulement": "1 Cap sur l'entrepreneuriat et l'indépendance : Vous rêvez de liberté et d'autonomie ? Rencontrez des professionnels qui vous accompagneront dans les activités non salariées : - Reprise d'entreprise : Pour reprendre une activité déjà existante. - Franchise : Entreprendre en bénéficiant d'un concept et ne pas partir de zéro. - Portage salarial : Pour allier statut d'indépendant et protection sociale. - Coopérative : Pour travailler ensemble de manière structurée. 2 Boostez votre activité avec le complément de revenus : Vous souhaitez conserver une activité principale tout en développant une source de revenus supplémentaire ? Agences d'intérim : Pour des missions flexibles et adaptées à votre emploi du temps. CCI & Dispositif ARDAN : Découvrez l'accompagnement spécifique de la Chambre de Commerce et d'Industrie pour sécuriser et structurer votre projet de complément d'activité.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 90,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 83,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-09T08:30:00.000+00:00",
+   "titre": "Forum \"Travailler autrement\" : Explorez de nouveaux horizons professionnels !",
+   "codesRome": [
+    "D1415"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/758625",
+   "libelleEtablissement": "Agence La Halle Lille Métropole",
+   "libelleOrganisateurPrincipal": "La Halle de l'emploi",
+   "sessions": [
+    {
+     "id": 1329537,
+     "dateHeureDebut": "2026-11-09T08:30:00Z",
+     "dateHeureFin": "2026-11-09T09:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 90,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 83
+    }
+   ]
+  },
+  {
+   "id": 801121,
+   "ville": "Tourcoing",
+   "codePostal": "59200",
+   "codeInsee": "59599",
+   "longitude": 3.165747880935669,
+   "latitude": 50.713958740234375,
+   "description": "Cette journée sera l'occasion de découvrir notre plateau technique, les modalités de formation et les débouchés professionnels du secteur de la propreté et de l'hygiène.",
+   "heureDebut": "08:30:00",
+   "heureFin": "15:30:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Découverte secteur / métier",
+    "Découverte formation"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Portes ouvertes",
+   "benefices": [
+    "Formation assurée",
+    "Formation financée"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "INNOVATION DEVELOPPEMENT FORMATION",
+     "urlEntreprise": "https://id-formation.com/",
+     "siret": "40073444800022",
+     "offresId": []
+    }
+   ],
+   "deroulement": "Nous accueillerons : Les candidats souhaitant découvrir le métier et envisager une entrée en formation ; Les entreprises souhaitant visiter notre centre, rencontrer nos équipes et échanger sur leurs besoins en recrutement ; Les partenaires de l'emploi et de la formation souhaitant découvrir notre dispositif et envisager de futures collaborations. Nous serons ravis de vous accueillir pour cette journée placée sous le signe de la découverte, de l'échange et de la collaboration.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 100,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 1,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-12T08:30:00.000+00:00",
+   "titre": "Journée Portes Ouvertes découverte Formation Agent de Propreté et d'Hygiène ID FORMATION ",
+   "codesRome": [
+    "K22"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/801121",
+   "libelleEtablissement": "CONSEIL DEPARTEMENTAL 59 ",
+   "libelleOrganisateurPrincipal": "Conseil départemental du Nord (59)",
+   "sessions": [
+    {
+     "id": 1382373,
+     "dateHeureDebut": "2026-11-12T08:30:00Z",
+     "dateHeureFin": "2026-11-12T15:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 100,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 1
+    }
+   ]
+  },
+  {
+   "id": 789076,
+   "ville": "Toufflers",
+   "codePostal": "59390",
+   "codeInsee": "59598",
+   "longitude": 3.229012966156006,
+   "latitude": 50.667720794677734,
+   "description": "Participez à une matinée immersive lors de la Semaine de l'Industrie pour découvrir deux entreprises locales engagées dans des secteurs clés : Francopur, spécialisée dans le traitement et la finition de surfaces métalliques, et Swistek, un atelier de métallerie dynamique. Cette visite vous permettra de : - comprendre les métiers de la métallerie et du traitement des surfaces, - échanger avec des professionnels pour en savoir plus sur leurs parcours et leurs besoins en recrutement, - découvrir des environnements de travail innovants et des technologies de pointe, - élargir vos opportunités en identifiant des pistes concrètes pour votre projet professionnel. - Une occasion unique de rencontrer des employeurs locaux et de trouver des idées pour votre avenir professionnel. ",
+   "heureDebut": "08:00:00",
+   "heureFin": "10:00:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "La semaine de l'industrie"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Découverte secteur / métier"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Visites d'entreprise",
+   "benefices": [
+    "Rencontre recruteur"
+   ],
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [
+    {
+     "id": null,
+     "raisonSociale": "SWISTEK",
+     "urlEntreprise": "",
+     "siret": "88220920800017",
+     "offresId": []
+    },
+    {
+     "id": null,
+     "raisonSociale": "FRANCOPUR",
+     "urlEntreprise": "",
+     "siret": "38265056200038",
+     "offresId": []
+    }
+   ],
+   "deroulement": "9h00 - 9h55: Visite de Francopur (traitement et finition de surfaces métalliques) 9h55 - 10h00 : Trajet vers Swistek 10h00 - 11h00: Visite de Swistek (métallerie)",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 9,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 9,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-16T08:00:00.000+00:00",
+   "titre": "Venez visiter les entreprises FRANCOPUR et Swistek- Semaine industrie",
+   "codesRome": [
+    "H"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/789076",
+   "libelleEtablissement": "Agence HEM",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1367109,
+     "dateHeureDebut": "2026-11-16T08:00:00Z",
+     "dateHeureFin": "2026-11-16T10:00:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 9,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 9
+    }
+   ]
+  },
+  {
+   "id": 731829,
+   "ville": "La Madeleine",
+   "codePostal": "59110",
+   "codeInsee": "59368",
+   "longitude": 3.072129964828491,
+   "latitude": 50.64491271972656,
+   "description": "Venez compléter votre PIX emploi en agence.",
+   "heureDebut": "12:30:00",
+   "heureFin": "13:15:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Se préparer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Permanence",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "rendez-vous individuel en zone d'accueil.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 1,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 1,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-10T12:30:00.000+00:00",
+   "titre": "PIX EMPLOI (la madeleine)",
+   "codesRome": [
+    "M16"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/731829",
+   "libelleEtablissement": "Agence LA MADELEINE",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1297072,
+     "dateHeureDebut": "2026-11-10T12:30:00Z",
+     "dateHeureFin": "2026-11-10T13:15:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 1,
+     "nombreInscritDistanceSession": 0,
+     "nombreInscritPresentielSession": 1
+    }
+   ]
+  },
+  {
+   "id": 794139,
+   "ville": "Tourcoing",
+   "codePostal": "59200",
+   "codeInsee": "59599",
+   "longitude": 3.172089099884033,
+   "latitude": 50.717769622802734,
+   "description": "Qu'est-ce qu'une entreprise handi-engagée ? Comment se rendre visible auprès d'elles ? Vous saurez tout pendant ce webinaire !",
+   "heureDebut": "13:30:00",
+   "heureFin": "14:00:00",
+   "timezone": "Europe/Paris",
+   "operations": [
+    "La semaine du handicap",
+    "HANDISCUTER"
+   ],
+   "diplomes": null,
+   "objectifs": [
+    "Stratégie et techniques de recherches d'emploi"
+   ],
+   "publics": [
+    "Personnes en situation de handicap"
+   ],
+   "type": "Conférence",
+   "benefices": null,
+   "modalites": [
+    "à distance"
+   ],
+   "intervenants": [],
+   "deroulement": "",
+   "nombrePlaceTotalDistance": 80,
+   "nombrePlaceTotalPresentiel": 0,
+   "nombreInscritDistance": 38,
+   "nombreInscritPresentiel": 0,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-18T13:30:00.000+00:00",
+   "titre": "SEEPH 2026 - Handimatch - Soyez visible des entreprises handi-engagées !",
+   "codesRome": [
+    "A",
+    "A11",
+    "A1101"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/794139",
+   "libelleEtablissement": "Agence TOURCOING",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1373364,
+     "dateHeureDebut": "2026-11-18T13:30:00Z",
+     "dateHeureFin": "2026-11-18T14:00:00Z",
+     "nombrePlaceDistanceSession": 80,
+     "nombrePlacePresentielSession": null,
+     "nombreInscritDistanceSession": 38,
+     "nombreInscritPresentielSession": null
+    }
+   ]
+  },
+  {
+   "id": 782668,
+   "ville": "Halluin",
+   "codePostal": "59250",
+   "codeInsee": "59279",
+   "longitude": 3.1241960525512695,
+   "latitude": 50.76945495605469,
+   "description": "Toutes les informations indispensables concernant le suivi de votre accompagnement liées la signature de votre contrat d'engagement.",
+   "heureDebut": "12:30:00",
+   "heureFin": "13:30:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Les outils du numérique",
+    "Se préparer",
+    "S'informer"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Atelier",
+   "benefices": null,
+   "modalites": [
+    "en physique"
+   ],
+   "intervenants": [],
+   "deroulement": "Nous vous informerons sur votre contrat d'engagement, sur les démarches à réaliser et sur les outils que vous pourrez utiliser dans le cadre de votre projet professionnel. Atelier collectif de présentation d'une heure.",
+   "nombrePlaceTotalDistance": 0,
+   "nombrePlaceTotalPresentiel": 20,
+   "nombreInscritDistance": 0,
+   "nombreInscritPresentiel": 19,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-10T12:30:00.000+00:00",
+   "titre": "Atelier \"Démarrer votre parcours d'accompagnement\"",
+   "codesRome": [
+    "N1103"
+   ],
+   "multisectoriel": true,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/782668",
+   "libelleEtablissement": "Agence HALLUIN",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1359176,
+     "dateHeureDebut": "2026-11-10T12:30:00Z",
+     "dateHeureFin": "2026-11-10T13:30:00Z",
+     "nombrePlaceDistanceSession": null,
+     "nombrePlacePresentielSession": 20,
+     "nombreInscritDistanceSession": null,
+     "nombreInscritPresentielSession": 19
+    }
+   ]
+  },
+  {
+   "id": 779151,
+   "ville": "Lille",
+   "codePostal": "59800",
+   "codeInsee": "59350",
+   "longitude": 3.0941009521484375,
+   "latitude": 50.629539489746094,
+   "description": "Lors d'un job dating, vous disposez de quelques minutes pour donner envie au recruteur d'en savoir plus sur vous. Cette visioconférence vous permettra de préparer une présentation courte, claire et convaincante. Vous découvrirez comment parler de votre parcours, mettre en avant vos compétences et expliquer votre motivation sans réciter votre CV. Le lien de connexion sera envoyé par e-mail le matin de la visioconférence. Pensez à vérifier vos courriers indésirables.",
+   "heureDebut": "09:00:00",
+   "heureFin": "10:00:00",
+   "timezone": "Europe/Paris",
+   "operations": null,
+   "diplomes": null,
+   "objectifs": [
+    "Coaching",
+    "Aides à l'emploi"
+   ],
+   "publics": [
+    "Tout public"
+   ],
+   "type": "Atelier",
+   "benefices": [
+    "Développement de compétences"
+   ],
+   "modalites": [
+    "à distance"
+   ],
+   "intervenants": [],
+   "deroulement": "Comprendre les attentes du recruteur lors d'un job dating Identifier les informations essentielles à présenter Construire une présentation claire en quelques minutes Valoriser son parcours, ses compétences et sa motivation Adopter la bonne posture face au recruteur Repérer les erreurs à éviter Temps d'échange et réponses aux questions",
+   "nombrePlaceTotalDistance": 200,
+   "nombrePlaceTotalPresentiel": 0,
+   "nombreInscritDistance": 129,
+   "nombreInscritPresentiel": 0,
+   "nombrePreinscritDistance": 0,
+   "nombrePreinscritPresentiel": 0,
+   "dateEvenement": "2026-11-09T09:00:00.000+00:00",
+   "titre": "Réussir son job dating : convaincre un recruteur en 5 minutes",
+   "codesRome": [
+    "E"
+   ],
+   "multisectoriel": false,
+   "offresId": null,
+   "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/779151",
+   "libelleEtablissement": "Agence LILLE VAUCANSON",
+   "libelleOrganisateurPrincipal": "France Travail",
+   "sessions": [
+    {
+     "id": 1354930,
+     "dateHeureDebut": "2026-11-09T09:00:00Z",
+     "dateHeureFin": "2026-11-09T10:00:00Z",
+     "nombrePlaceDistanceSession": 200,
+     "nombrePlacePresentielSession": null,
+     "nombreInscritDistanceSession": 129,
+     "nombreInscritPresentielSession": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+  "totalElements": 252,
+  "content": [
+    {
+      "id": 799316,
+      "ville": "Tourcoing",
+      "codePostal": "59200",
+      "codeInsee": "59599",
+      "longitude": 3.163106918334961,
+      "latitude": 50.72117233276367,
+      "description": " L'entreprise Urban Renov intervient sur des chantiers de rénovation et de second oeuvre dans toute la Métropole lilloise. Dans le cadre de son développement, la structure recrute environ 15 salariés en contrat d'insertion. Ces contrats permettent d'acquérir une première expérience dans les métiers du bâtiment, avec un accompagnement. Vous êtes attendus a 9H pour une présentation et un entretien, n'oubliez pas votre CV ",
+      "heureDebut": "08:00:00",
+      "heureFin": "11:00:00",
+      "timezone": "Europe/Paris",
+      "operations": null,
+      "diplomes": null,
+      "objectifs": [
+        "Insertion"
+      ],
+      "publics": [
+        "Bénéficiaires RSA"
+      ],
+      "type": "Job dating",
+      "benefices": [
+        "CDD"
+      ],
+      "modalites": [
+        "en physique"
+      ],
+      "intervenants": [],
+      "deroulement": " Vos missions Sous la responsabilité d'un encadrant de chantier, vous participerez aux travaux de second oeuvre, par exemple : préparation et protection des chantiers (bâchage, évacuation des gravats, nettoyage) ; travaux de peinture : préparation des supports, ponçage, enduits, mise en peinture ; pose de revêtements de sols et de murs ; petits travaux de plâtrerie et de pose de cloisons ou de plaques de plâtre ; manutention et approvisionnement en matériaux ; respect des consignes de sécurité et port des équipements de protection. Conditions du poste Contrat : CDDI (contrat à durée déterminée d'insertion) Durée hebdomadaire : 29 heures, du lundi au jeudi",
+      "nombrePlaceTotalDistance": 0,
+      "nombrePlaceTotalPresentiel": 20,
+      "nombreInscritDistance": 0,
+      "nombreInscritPresentiel": 4,
+      "nombrePreinscritDistance": 0,
+      "nombrePreinscritPresentiel": 0,
+      "dateEvenement": "2026-11-09T08:00:00.000+00:00",
+      "titre": "Urban Renov recrute environ 15 salariés en contrat d'insertion. Ces contrats permettent d'acquérir une première expérience dans les métiers du bâtiment, avec un accompagnement.",
+      "codesRome": [
+        "F1704"
+      ],
+      "multisectoriel": false,
+      "offresId": null,
+      "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/799316",
+      "libelleEtablissement": "CONSEIL DEPARTEMENTAL 59 ",
+      "libelleOrganisateurPrincipal": "Conseil départemental du Nord (59)",
+      "sessions": [
+        {
+          "id": 1380179,
+          "dateHeureDebut": "2026-11-09T08:00:00Z",
+          "dateHeureFin": "2026-11-09T11:00:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 20,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 4
+        }
+      ]
+    },
+    {
+      "id": 734169,
+      "ville": "Haubourdin",
+      "codePostal": "59320",
+      "codeInsee": "59286",
+      "longitude": 2.985960006713867,
+      "latitude": 50.61027526855469,
+      "description": "Rejoignez-nous pour une session de recherche d'emploi interactive et personnalisée dans les Weppes, de Loos à La Bassée et au-delà. Cet événement est ouvert à tous, quel que soit votre secteur ou votre métier. Accompagné(e) par un conseiller, vous découvrez les applications qui vous permettent de rechercher des opportunités en autonomie, que ce soit depuis votre smartphone ou votre ordinateur. En groupe, nous échangeons sur les offres, les événements et les opportunités disponibles. Vous pouvez vous positionner sur les offres les plus pertinentes pour vos recherches. Ne manquez pas cette occasion de booster votre recherche d'emploi avec des outils et des conseils adaptés à vos besoins.",
+      "heureDebut": "08:30:00",
+      "heureFin": "11:00:00",
+      "timezone": "Europe/Paris",
+      "operations": [
+        "#TousMobilisés"
+      ],
+      "diplomes": null,
+      "objectifs": [
+        "Recrutement sans CV",
+        "Marché du travail",
+        "Aides à l'emploi"
+      ],
+      "publics": [
+        "Tout public"
+      ],
+      "type": "Atelier",
+      "benefices": [
+        "Opportunité d'emploi"
+      ],
+      "modalites": [
+        "en physique"
+      ],
+      "intervenants": [],
+      "deroulement": "Durée : 1 heure 15 Accueil et présentation de la session. Découverte des applications de recherche d'emploi avec un conseiller. Échange en groupe sur les offres et opportunités disponibles. Positionnement avec le conseiller sur les offres les plus pertinentes.",
+      "nombrePlaceTotalDistance": 0,
+      "nombrePlaceTotalPresentiel": 10,
+      "nombreInscritDistance": 0,
+      "nombreInscritPresentiel": 9,
+      "nombrePreinscritDistance": 0,
+      "nombrePreinscritPresentiel": 0,
+      "dateEvenement": "2026-11-09T08:30:00.000+00:00",
+      "titre": "Trouvez les meilleures opportunités d'emploi du territoire avec l'aide d'un conseiller expert, en participant à la ruche de l'agence d'Haubourdin",
+      "codesRome": [
+        "D",
+        "K13",
+        "M16"
+      ],
+      "multisectoriel": true,
+      "offresId": null,
+      "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/734169",
+      "libelleEtablissement": "Agence HAUBOURDIN",
+      "libelleOrganisateurPrincipal": "France Travail",
+      "sessions": [
+        {
+          "id": 1299742,
+          "dateHeureDebut": "2026-11-09T08:30:00Z",
+          "dateHeureFin": "2026-11-09T09:45:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 5,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 5
+        },
+        {
+          "id": 1300033,
+          "dateHeureDebut": "2026-11-09T09:45:00Z",
+          "dateHeureFin": "2026-11-09T11:00:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 5,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 4
+        }
+      ]
+    },
+    {
+      "id": 758625,
+      "ville": "Lille",
+      "codePostal": "59800",
+      "codeInsee": "59350",
+      "longitude": 3.0597031116485596,
+      "latitude": 50.63310623168945,
+      "description": "Après le succès de notre première édition, la Halle de l'Emploi est ravie de vous convier à la 2ème édition de son forum thématique dédié à l'évolution des modes de travail. Que vous souhaitiez vous lancer à votre compte ou compléter vos revenus, cet événement est conçu pour vous ouvrir des portes inédites. Pour répondre à toutes vos envies de changement, nous avons réuni des partenaires spécialisés. Ne laissez pas votre avenir au hasard, venez construire votre \"autre\" façon de travailler ! Retrouvez nos partenaires : Actual, COOP RH, APEC, Hauts les COOPS, Aware Poratge, CCI, OUICARE, AXA, Bras droit des Dirigeants, Cap Finances, ASD Immobilier, Reconversion en franchise pour les femmes, Edelvi marketing, Success Portage, Heytens, La Compagnie des toits, Age d'Or, Toerana Habitat, ASR Nettoyage",
+      "heureDebut": "08:30:00",
+      "heureFin": "09:30:00",
+      "timezone": "Europe/Paris",
+      "operations": [
+        "#TousMobilisés"
+      ],
+      "diplomes": null,
+      "objectifs": [
+        "Découverte secteur / métier",
+        "Création d'entreprise",
+        "Recrutement",
+        "Marché du travail",
+        "S'informer"
+      ],
+      "publics": [
+        "Tout public"
+      ],
+      "type": "Forum",
+      "benefices": [
+        "Rencontre recruteur",
+        "Opportunité d'emploi",
+        "Temps partiel"
+      ],
+      "modalites": [
+        "en physique"
+      ],
+      "intervenants": [
+        {
+          "id": null,
+          "raisonSociale": "ASSOCIATION POUR L'EMPLOI DES CADRES",
+          "urlEntreprise": "",
+          "siret": "77567223101748",
+          "offresId": []
+        },
+        {
+          "id": null,
+          "raisonSociale": "MR CONCEPT",
+          "urlEntreprise": "",
+          "siret": "88447617700024",
+          "offresId": []
+        },
+        {
+          "id": null,
+          "raisonSociale": "ASD PATRIMOINE",
+          "urlEntreprise": "",
+          "siret": "78945950000060",
+          "offresId": []
+        },
+        {
+          "id": null,
+          "raisonSociale": "EDELVI FIELD MARKETING",
+          "urlEntreprise": "",
+          "siret": "81162442800108",
+          "offresId": []
+        }
+      ],
+      "deroulement": "1 Cap sur l'entrepreneuriat et l'indépendance : Vous rêvez de liberté et d'autonomie ? Rencontrez des professionnels qui vous accompagneront dans les activités non salariées : - Reprise d'entreprise : Pour reprendre une activité déjà existante. - Franchise : Entreprendre en bénéficiant d'un concept et ne pas partir de zéro. - Portage salarial : Pour allier statut d'indépendant et protection sociale. - Coopérative : Pour travailler ensemble de manière structurée. 2 Boostez votre activité avec le complément de revenus : Vous souhaitez conserver une activité principale tout en développant une source de revenus supplémentaire ? Agences d'intérim : Pour des missions flexibles et adaptées à votre emploi du temps. CCI & Dispositif ARDAN : Découvrez l'accompagnement spécifique de la Chambre de Commerce et d'Industrie pour sécuriser et structurer votre projet de complément d'activité.",
+      "nombrePlaceTotalDistance": 0,
+      "nombrePlaceTotalPresentiel": 90,
+      "nombreInscritDistance": 0,
+      "nombreInscritPresentiel": 84,
+      "nombrePreinscritDistance": 0,
+      "nombrePreinscritPresentiel": 0,
+      "dateEvenement": "2026-11-09T08:30:00.000+00:00",
+      "titre": "Forum \"Travailler autrement\" : Explorez de nouveaux horizons professionnels !",
+      "codesRome": [
+        "D1415"
+      ],
+      "multisectoriel": true,
+      "offresId": null,
+      "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/758625",
+      "libelleEtablissement": "Agence La Halle Lille Métropole",
+      "libelleOrganisateurPrincipal": "La Halle de l'emploi",
+      "sessions": [
+        {
+          "id": 1329537,
+          "dateHeureDebut": "2026-11-09T08:30:00Z",
+          "dateHeureFin": "2026-11-09T09:30:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 90,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 84
+        }
+      ]
+    },
+    {
+      "id": 788985,
+      "ville": "Lille",
+      "codePostal": "59000",
+      "codeInsee": "59350",
+      "longitude": 3.0326590538024902,
+      "latitude": 50.627254486083984,
+      "description": "Cet événement vous offre l'opportunité de rencontrer directement SUPPLAY qui recrute pour ILEVIA. Nous vous proposons un Titre Professionnel Conducteur de transport en commun sur route 3 mois financé. Concernant le poste à pourvoir par la suite : 18 mois d'intérim chez ILEVIA. Les horaires sont très larges, il faut être disponible et flexible (7j/7j, amplitude horaires 4h-2h). Prérequis : - Avoir plus de 21 ans - 1 ans de permis minimum - Casier judiciaire vierge Les attendus sont une conduite en sécurité, un relationnel client et une présentation impeccable. Le profil tramway va demander en plus une expérience plus technique avec des expériences qui vont nécessiter une habilitation manuelle, si possible électrique. Inscrivez-vous dès maintenant pour bénéficier de cette opportunité et intégrer une formation de qualité.",
+      "heureDebut": "08:30:00",
+      "heureFin": "10:30:00",
+      "timezone": "Europe/Paris",
+      "operations": null,
+      "diplomes": null,
+      "objectifs": [
+        "Recrutement"
+      ],
+      "publics": [
+        "Tout public"
+      ],
+      "type": "Job dating",
+      "benefices": [
+        "Formation assurée",
+        "Opportunité d'emploi",
+        "Formation financée"
+      ],
+      "modalites": [
+        "en physique"
+      ],
+      "intervenants": [],
+      "deroulement": "Réunion d'information collective suivi d'entretiens individuels",
+      "nombrePlaceTotalDistance": 0,
+      "nombrePlaceTotalPresentiel": 21,
+      "nombreInscritDistance": 0,
+      "nombreInscritPresentiel": 20,
+      "nombrePreinscritDistance": 0,
+      "nombrePreinscritPresentiel": 0,
+      "dateEvenement": "2026-11-09T08:30:00.000+00:00",
+      "titre": "Recrutement formation chauffeur de bus/tramway (H/F) SUPPLAY - ILEVIA",
+      "codesRome": [
+        "N4103"
+      ],
+      "multisectoriel": false,
+      "offresId": null,
+      "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/788985",
+      "libelleEtablissement": "Agence LILLE PORT FLUVIAL",
+      "libelleOrganisateurPrincipal": "France Travail",
+      "sessions": [
+        {
+          "id": 1366987,
+          "dateHeureDebut": "2026-11-09T08:30:00Z",
+          "dateHeureFin": "2026-11-09T09:30:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 11,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 10
+        },
+        {
+          "id": 1366988,
+          "dateHeureDebut": "2026-11-09T09:30:00Z",
+          "dateHeureFin": "2026-11-09T10:30:00Z",
+          "nombrePlaceDistanceSession": null,
+          "nombrePlacePresentielSession": 10,
+          "nombreInscritDistanceSession": null,
+          "nombreInscritPresentielSession": 10
+        }
+      ]
+    },
+    {
+      "id": 779151,
+      "ville": "Lille",
+      "codePostal": "59800",
+      "codeInsee": "59350",
+      "longitude": 3.0941009521484375,
+      "latitude": 50.629539489746094,
+      "description": "Lors d'un job dating, vous disposez de quelques minutes pour donner envie au recruteur d'en savoir plus sur vous. Cette visioconférence vous permettra de préparer une présentation courte, claire et convaincante. Vous découvrirez comment parler de votre parcours, mettre en avant vos compétences et expliquer votre motivation sans réciter votre CV. Le lien de connexion sera envoyé par e-mail le matin de la visioconférence. Pensez à vérifier vos courriers indésirables.",
+      "heureDebut": "09:00:00",
+      "heureFin": "10:00:00",
+      "timezone": "Europe/Paris",
+      "operations": null,
+      "diplomes": null,
+      "objectifs": [
+        "Coaching",
+        "Aides à l'emploi"
+      ],
+      "publics": [
+        "Tout public"
+      ],
+      "type": "Atelier",
+      "benefices": [
+        "Développement de compétences"
+      ],
+      "modalites": [
+        "à distance"
+      ],
+      "intervenants": [],
+      "deroulement": "Comprendre les attentes du recruteur lors d'un job dating Identifier les informations essentielles à présenter Construire une présentation claire en quelques minutes Valoriser son parcours, ses compétences et sa motivation Adopter la bonne posture face au recruteur Repérer les erreurs à éviter Temps d'échange et réponses aux questions",
+      "nombrePlaceTotalDistance": 200,
+      "nombrePlaceTotalPresentiel": 0,
+      "nombreInscritDistance": 125,
+      "nombreInscritPresentiel": 0,
+      "nombrePreinscritDistance": 0,
+      "nombrePreinscritPresentiel": 0,
+      "dateEvenement": "2026-11-09T09:00:00.000+00:00",
+      "titre": "Réussir son job dating : convaincre un recruteur en 5 minutes",
+      "codesRome": [
+        "E"
+      ],
+      "multisectoriel": false,
+      "offresId": null,
+      "urlDetailEvenement": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/779151",
+      "libelleEtablissement": "Agence LILLE VAUCANSON",
+      "libelleOrganisateurPrincipal": "France Travail",
+      "sessions": [
+        {
+          "id": 1354930,
+          "dateHeureDebut": "2026-11-09T09:00:00Z",
+          "dateHeureFin": "2026-11-09T10:00:00Z",
+          "nombrePlaceDistanceSession": 200,
+          "nombrePlacePresentielSession": null,
+          "nombreInscritDistanceSession": 125,
+          "nombreInscritPresentielSession": null
+        }
+      ]
+    }
+  ]
+}

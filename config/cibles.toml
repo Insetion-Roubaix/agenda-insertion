@@ -1,0 +1,17 @@
+# ---------------------------------------------------------------------------
+# SORTIES
+# ---------------------------------------------------------------------------
+
+[ics]                     # flux d'agenda : Outlook, Google, Apple, téléphone
+actif = true
+fichier = "agenda.ics"
+nom_calendrier = "Évènements insertion"
+# Statuts publiés dans l'agenda : "retenu", "a_verifier" (préfixé [?]), "ecarte"
+statuts_publies = ["retenu", "a_verifier"]
+
+[page_web]                # page de consultation avec recherche par mot-clé
+actif = true
+fichier = "index.html"
+fichier_ics = "agenda.ics"
+titre = "Évènements emploi à relayer"
+inclure_ecartes = true    # permet de vérifier ce que le tri a écarté, et pourquoi

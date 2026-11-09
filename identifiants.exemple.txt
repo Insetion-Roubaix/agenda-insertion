@@ -1,0 +1,5 @@
+# Collez votre identifiant et votre cle secrete francetravail.io apres le signe =,
+# sans guillemets ni espaces. Puis enregistrez et fermez le Bloc-notes.
+# Ne partagez jamais ce fichier (ni par mail, ni sur GitHub, ni dans une conversation).
+FT_CLIENT_ID=
+FT_CLIENT_SECRET=

@@ -1,0 +1,45 @@
+# ---------------------------------------------------------------------------
+# SOURCES D'ÉVÈNEMENTS ET FILTRES APPLIQUÉS PAR L'API
+# ---------------------------------------------------------------------------
+# Les noms de filtres doivent être ceux de l'API (voir sa documentation).
+# Le tri par mots-clés, lui, se règle dans regles.toml.
+
+[general]
+fuseau = "Europe/Paris"
+fenetre_jours = 90        # on récupère les évènements des 90 prochains jours
+
+[sources.mee]             # Mes évènements emploi (francetravail.io)
+actif = true
+fuseau_defaut = "Europe/Paris"   # si un évènement n'indique pas son fuseau
+taille_page = 100         # maximum autorisé par l'API
+page_depart = 0           # si l'API numérote ses pages à partir de 1, mettre 1
+
+# Chaque bloc [[sources.mee.requetes]] est un appel distinct à l'API ; les
+# résultats de tous les blocs sont réunis (sans doublon). Utile pour couvrir
+# plusieurs départements ou plusieurs types d'évènements (« typeEvenement »
+# n'accepte qu'une seule valeur par appel).
+
+[[sources.mee.requetes]]
+nom = "Roubaix et alentours"
+latitude = 50.692
+longitude = 3.175
+rayon = 15                # en km, nombre entier (10 km si non précisé)
+# Roubaix + 15 km couvre notamment Tourcoing, Wattrelos, Hem, Croix, Wasquehal,
+# Lys-lez-Lannoy et Lille. Les villes à écarter dans cette zone, le distanciel et
+# les types d'évènements non souhaités se règlent dans regles.toml.
+
+# Exemples à décommenter selon vos besoins :
+#
+# [[sources.mee.requetes]]
+# nom = "Public insertion par l'activité économique"
+# latitude = 50.692
+# longitude = 3.175
+# rayon = 15
+# publicCible = [94]            # 94 IAE, 95 RSA, 98 quartiers prioritaires
+#
+# [[sources.mee.requetes]]
+# nom = "Job datings du département"
+# departements = ["59"]         # autre façon de cibler un territoire
+# typeEvenement = 18            # 13 info, 14 forum, 15 conférence, 16 atelier,
+#                               # 17 salon en ligne, 18 job dating,
+#                               # 31 visites d'entreprise, 32 portes ouvertes

@@ -1,0 +1,40 @@
+name: Mise à jour de l'agenda
+
+on:
+  schedule:
+    - cron: "17 5 * * *"      # 05h17 UTC, soit 06h17 ou 07h17 à Paris selon la saison
+  workflow_dispatch:           # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write              # nécessaire pour enregistrer docs/ et data/
+
+concurrency:
+  group: agenda
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupérer, trier et publier les évènements
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+        run: python lancer.py
+
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "agenda-bot"
+          git config user.email "agenda-bot@users.noreply.github.com"
+          git add docs data
+          git diff --cached --quiet || git commit -m "Mise à jour de l'agenda $(date -u +%F)"
+          git push

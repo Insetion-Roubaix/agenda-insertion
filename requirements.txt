@@ -1,0 +1,3 @@
+# Seule dépendance : la base des fuseaux horaires (nécessaire sous Windows,
+# déjà présente sous Linux/macOS). Tout le reste est dans la bibliothèque standard.
+tzdata

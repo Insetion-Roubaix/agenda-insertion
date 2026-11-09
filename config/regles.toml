@@ -1,0 +1,101 @@
+# ---------------------------------------------------------------------------
+# RÈGLES DE TRI
+# ---------------------------------------------------------------------------
+# Les majuscules et les accents sont ignorés. Un mot cherché est un mot entier
+# (« FLE » ne se trouve pas dans « flexible »). Une étoile accepte toute fin de
+# mot : « atelier* » trouve atelier et ateliers. Plusieurs mots ensemble
+# fonctionnent aussi : « job dating ».
+#
+# Ordre d'application, du plus fort au plus faible :
+#   1. évènement uniquement à distance, complet (si demandé)   -> écarté
+#   2. ville écartée ou hors zone                              -> écarté
+#   3. type d'évènement non souhaité                           -> écarté
+#   4. un mot de « exclure » trouvé                            -> écarté
+#   5. un mot de « inclure » trouvé                            -> retenu
+#   6. un mot de « a_verifier » trouvé                         -> à vérifier
+#   7. rien trouvé                                             -> voir « defaut »
+# Un évènement retenu mais d'un type inhabituel passe en « à vérifier ».
+#
+# Champs où chercher les mots : titre, description, deroulement, type,
+# objectifs, publics, benefices, operations, intervenants, organisateur,
+# etablissement, ville. (intervenants = noms des entreprises présentes.)
+
+[types]
+# Le type est celui affiché par l'API (« Atelier », « Forum », « Job dating »...).
+accepter = [
+  "atelier*",
+  "forum*",
+  "job dating",          # couvre aussi « job dating inversé »
+  "porte*",              # porte ouverte, portes ouvertes
+  "reunion*",            # réunion d'information
+  "visite*",             # visite d'entreprise
+]
+ecarter = [
+  "conference*",
+  "permanence*",
+  "salon en ligne",
+]
+# Un type ni accepté ni écarté (nouveau type, type vide) :
+# "a_verifier" (conseillé), "retenu" ou "ecarte".
+autres = "a_verifier"
+
+[villes]
+# Villes à écarter (les tirets sont indifférents : « Lys-lez-Lannoy » = « lys lez lannoy »).
+exclues = [
+  "Wavrin", "Haubourdin", "Seclin", "Halluin", "Armentières",
+  "Pérenchies", "Wervicq-Sud", "Lesquin", "Lezennes", "Loos", "Lambersart",
+]
+# Variante : n'accepter QUE ces villes (laisser vide pour ne pas l'utiliser).
+# acceptees = ["Roubaix", "Tourcoing", "Wattrelos", "Hem", "Croix", "Wasquehal", "Lys-lez-Lannoy", "Lille"]
+acceptees = []
+
+[filtres]
+exclure_complets = false
+# Écarte les évènements uniquement à distance (« distanciel »). Un évènement à
+# la fois en physique et à distance est conservé.
+exclure_distanciel = true
+
+[inclure]
+# Optionnel. Si cette liste est vide, aucun tri « positif » par mot-clé n'est
+# fait : tous les évènements restants sont retenus. Si vous y mettez des mots,
+# seuls les évènements qui en contiennent sont retenus d'office (voir « defaut »).
+# Exemple : mots = ["numerique", "FLE", "recrut*", "BTP"]
+mots = []
+champs = ["titre", "description", "deroulement", "objectifs", "benefices", "operations", "intervenants"]
+
+[exclure]
+# Optionnel. Exemple : mots = ["cadres", "ingenieurs", "bac+5"]
+# Prudence : ne chercher les mots à exclure que dans le titre. Dans « publics »,
+# « Ouvert aux cadres » figure souvent à côté d'autres publics et ferait
+# écarter à tort des évènements ouverts à tous.
+mots = []
+champs = ["titre"]
+
+[a_verifier]
+# Signale (sans écarter) les évènements qui semblent réservés au public d'une
+# autre structure ou d'une autre agence. On ne peut pas les écarter sans risquer
+# d'écarter à tort un évènement ouvert à tous : ils apparaissent donc « à vérifier »,
+# avec le mot repéré indiqué dans « Détails ». Complétez cette liste au fil des cas
+# rencontrés. Formulations vues sur de vrais évènements : « réservé au public de
+# Hem QPV », « uniquement public de Vaucanson », « réservé aux demandeurs d'emploi
+# de l'agence de ... », « public hémois UNIQUEMENT ».
+mots = [
+  "uniquement",
+  "exclusivement",
+  "reserve aux",
+  "reserve au",
+  "reservee aux",
+  "reservee au",
+  "habitants",
+  "personnes inscrites",
+  "sur invitation",
+  "sur prescription",
+  # "critere*",   # à décommenter pour signaler aussi les évènements à « critères »
+]
+champs = ["titre", "description", "deroulement", "publics"]
+
+[defaut]
+# Utilisé seulement si la liste « inclure » n'est pas vide : que faire d'un
+# évènement où aucun mot de « inclure » n'a été trouvé ?
+# "a_verifier" (conseillé au début), "retenu" ou "ecarte".
+sans_correspondance = "a_verifier"
