@@ -3144,7 +3144,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 5,
+    "places_prises": 6,
     "places_total": 70,
     "publics": [
      "Tout public"
@@ -3330,7 +3330,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 3,
+    "places_prises": 2,
     "places_total": 8,
     "publics": [
      "Jeunes"
@@ -4508,7 +4508,7 @@
      "Opération Transfrontalier"
     ],
     "organisateur": "France Travail",
-    "places_prises": 100,
+    "places_prises": 101,
     "places_total": 160,
     "publics": [
      "Tout public"
@@ -5347,7 +5347,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 8,
     "places_total": 16,
     "publics": [
      "Bénéficiaires RSA",
@@ -5983,10 +5983,10 @@
   },
   "mee:782612": {
    "cycle": "",
-   "empreinte": "979bfc7d2fe26576",
-   "modifie_jusqu": "2026-11-15T22:20:53+01:00",
+   "empreinte": "48760ed504c9383a",
+   "modifie_jusqu": "2026-11-17T07:04:05+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 2,
+   "sequence": 3,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -6027,12 +6027,12 @@
     ],
     "operations": [
      "TaskForceEntreprise",
-     "La semaine de l'industrie",
      "#TousMobilisés",
+     "La semaine de l'industrie",
      "Métiers l industrie agroalimentaire"
     ],
     "organisateur": "Mission Locale",
-    "places_prises": 217,
+    "places_prises": 218,
     "places_total": 600,
     "publics": [
      "Tout public",
@@ -6041,7 +6041,7 @@
     "raisons": [
      "ville écartée : Pérenchies"
     ],
-    "sequence": 2,
+    "sequence": 3,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "FORUM: LES RENCONTRES EMPLOIS ET TALENTS",
@@ -7432,7 +7432,7 @@
      "Métiers l industrie agroalimentaire"
     ],
     "organisateur": "France Travail",
-    "places_prises": 30,
+    "places_prises": 29,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -7598,10 +7598,10 @@
   },
   "mee:787194": {
    "cycle": "",
-   "empreinte": "becdee3e5f0b84ad",
-   "modifie_jusqu": "2026-11-05T17:52:23+01:00",
+   "empreinte": "cc728e5a54ba9afc",
+   "modifie_jusqu": "2026-11-17T07:04:05+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [],
     "code_postal": "59100",
@@ -7618,25 +7618,25 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
      "Recrutement",
      "Marché du travail",
      "Aides à l'emploi",
-     "S'informer",
-     "Insertion"
+     "Insertion",
+     "S'informer"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 2,
+    "places_prises": 3,
     "places_total": 10,
     "publics": [
      "Jeunes"
     ],
     "raisons": [],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "E2C Ecole de la deuxième chance Roubaix réunion \"info campus\"",
@@ -8203,10 +8203,10 @@
   },
   "mee:788932": {
    "cycle": "",
-   "empreinte": "95a9d65cc0e4b0fe",
-   "modifie_jusqu": "2026-11-15T22:20:53+01:00",
+   "empreinte": "033d3566ab416bfe",
+   "modifie_jusqu": "2026-11-17T07:04:05+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 2,
+   "sequence": 3,
    "snapshot": {
     "benefices": [
      "Candidater sans se déplacer"
@@ -8242,8 +8242,8 @@
     "places_total": 45,
     "publics": [
      "Bénéficiaires RSA",
-     "Séniors",
      "Résidents en quartier prioritaire de la ville",
+     "Séniors",
      "Jeunes",
      "Personnes en situation de handicap",
      "Pas de diplôme exigé",
@@ -8252,7 +8252,7 @@
     "raisons": [
      "à distance uniquement"
     ],
-    "sequence": 2,
+    "sequence": 3,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "Erasmus EDA : pour les candidats de la région HAUTS DE FRANCE \"Effectuer une immersion en Europe\"",
@@ -9094,7 +9094,7 @@
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 18,
+    "places_prises": 16,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -9903,10 +9903,10 @@
   },
   "mee:792140": {
    "cycle": "",
-   "empreinte": "c8935b994e102673",
-   "modifie_jusqu": "2026-11-05T17:52:23+01:00",
+   "empreinte": "00eca6f9da71cab4",
+   "modifie_jusqu": "2026-11-17T07:04:05+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -9926,25 +9926,25 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
     "operations": [
-     "La semaine de l'industrie",
      "#TousMobilisés",
+     "La semaine de l'industrie",
      "Métiers de l industrie de la santé",
      "#TousEnImmersion"
     ],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 6,
     "places_total": 30,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Recrutement & Formation : Métiers de la Production Pharmaceutique",
@@ -10393,7 +10393,7 @@
      "#TousMobilisés"
     ],
     "organisateur": "Chambre de Commerce et d Industrie",
-    "places_prises": 13,
+    "places_prises": 14,
     "places_total": 200,
     "publics": [
      "Tout public"
@@ -10440,7 +10440,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "France Travail",
-    "places_prises": 48,
+    "places_prises": 49,
     "places_total": 80,
     "publics": [
      "Personnes en situation de handicap"
@@ -12098,7 +12098,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 5,
+    "places_prises": 6,
     "places_total": 10,
     "publics": [
      "Tout public"
@@ -12144,7 +12144,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 24,
+    "places_prises": 26,
     "places_total": 70,
     "publics": [
      "Tout public"
@@ -12286,7 +12286,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 10,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -13305,7 +13305,7 @@
     ],
     "operations": [],
     "organisateur": "Conseil départemental du Nord (59)",
-    "places_prises": 4,
+    "places_prises": 3,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -13703,7 +13703,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 0,
+    "places_prises": 1,
     "places_total": 25,
     "publics": [
      "Tout public"
