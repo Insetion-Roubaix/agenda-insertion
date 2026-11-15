@@ -8,43 +8,8 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mee-789076@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261116T080000Z
-DTEND:20261116T100000Z
-SEQUENCE:0
-SUMMARY:Venez visiter les entreprises FRANCOPUR et Swistek- Semaine industr
- ie
-DESCRIPTION:Type : Visites d'entreprise\nModalité : en physique\nOrganisé
-  par : France Travail – Agence HEM\nPublics : Tout public\nObjectifs : D
- écouverte secteur / métier\nBénéfices : Rencontre recruteur\nIntervena
- nts : SWISTEK\, FRANCOPUR\nPlaces restantes : 2 / 9\n\nParticipez à une m
- atinée immersive lors de la Semaine de l'Industrie pour découvrir deux e
- ntreprises locales engagées dans des secteurs clés : Francopur\, spécia
- lisée dans le traitement et la finition de surfaces métalliques\, et Swi
- stek\, un atelier de métallerie dynamique. Cette visite vous permettra de
-  : - comprendre les métiers de la métallerie et du traitement des surfac
- es\, - échanger avec des professionnels pour en savoir plus sur leurs par
- cours et leurs besoins en recrutement\, - découvrir des environnements de
-  travail innovants et des technologies de pointe\, - élargir vos opportun
- ités en identifiant des pistes concrètes pour votre projet professionnel
- . - Une occasion unique de rencontrer des employeurs locaux et de trouver 
- des idées pour votre avenir professionnel.\n\nDéroulement :\n9h00 - 9h55
- : Visite de Francopur (traitement et finition de surfaces métalliques) 9h
- 55 - 10h00 : Trajet vers Swistek 10h00 - 11h00: Visite de Swistek (métall
- erie)\n\nDétail et inscription : https://mesevenementsemploi.francetravai
- l.fr/mes-evenements-emploi/evenement/789076
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Toufflers (59390)
-GEO:50.667721;3.229013
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/789076
-CATEGORIES:Visites d'entreprise
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-788989@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T080000Z
 DTEND:20261116T100000Z
 SEQUENCE:2
@@ -80,7 +45,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-758386@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T080000Z
 DTEND:20261116T110000Z
 SEQUENCE:0
@@ -117,53 +82,50 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-786549@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261116T123000Z
-DTEND:20261116T153000Z
-SEQUENCE:4
-SUMMARY:L'industrie recrute : participez à la Semaine des métiers de l'In
- dustrie et boostez votre carrière !
-DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
- nce Travail – Agence VILLENEUVE D'ASCQ\nPublics : Tout public\nObjectifs
-  : Recrutement\nBénéfices : Rencontre recruteur\, Opportunité d'emploi\
- nIntervenants : NEU RAILWAYS\, FAVIER SETREM\, CRIT\, CORNILLE SA\, METALY
- S\, PRINT FORUM\, ADEQUAT 066\, DELTECH SARL\, MARBRERIE VARLET\, KILOUTOU
- \, PACKYARD FR\, RESSORTS ET VISSERIES DES FLANDRES\, DUBOCAGE\, I   PROCE
- NT\nPlaces restantes : 65 / 270\n\nLa Semaine des métiers de l'Industrie 
- s'invite près de chez vous ! Fabriquez votre avenir en participant à un 
- job dating. Cet événement est spécialement dédié aux personnes à la 
- recherche d'opportunités professionnelles au sein de l'industrie. Vous au
- rez l'occasion de rencontrer une quinzaine d'entreprises industrielles en 
- quête de talents pour des postes variés : conducteur de ligne\, technici
- en de maintenance\, soudeur\, chaudronnier\, tuyauteur ou métallier\, Une
-  occasion unique de discuter directement avec des recruteurs\, de découvr
- ir des métiers passionnants et de décrocher un emploi dans un secteur dy
- namique et porteur. Ne manquez pas cette chance de trouver un emploi dans 
- l'industrie. Venez avec votre CV à jour pour maximiser vos échanges !\n\
- nDéroulement :\n- Job dating organisé à La Halle de l'Emploi - Rencontr
- es directes avec des entreprises industrielles - Accès à des information
- s sur les métiers de l'industrie - 3 créneaux possibles pour votre inscr
- iption : 13h30 ou 14h30 ou 15h30\n\nDétail et inscription : https://mesev
- enementsemploi.francetravail.fr/mes-evenements-emploi/evenement/786549
+UID:mee-789076@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261116T080000Z
+DTEND:20261116T100000Z
+SEQUENCE:0
+SUMMARY:Venez visiter les entreprises FRANCOPUR et Swistek- Semaine industr
+ ie
+DESCRIPTION:Type : Visites d'entreprise\nModalité : en physique\nOrganisé
+  par : France Travail – Agence HEM\nPublics : Tout public\nObjectifs : D
+ écouverte secteur / métier\nBénéfices : Rencontre recruteur\nIntervena
+ nts : SWISTEK\, FRANCOPUR\nPlaces restantes : 1 / 9\n\nParticipez à une m
+ atinée immersive lors de la Semaine de l'Industrie pour découvrir deux e
+ ntreprises locales engagées dans des secteurs clés : Francopur\, spécia
+ lisée dans le traitement et la finition de surfaces métalliques\, et Swi
+ stek\, un atelier de métallerie dynamique. Cette visite vous permettra de
+  : - comprendre les métiers de la métallerie et du traitement des surfac
+ es\, - échanger avec des professionnels pour en savoir plus sur leurs par
+ cours et leurs besoins en recrutement\, - découvrir des environnements de
+  travail innovants et des technologies de pointe\, - élargir vos opportun
+ ités en identifiant des pistes concrètes pour votre projet professionnel
+ . - Une occasion unique de rencontrer des employeurs locaux et de trouver 
+ des idées pour votre avenir professionnel.\n\nDéroulement :\n9h00 - 9h55
+ : Visite de Francopur (traitement et finition de surfaces métalliques) 9h
+ 55 - 10h00 : Trajet vers Swistek 10h00 - 11h00: Visite de Swistek (métall
+ erie)\n\nDétail et inscription : https://mesevenementsemploi.francetravai
+ l.fr/mes-evenements-emploi/evenement/789076
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-LOCATION:Lille (59800)
-GEO:50.633106;3.059703
+LOCATION:Toufflers (59390)
+GEO:50.667721;3.229013
 URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/786549
-CATEGORIES:Job dating
+ ement/789076
+CATEGORIES:Visites d'entreprise
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-778544@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T123000Z
 DTEND:20261116T153000Z
 SEQUENCE:1
 SUMMARY:FORUM TRANSFRONTALIER
 DESCRIPTION:Type : Forum\nModalité : en physique\nOrganisé par : France T
  ravail – Agence TOURCOING\nPublics : Tout public\nObjectifs : Recrutemen
- t\nBénéfices : Rencontre recruteur\nPlaces restantes : 20 / 160\n\nVenez
+ t\nBénéfices : Rencontre recruteur\nPlaces restantes : 18 / 160\n\nVenez
   participer au FORUM DE L'EMPLOI TRANSFRONTALIER le 16 Novembre à la Mair
  ie de Tourcoing\, salle des fêtes Lors de ce forum\, vous rencontrerez ag
  ences d'intérims belges (Ago jobs\, forum Jobs...) proposant des offres d
@@ -190,8 +152,46 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-786549@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261116T123000Z
+DTEND:20261116T153000Z
+SEQUENCE:5
+SUMMARY:L'industrie recrute : participez à la Semaine des métiers de l'In
+ dustrie et boostez votre carrière !
+DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
+ nce Travail – Agence VILLENEUVE D'ASCQ\nPublics : Tout public\nObjectifs
+  : Recrutement\nBénéfices : Rencontre recruteur\, Opportunité d'emploi\
+ nIntervenants : NEU RAILWAYS\, FAVIER SETREM\, CRIT\, CORNILLE SA\, METALY
+ S\, PRINT FORUM\, ADEQUAT 066\, DELTECH SARL\, MARBRERIE VARLET\, KILOUTOU
+ \, PACKYARD FR\, RESSORTS ET VISSERIES DES FLANDRES\, DUBOCAGE\, I   PROCE
+ NT\nPlaces restantes : 64 / 270\n\nLa Semaine des métiers de l'Industrie 
+ s'invite près de chez vous ! Fabriquez votre avenir en participant à un 
+ job dating. Cet événement est spécialement dédié aux personnes à la 
+ recherche d'opportunités professionnelles au sein de l'industrie. Vous au
+ rez l'occasion de rencontrer une quinzaine d'entreprises industrielles en 
+ quête de talents pour des postes variés : conducteur de ligne\, technici
+ en de maintenance\, soudeur\, chaudronnier\, tuyauteur ou métallier\, Une
+  occasion unique de discuter directement avec des recruteurs\, de découvr
+ ir des métiers passionnants et de décrocher un emploi dans un secteur dy
+ namique et porteur. Ne manquez pas cette chance de trouver un emploi dans 
+ l'industrie. Venez avec votre CV à jour pour maximiser vos échanges !\n\
+ nDéroulement :\n- Job dating organisé à La Halle de l'Emploi - Rencontr
+ es directes avec des entreprises industrielles - Accès à des information
+ s sur les métiers de l'industrie - 3 créneaux possibles pour votre inscr
+ iption : 13h30 ou 14h30 ou 15h30\n\nDétail et inscription : https://mesev
+ enementsemploi.francetravail.fr/mes-evenements-emploi/evenement/786549
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59800)
+GEO:50.633106;3.059703
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/786549
+CATEGORIES:Job dating
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-777826@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T130000Z
 DTEND:20261116T150000Z
 SEQUENCE:0
@@ -219,37 +219,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-798594@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261116T130000Z
-DTEND:20261116T150000Z
-SEQUENCE:0
-SUMMARY:Découvrez les métiers de l'industrie qui recrutent près de chez 
- vous grâce à une immersion unique !
-DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
-  Travail – Agence CROIX\nPublics : Tout public\nObjectifs : Découverte 
- secteur / métier\nBénéfices : Développement de compétences\nPlaces re
- stantes : 2 / 10\n\nUn parcours immersif pour construire un projet profess
- ionnel réaliste. OBJECTIFS du parcours immersif : Découvrir les métiers
-  de l'industrie de manière concrète et engageante Se projeter dans des e
- nvironnements professionnels réels Comprendre les compétences attendues 
- (techniques & savoirs-être) Identifier des opportunités locales réelles
-  (emplois\, formations\, alternance) Un événement 100 % pratique pour vo
- us aider à vous projeter et à agir concrètement dans votre parcours pro
- fessionnel.\n\nDéroulement :\nAtelier collectif avec des casques de réal
- ité virtuelle\n\nDétail et inscription : https://mesevenementsemploi.fra
- ncetravail.fr/mes-evenements-emploi/evenement/798594
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Croix (59170)
-GEO:50.678444;3.139163
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/798594
-CATEGORIES:Atelier
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-567424@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T130000Z
 DTEND:20261116T143000Z
 SEQUENCE:0
@@ -275,38 +246,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-801188@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261116T130000Z
-DTEND:20261116T150000Z
-SEQUENCE:2
-SUMMARY:VENEZ A LA RENCONTRE DE MANPOWER LILLE TERTIAIRE
-DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
- nce Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs :
-  Aides à l'emploi\nBénéfices : Rencontre recruteur\, Opportunité d'emp
- loi\, Formation financée\nCOMPLET\n\nManpower Lille Tertiaire sera prése
- nt à l'agence Lille Grand Sud le lundi 16 novembre à 14h pour les postes
-  suivants : Conseiller client H/F - Villeneuve d'Ascq - Horaires : 08H45-1
- 1H45 / 12H45-16H45 du lundi au vendredi Gestionnaire de dossiers H/F - Vil
- leneuve d'Ascq - expérience 2 ans min - Horaires : 08h-12h/12h30-15h30 - 
- 35h / semaine Comptable H/F - Marcq en Baroeul - expérience 3 ans minimum
-  Assistant commercial H/F - Marquette-lez-Lille - expérience 5 ans minimu
- m - Anglais (bonne maitrise) Assistant administration des ventes H/F - Vil
- leneuve d'Ascq Agent de recouvrement H/F - Marcq en Baroeul\n\nDéroulemen
- t :\nRencontre employeur Venir avec CV à jour.\n\nDétail et inscription 
- : https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evene
- ment/801188
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Lille (59000)
-GEO:50.614880;3.039066
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/801188
-CATEGORIES:Job dating
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-780296@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261116T130000Z
 DTEND:20261116T150000Z
 SEQUENCE:4
@@ -339,35 +280,67 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-776219@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261117T080000Z
-DTEND:20261117T085000Z
+UID:mee-798594@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261116T130000Z
+DTEND:20261116T150000Z
 SEQUENCE:0
-SUMMARY:Bien utiliser son compte personnel de formation
-DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : La Hal
- le de l'emploi – Agence La Halle Lille Métropole\nPublics : Tout public
- \nObjectifs : Découverte formation\nPlaces restantes : 3 / 5\n\nVous souh
- aitez créer et exploiter pleinement votre Compte Personnel de Formation (
- CPF)\, mais vous ne savez pas par où commencer ? Nous avons la solution !
-  Participez à un atelier 100% personnalisé où vous aurez la possibilit
- é de : - Créer étape par étapes votre compte - Apprendre à utiliser l
- e site pour consulter vos droits\, choisir des formations et gérer votre 
- compte - Poser toutes vos questions pour plus de précisions. Nous sommes 
- là pour vous éclairer ! Ateliers en collaboration avec Ose Roubaix\n\nD
- étail et inscription : https://mesevenementsemploi.francetravail.fr/mes-e
- venements-emploi/evenement/776219
+SUMMARY:Découvrez les métiers de l'industrie qui recrutent près de chez 
+ vous grâce à une immersion unique !
+DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
+  Travail – Agence CROIX\nPublics : Tout public\nObjectifs : Découverte 
+ secteur / métier\nBénéfices : Développement de compétences\nPlaces re
+ stantes : 1 / 10\n\nUn parcours immersif pour construire un projet profess
+ ionnel réaliste. OBJECTIFS du parcours immersif : Découvrir les métiers
+  de l'industrie de manière concrète et engageante Se projeter dans des e
+ nvironnements professionnels réels Comprendre les compétences attendues 
+ (techniques & savoirs-être) Identifier des opportunités locales réelles
+  (emplois\, formations\, alternance) Un événement 100 % pratique pour vo
+ us aider à vous projeter et à agir concrètement dans votre parcours pro
+ fessionnel.\n\nDéroulement :\nAtelier collectif avec des casques de réal
+ ité virtuelle\n\nDétail et inscription : https://mesevenementsemploi.fra
+ ncetravail.fr/mes-evenements-emploi/evenement/798594
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-LOCATION:Lille (59800)
-GEO:50.633106;3.059703
+LOCATION:Croix (59170)
+GEO:50.678444;3.139163
 URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/776219
+ ement/798594
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-801188@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261116T130000Z
+DTEND:20261116T150000Z
+SEQUENCE:2
+SUMMARY:VENEZ A LA RENCONTRE DE MANPOWER LILLE TERTIAIRE
+DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
+ nce Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs :
+  Aides à l'emploi\nBénéfices : Rencontre recruteur\, Opportunité d'emp
+ loi\, Formation financée\nCOMPLET\n\nManpower Lille Tertiaire sera prése
+ nt à l'agence Lille Grand Sud le lundi 16 novembre à 14h pour les postes
+  suivants : Conseiller client H/F - Villeneuve d'Ascq - Horaires : 08H45-1
+ 1H45 / 12H45-16H45 du lundi au vendredi Gestionnaire de dossiers H/F - Vil
+ leneuve d'Ascq - expérience 2 ans min - Horaires : 08h-12h/12h30-15h30 - 
+ 35h / semaine Comptable H/F - Marcq en Baroeul - expérience 3 ans minimum
+  Assistant commercial H/F - Marquette-lez-Lille - expérience 5 ans minimu
+ m - Anglais (bonne maitrise) Assistant administration des ventes H/F - Vil
+ leneuve d'Ascq Agent de recouvrement H/F - Marcq en Baroeul\n\nDéroulemen
+ t :\nRencontre employeur Venir avec CV à jour.\n\nDétail et inscription 
+ : https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evene
+ ment/801188
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59000)
+GEO:50.614880;3.039066
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/801188
+CATEGORIES:Job dating
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-793465@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T080000Z
 DTEND:20261117T110000Z
 SEQUENCE:3
@@ -403,7 +376,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-777101@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T080000Z
 DTEND:20261117T110000Z
 SEQUENCE:0
@@ -439,7 +412,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804598@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T080000Z
 DTEND:20261117T110000Z
 SEQUENCE:0
@@ -447,16 +420,16 @@ SUMMARY:Mardis de l'intérim avec CRIT INTERIM
 DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence TOURCOING\nPublics : Tout public\nObjectifs : Recru
  tement\, Marché du travail\nBénéfices : Opportunité d'emploi\nInterven
- ants : CRIT\nPlaces restantes : 1 / 16\n\nL'agence Crit Intérim ( Tourcoi
- ng) recrute dans différents secteurs : industrie\, logistique\, transport
- ... Différents Postes à pourvoir : conducteurs de ligne\, cariste\, assi
- stante de direction\, éducateur de jeunes enfants\, auxiliaire de puéric
- ulture\, mécanicien\, opérateur de production\, facteur\, préparateurs 
- de commandes...\n\nDéroulement :\nL'agence sera présente le matin. Inscr
- iption sur 2 créneaux différents de 9h00 à 10h30 et de 10h30 à 12h00. 
- Vous munir d'un CV à jour et d'une pièce d'identité.\n\nDétail et insc
- ription : https://mesevenementsemploi.francetravail.fr/mes-evenements-empl
- oi/evenement/804598
+ ants : CRIT\nCOMPLET\n\nL'agence Crit Intérim ( Tourcoing) recrute dans d
+ ifférents secteurs : industrie\, logistique\, transport... Différents Po
+ stes à pourvoir : conducteurs de ligne\, cariste\, assistante de directio
+ n\, éducateur de jeunes enfants\, auxiliaire de puériculture\, mécanici
+ en\, opérateur de production\, facteur\, préparateurs de commandes...\n\
+ nDéroulement :\nL'agence sera présente le matin. Inscription sur 2 crén
+ eaux différents de 9h00 à 10h30 et de 10h30 à 12h00. Vous munir d'un CV
+  à jour et d'une pièce d'identité.\n\nDétail et inscription : https://
+ mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/80459
+ 8
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Tourcoing (59200)
@@ -466,8 +439,35 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-776219@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261117T080000Z
+DTEND:20261117T085000Z
+SEQUENCE:0
+SUMMARY:Bien utiliser son compte personnel de formation
+DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : La Hal
+ le de l'emploi – Agence La Halle Lille Métropole\nPublics : Tout public
+ \nObjectifs : Découverte formation\nPlaces restantes : 3 / 5\n\nVous souh
+ aitez créer et exploiter pleinement votre Compte Personnel de Formation (
+ CPF)\, mais vous ne savez pas par où commencer ? Nous avons la solution !
+  Participez à un atelier 100% personnalisé où vous aurez la possibilit
+ é de : - Créer étape par étapes votre compte - Apprendre à utiliser l
+ e site pour consulter vos droits\, choisir des formations et gérer votre 
+ compte - Poser toutes vos questions pour plus de précisions. Nous sommes 
+ là pour vous éclairer ! Ateliers en collaboration avec Ose Roubaix\n\nD
+ étail et inscription : https://mesevenementsemploi.francetravail.fr/mes-e
+ venements-emploi/evenement/776219
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59800)
+GEO:50.633106;3.059703
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/776219
+CATEGORIES:Atelier
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-791701@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T081500Z
 DTEND:20261117T113000Z
 SEQUENCE:1
@@ -500,7 +500,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-776221@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T090000Z
 DTEND:20261117T095000Z
 SEQUENCE:0
@@ -527,7 +527,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-790836@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T090000Z
 DTEND:20261117T100000Z
 SEQUENCE:0
@@ -551,35 +551,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-792331@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261117T090000Z
-DTEND:20261117T110000Z
-SEQUENCE:0
-SUMMARY:Les Boulangeries PAUL recrutent sur la Métropole lilloise
-DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
- nce Travail – Agence LA MADELEINE\nPublics : Tout public\nObjectifs : Re
- crutement\, Marché du travail\nBénéfices : Opportunité d'emploi\nInter
- venants : BOULANGERIES PAUL\nCOMPLET\n\nBesoin d'un job pour la fin d'ann
- ée ou d'un contrat plus durable ? Les Boulangeries Paul vous attendent ! 
- Les Boulangeries Paul recrutent sur toute la métropole lilloise (Vente\, 
- Restauration rapide\, Boulangerie\, Pâtisserie). Les recruteurs vous atte
- ndent à l'agence France Travail de La Madeleine pour des échanges direct
- s et sans intermédiaire. Rejoignez une équipe passionnée !\n\nDéroulem
- ent :\nUn job dating est organisé au sein de l'agence France Travail de L
- a Madeleine\n\nDétail et inscription : https://mesevenementsemploi.france
- travail.fr/mes-evenements-emploi/evenement/792331
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:La Madeleine (59110)
-GEO:50.644913;3.072130
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/792331
-CATEGORIES:Job dating
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-805484@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T090000Z
 DTEND:20261117T110000Z
 SEQUENCE:0
@@ -616,7 +589,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-801401@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T090000Z
 DTEND:20261117T110000Z
 SEQUENCE:0
@@ -639,8 +612,35 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-792331@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261117T090000Z
+DTEND:20261117T110000Z
+SEQUENCE:0
+SUMMARY:Les Boulangeries PAUL recrutent sur la Métropole lilloise
+DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
+ nce Travail – Agence LA MADELEINE\nPublics : Tout public\nObjectifs : Re
+ crutement\, Marché du travail\nBénéfices : Opportunité d'emploi\nInter
+ venants : BOULANGERIES PAUL\nPlaces restantes : 1 / 30\n\nBesoin d'un job 
+ pour la fin d'année ou d'un contrat plus durable ? Les Boulangeries Paul 
+ vous attendent ! Les Boulangeries Paul recrutent sur toute la métropole l
+ illoise (Vente\, Restauration rapide\, Boulangerie\, Pâtisserie). Les rec
+ ruteurs vous attendent à l'agence France Travail de La Madeleine pour des
+  échanges directs et sans intermédiaire. Rejoignez une équipe passionn
+ ée !\n\nDéroulement :\nUn job dating est organisé au sein de l'agence F
+ rance Travail de La Madeleine\n\nDétail et inscription : https://mesevene
+ mentsemploi.francetravail.fr/mes-evenements-emploi/evenement/792331
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:La Madeleine (59110)
+GEO:50.644913;3.072130
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/792331
+CATEGORIES:Job dating
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-780455@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T090000Z
 DTEND:20261117T113000Z
 SEQUENCE:0
@@ -677,7 +677,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-791585@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T093000Z
 DTEND:20261117T110000Z
 SEQUENCE:0
@@ -710,7 +710,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-758349@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T093000Z
 DTEND:20261117T110000Z
 SEQUENCE:1
@@ -740,14 +740,14 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-776224@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T100000Z
 DTEND:20261117T105000Z
 SEQUENCE:0
 SUMMARY:Bien utiliser son compte personnel de formation
 DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : La Hal
  le de l'emploi – Agence La Halle Lille Métropole\nPublics : Tout public
- \nObjectifs : Découverte formation\nPlaces restantes : 2 / 5\n\nVous souh
+ \nObjectifs : Découverte formation\nPlaces restantes : 1 / 5\n\nVous souh
  aitez créer et exploiter pleinement votre Compte Personnel de Formation (
  CPF)\, mais vous ne savez pas par où commencer ? Nous avons la solution !
   Participez à un atelier 100% personnalisé où vous aurez la possibilit
@@ -767,7 +767,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-801623@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T123000Z
 DTEND:20261117T150000Z
 SEQUENCE:2
@@ -802,7 +802,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-802292@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T123000Z
 DTEND:20261117T153000Z
 SEQUENCE:0
@@ -828,7 +828,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-781411@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T123000Z
 DTEND:20261117T143000Z
 SEQUENCE:1
@@ -858,7 +858,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803701@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T124500Z
 DTEND:20261117T150000Z
 SEQUENCE:0
@@ -866,7 +866,7 @@ SUMMARY:Recrutement entreprise NOZ - Merci de positionner en amont sur la p
  réparation MEE N 803686
 DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Mis
  sion Locale – Agence ROUBAIX LES PRES\nPublics : Tout public\nObjectifs 
- : Se préparer\nBénéfices : Opportunité d'emploi\nPlaces restantes : 72
+ : Se préparer\nBénéfices : Opportunité d'emploi\nPlaces restantes : 70
   / 80\n\nRecrutement de l'entreprise NOZ sur des postes d'opérateurs de p
  roduction.\n\nDéroulement :\nDémarrage à 13H45. Merci de venir avec un 
  CV à jour Merci de positionner en amont sur la préparation MEE N 803686\
@@ -882,7 +882,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-791425@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T130000Z
 DTEND:20261117T140000Z
 SEQUENCE:0
@@ -903,33 +903,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-795633@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261117T130000Z
-DTEND:20261117T143000Z
-SEQUENCE:0
-SUMMARY:Mes évènements emploi\, mes opportunités
-DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
-  Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs : Le
- s outils du numérique\, Marché du travail\, S'informer\nBénéfices : Ca
- ndidater sans se déplacer\, Opportunité d'emploi\nPlaces restantes : 3 /
-  50\n\nAtelier de présentation des différents sites outils de France Tra
- vail. Venez découvrir la plateforme Mes Évènements Emploi\, pour rester
-  informés sur les opportunités\, les recrutements\, les job dating à pr
- oximité directe ou sur le territoire national.\n\nDéroulement :\nDémons
- tration et appropriation de l'outil\n\nDétail et inscription : https://me
- sevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/795633
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Lille (59000)
-GEO:50.613377;3.038984
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/795633
-CATEGORIES:Atelier
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-795291@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T130000Z
 DTEND:20261117T143000Z
 SEQUENCE:1
@@ -959,7 +934,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-783883@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
 SEQUENCE:0
@@ -989,8 +964,33 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-795633@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261117T130000Z
+DTEND:20261117T143000Z
+SEQUENCE:0
+SUMMARY:Mes évènements emploi\, mes opportunités
+DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
+  Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs : Le
+ s outils du numérique\, Marché du travail\, S'informer\nBénéfices : Ca
+ ndidater sans se déplacer\, Opportunité d'emploi\nPlaces restantes : 4 /
+  50\n\nAtelier de présentation des différents sites outils de France Tra
+ vail. Venez découvrir la plateforme Mes Évènements Emploi\, pour rester
+  informés sur les opportunités\, les recrutements\, les job dating à pr
+ oximité directe ou sur le territoire national.\n\nDéroulement :\nDémons
+ tration et appropriation de l'outil\n\nDétail et inscription : https://me
+ sevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/795633
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59000)
+GEO:50.613377;3.038984
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/795633
+CATEGORIES:Atelier
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-785906@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
 SEQUENCE:0
@@ -1019,7 +1019,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-798201@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261117T163000Z
 DTEND:20261117T190000Z
 SEQUENCE:0
@@ -1054,15 +1054,15 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804834@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T080000Z
 DTEND:20261118T110000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:RECRUTEMENT OUVERTURE AU BUREAU LESQUIN
 DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence VILLENEUVE D'ASCQ\nPublics : Tout public\nObjectifs
   : Recrutement\nBénéfices : Formation assurée\, Développement de comp
- étences\, Opportunité d'emploi\, Temps complet\, CDI\nIntervenants : ITB
+ étences\, Temps complet\, Opportunité d'emploi\, CDI\nIntervenants : ITB
  1\nPlaces restantes : 9 / 25\n\nREUNION D INFORMATION COLLECTIVE présenta
  tion de l'enseigne au bureau dans le cadre de son ouverture sur LESQUIN\, 
  des postes à pourvoir et du parcours POEI préparation opérationnelle à
@@ -1087,7 +1087,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-773545@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T083000Z
 DTEND:20261118T150000Z
 SEQUENCE:0
@@ -1124,7 +1124,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-788269@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T083000Z
 DTEND:20261118T110000Z
 SEQUENCE:0
@@ -1158,7 +1158,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799539@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T083000Z
 DTEND:20261118T100000Z
 SEQUENCE:1
@@ -1192,7 +1192,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-735770@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T090000Z
 DTEND:20261118T110000Z
 SEQUENCE:1
@@ -1216,7 +1216,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804911@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T090000Z
 DTEND:20261118T100000Z
 SEQUENCE:0
@@ -1244,7 +1244,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804304@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T120000Z
 DTEND:20261118T150000Z
 SEQUENCE:0
@@ -1253,7 +1253,7 @@ DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence VILLENEUVE D'ASCQ\nPublics : Tout public\nObjectifs
   : Recrutement\nBénéfices : Formation assurée\, Développement de comp
  étences\, Opportunité d'emploi\, Temps complet\, CDI\nIntervenants : ITB
- 1\nPlaces restantes : 6 / 25\n\nREUNION D INFORMATION COLLECTIVE présenta
+ 1\nPlaces restantes : 4 / 25\n\nREUNION D INFORMATION COLLECTIVE présenta
  tion de l'enseigne au bureau dans le cadre de son ouverture sur LESQUIN\, 
  des postes à pourvoir et du parcours POEI préparation opérationnelle à
   l'emploi individuel pour profils débutant H/F Entretien individuel à la
@@ -1277,7 +1277,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-796478@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T123000Z
 DTEND:20261118T143000Z
 SEQUENCE:1
@@ -1311,7 +1311,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-713114@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T130000Z
 DTEND:20261118T150000Z
 SEQUENCE:1
@@ -1341,7 +1341,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-783723@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T130000Z
 DTEND:20261118T150000Z
 SEQUENCE:0
@@ -1376,7 +1376,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-782475@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261118T130000Z
 DTEND:20261118T150000Z
 SEQUENCE:0
@@ -1406,7 +1406,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-792657@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T080000Z
 DTEND:20261119T110000Z
 SEQUENCE:0
@@ -1445,7 +1445,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-784163@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T080000Z
 DTEND:20261119T100000Z
 SEQUENCE:0
@@ -1471,7 +1471,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-792140@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T080000Z
 DTEND:20261119T110000Z
 SEQUENCE:3
@@ -1509,7 +1509,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803182@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T080000Z
 DTEND:20261119T103000Z
 SEQUENCE:1
@@ -1545,7 +1545,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785791@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T083000Z
 DTEND:20261119T113000Z
 SEQUENCE:0
@@ -1574,7 +1574,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803715@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T083000Z
 DTEND:20261119T110000Z
 SEQUENCE:0
@@ -1595,7 +1595,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-771492@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T090000Z
 DTEND:20261119T113000Z
 SEQUENCE:0
@@ -1630,7 +1630,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785809@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T090000Z
 DTEND:20261119T100000Z
 SEQUENCE:1
@@ -1666,7 +1666,7 @@ CATEGORIES:Visites d'entreprise
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789851@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T090000Z
 DTEND:20261119T110000Z
 SEQUENCE:0
@@ -1698,7 +1698,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-771488@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T123000Z
 DTEND:20261119T153000Z
 SEQUENCE:0
@@ -1726,7 +1726,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-731958@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T123000Z
 DTEND:20261119T131500Z
 SEQUENCE:0
@@ -1751,7 +1751,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-773777@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T124500Z
 DTEND:20261119T153000Z
 SEQUENCE:0
@@ -1778,7 +1778,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-791875@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T150000Z
 SEQUENCE:0
@@ -1806,7 +1806,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803755@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T150000Z
 SEQUENCE:0
@@ -1834,7 +1834,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785588@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T150000Z
 SEQUENCE:3
@@ -1869,7 +1869,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785445@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T134500Z
 SEQUENCE:3
@@ -1902,7 +1902,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-776714@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T160000Z
 SEQUENCE:1
@@ -1932,7 +1932,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-770906@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T150000Z
 SEQUENCE:0
@@ -1956,8 +1956,38 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-803691@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261119T130000Z
+DTEND:20261119T140000Z
+SEQUENCE:0
+SUMMARY:REUNION D'INFORMATION NQT
+DESCRIPTION:Type : Réunion d'information\nModalité : en physique\nOrganis
+ é par : France Travail – Agence LILLE VAUCANSON\nPublics : Jeunes\, Cad
+ res\nObjectifs : Création d'entreprise\, Coaching\, Aides à l'emploi\, S
+ e préparer\, Stratégie et techniques de recherches d'emploi\nPlaces rest
+ antes : 12 / 30\n\nDécouvrez NQT\, lors d'une réunion d'information. NQT
+  (historiquement Nos Quartiers ont des Talents) construit des passerelles 
+ entre les entreprises et les jeunes diplômés. Le dispositif propose à d
+ es cadres et dirigeants d'entreprises partenaires de l'association\, d'acc
+ ompagner un jeune diplômé Bac3 et plus\, de moins de 30 ans et issu de m
+ ilieu social modeste et/ou résident en zone prioritaire\, dans sa recherc
+ he d'emploi\, d'alternance ou dans le lancement de sa startup. Si vous êt
+ es intéressé(e)s\, inscrivez-vous à la réunion!\n\nDéroulement :\nLa 
+ réunion d'information débutera à 14h00 au sein de l'agence France Trava
+ il Lille Vaucanson.\n\nDétail et inscription : https://mesevenementsemplo
+ i.francetravail.fr/mes-evenements-emploi/evenement/803691
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59800)
+GEO:50.629539;3.094101
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/803691
+CATEGORIES:Réunion d'information
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-801666@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T130000Z
 DTEND:20261119T150000Z
 SEQUENCE:0
@@ -1981,38 +2011,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-803691@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261119T130000Z
-DTEND:20261119T140000Z
-SEQUENCE:0
-SUMMARY:REUNION D'INFORMATION NQT
-DESCRIPTION:Type : Réunion d'information\nModalité : en physique\nOrganis
- é par : France Travail – Agence LILLE VAUCANSON\nPublics : Jeunes\, Cad
- res\nObjectifs : Création d'entreprise\, Coaching\, Aides à l'emploi\, S
- e préparer\, Stratégie et techniques de recherches d'emploi\nPlaces rest
- antes : 14 / 30\n\nDécouvrez NQT\, lors d'une réunion d'information. NQT
-  (historiquement Nos Quartiers ont des Talents) construit des passerelles 
- entre les entreprises et les jeunes diplômés. Le dispositif propose à d
- es cadres et dirigeants d'entreprises partenaires de l'association\, d'acc
- ompagner un jeune diplômé Bac3 et plus\, de moins de 30 ans et issu de m
- ilieu social modeste et/ou résident en zone prioritaire\, dans sa recherc
- he d'emploi\, d'alternance ou dans le lancement de sa startup. Si vous êt
- es intéressé(e)s\, inscrivez-vous à la réunion!\n\nDéroulement :\nLa 
- réunion d'information débutera à 14h00 au sein de l'agence France Trava
- il Lille Vaucanson.\n\nDétail et inscription : https://mesevenementsemplo
- i.francetravail.fr/mes-evenements-emploi/evenement/803691
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Lille (59800)
-GEO:50.629539;3.094101
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/803691
-CATEGORIES:Réunion d'information
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-731959@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T131500Z
 DTEND:20261119T140000Z
 SEQUENCE:0
@@ -2038,7 +2038,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785517@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T134500Z
 DTEND:20261119T143000Z
 SEQUENCE:2
@@ -2047,7 +2047,7 @@ DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs :
   Recrutement\nBénéfices : Rencontre recruteur\nIntervenants : STAFFMATCH
   FRANCE 4\, CONNECT TO LIVE CTL\, DESTIA\, TECH FORMATION NORD\, THERY VAL
- ERIE DANIELE\nPlaces restantes : 2 / 70\n\nVous êtes à la recherche d'un
+ ERIE DANIELE\nPlaces restantes : 3 / 70\n\nVous êtes à la recherche d'un
   emploi ou souhaitez donner un nouvel élan à votre carrière ? Participe
  z à notre Job Dating Multisectoriel et venez rencontrer directement des e
  ntreprises qui recrutent dans différents secteurs d'activité ! Cet évé
@@ -2071,7 +2071,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-731963@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T140000Z
 DTEND:20261119T144500Z
 SEQUENCE:0
@@ -2097,7 +2097,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-751021@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T140000Z
 DTEND:20261119T160000Z
 SEQUENCE:2
@@ -2124,7 +2124,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785535@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
 SEQUENCE:2
@@ -2133,7 +2133,7 @@ DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence LILLE GRAND SUD\nPublics : Personnes en situation d
  e handicap\nObjectifs : Recrutement\nBénéfices : Rencontre recruteur\nIn
  tervenants : DESTIA\, THERY VALERIE DANIELE\, TECH FORMATION NORD\, STAFFM
- ATCH FRANCE 4\, CONNECT TO LIVE CTL\nPlaces restantes : 7 / 80\n\nVous êt
+ ATCH FRANCE 4\, CONNECT TO LIVE CTL\nPlaces restantes : 6 / 80\n\nVous êt
  es à la recherche d'un emploi ou souhaitez donner un nouvel élan à votr
  e carrière ? Participez à notre Job Dating Multisectoriel et venez renco
  ntrer directement des entreprises qui recrutent dans différents secteurs 
@@ -2157,7 +2157,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-788993@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261120T080000Z
 DTEND:20261120T100000Z
 SEQUENCE:0
@@ -2193,7 +2193,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804817@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261120T083000Z
 DTEND:20261120T110000Z
 SEQUENCE:0
@@ -2225,7 +2225,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804685@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261120T090000Z
 DTEND:20261120T100000Z
 SEQUENCE:0
@@ -2258,7 +2258,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-800636@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261120T130000Z
 DTEND:20261120T150000Z
 SEQUENCE:0
@@ -2287,7 +2287,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-791523@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261121T080000Z
 DTEND:20261121T110000Z
 SEQUENCE:3
@@ -2319,7 +2319,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797808@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T080000Z
 DTEND:20261123T110000Z
 SEQUENCE:0
@@ -2349,7 +2349,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-794784@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T083000Z
 DTEND:20261123T103000Z
 SEQUENCE:0
@@ -2383,7 +2383,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-805661@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T083000Z
 DTEND:20261123T110000Z
 SEQUENCE:0
@@ -2392,7 +2392,7 @@ DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
  nce Travail – Agence LILLE GRAND SUD\nPublics : Tout public\nObjectifs :
   Aides à l'emploi\nBénéfices : Rencontre recruteur\, Opportunité d'emp
  loi\, Formation financée\nIntervenants : MANPOWER FRANCE\nPlaces restante
- s : 16 / 20\n\nManpower Logistique recrute des préparateurs de commande H
+ s : 15 / 20\n\nManpower Logistique recrute des préparateurs de commande H
  /F\, pour l'enseigne Vertbaudet situé à Marquette Lez Lille. Prérequis 
  : - Expérience de 6 mois min ( picking\, prélèvement\, drive...) - Le p
  ermis n'est pas obligatoire - Personne dynamique\, sérieuse et motivé Ho
@@ -2411,7 +2411,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-780035@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T090000Z
 DTEND:20261123T110000Z
 SEQUENCE:0
@@ -2443,7 +2443,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799562@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T123000Z
 DTEND:20261123T153000Z
 SEQUENCE:0
@@ -2477,53 +2477,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-789207@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261123T123000Z
-DTEND:20261123T150000Z
-SEQUENCE:1
-SUMMARY:Auchan Leers Drive - Préparateur de commandes - Alternance
-DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
- nce Travail – Agence WATTRELOS\nPublics : Jeunes\, Tout public\, Pas de 
- diplôme exigé\, Débutant(e) accepté(e)\nObjectifs : Recrutement\, Marc
- hé du travail\nBénéfices : Formation assurée\, Rencontre recruteur\, T
- emps complet\, Opportunité d'emploi\, Se diplômer\, Contrat en alternanc
- e\, Formation financée\nPlaces restantes : 9 / 20\n\nType d'événement :
-  Session de recrutement des Préparateurs de Commandes DRIVE Objectif : Re
- crutement pour une formation en alternance dans le cadre d'un titre profes
- sionnel Employé commercial (niveau 3) avec Auchan Drive - Leers En parten
- ariat avec le centre de formation RFCI\, ce recrutement est ouvert dès 18
-  ans\, pour personnes motivées et dynamiques\, souhaitant intégrer une f
- ormation en alternance dans le cadre d'un titre professionnel Employé com
- mercial (niveau 3). Une bonne condition physique pour le port de charges e
- t la position debout est nécessaire. Lors de l'évènement\, vous aurez l
- 'occasion de rencontrer nos recruteurs\, d'en savoir plus sur les missions
-  de préparateur de commandes\, et de découvrir les conditions de travail
-  et de formation. En participant\, vous découvrirez les opportunités de 
- carrière en alternance\, rencontrerez des recruteurs\, et comprendrez mie
- ux les missions et les conditions de travail.\n\nDéroulement :\nAccueil :
-  Réception des participants et présentation générale de l'événement.
-  Présentation de l'entreprise et du poste : Découverte des missions\, du
-  profil recherché\, et des conditions de travail. Présentation du centre
-  de formation RFCI : Détails sur la formation en alternance et les module
- s couverts. Entretiens individuels : Échanges personnalisés avec les rec
- ruteurs pour mieux comprendre vos aspirations et vos compétences. Questio
- ns/réponses : Moment dédié pour poser toutes vos questions et obtenir d
- es réponses détaillées. Attention : Apportez bien votre CV pour facilit
- er les échanges avec les recruteurs !\n\nDétail et inscription : https:/
- /mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/7892
- 07
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Wattrelos (59150)
-GEO:50.691586;3.232369
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/789207
-CATEGORIES:Job dating
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-799570@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T123000Z
 DTEND:20261123T153000Z
 SEQUENCE:0
@@ -2558,8 +2513,53 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-789207@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261123T123000Z
+DTEND:20261123T150000Z
+SEQUENCE:2
+SUMMARY:Auchan Leers Drive - Préparateur de commandes - Alternance
+DESCRIPTION:Type : Job dating\nModalité : en physique\nOrganisé par : Fra
+ nce Travail – Agence WATTRELOS\nPublics : Jeunes\, Tout public\, Pas de 
+ diplôme exigé\, Débutant(e) accepté(e)\nObjectifs : Recrutement\, Marc
+ hé du travail\nBénéfices : Formation assurée\, Rencontre recruteur\, O
+ pportunité d'emploi\, Temps complet\, Se diplômer\, Contrat en alternanc
+ e\, Formation financée\nPlaces restantes : 9 / 20\n\nType d'événement :
+  Session de recrutement des Préparateurs de Commandes DRIVE Objectif : Re
+ crutement pour une formation en alternance dans le cadre d'un titre profes
+ sionnel Employé commercial (niveau 3) avec Auchan Drive - Leers En parten
+ ariat avec le centre de formation RFCI\, ce recrutement est ouvert dès 18
+  ans\, pour personnes motivées et dynamiques\, souhaitant intégrer une f
+ ormation en alternance dans le cadre d'un titre professionnel Employé com
+ mercial (niveau 3). Une bonne condition physique pour le port de charges e
+ t la position debout est nécessaire. Lors de l'évènement\, vous aurez l
+ 'occasion de rencontrer nos recruteurs\, d'en savoir plus sur les missions
+  de préparateur de commandes\, et de découvrir les conditions de travail
+  et de formation. En participant\, vous découvrirez les opportunités de 
+ carrière en alternance\, rencontrerez des recruteurs\, et comprendrez mie
+ ux les missions et les conditions de travail.\n\nDéroulement :\nAccueil :
+  Réception des participants et présentation générale de l'événement.
+  Présentation de l'entreprise et du poste : Découverte des missions\, du
+  profil recherché\, et des conditions de travail. Présentation du centre
+  de formation RFCI : Détails sur la formation en alternance et les module
+ s couverts. Entretiens individuels : Échanges personnalisés avec les rec
+ ruteurs pour mieux comprendre vos aspirations et vos compétences. Questio
+ ns/réponses : Moment dédié pour poser toutes vos questions et obtenir d
+ es réponses détaillées. Attention : Apportez bien votre CV pour facilit
+ er les échanges avec les recruteurs !\n\nDétail et inscription : https:/
+ /mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/7892
+ 07
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Wattrelos (59150)
+GEO:50.691586;3.232369
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/789207
+CATEGORIES:Job dating
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-730800@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T124000Z
 DTEND:20261123T144000Z
 SEQUENCE:0
@@ -2589,7 +2589,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-783454@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261123T130000Z
 DTEND:20261123T150000Z
 SEQUENCE:1
@@ -2627,7 +2627,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-802716@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T080000Z
 DTEND:20261124T100000Z
 SEQUENCE:0
@@ -2655,7 +2655,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797267@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T080500Z
 DTEND:20261124T103500Z
 SEQUENCE:0
@@ -2684,7 +2684,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803803@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T083000Z
 DTEND:20261124T110000Z
 SEQUENCE:0
@@ -2719,7 +2719,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-801042@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T083000Z
 DTEND:20261124T110000Z
 SEQUENCE:0
@@ -2754,7 +2754,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799592@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T123000Z
 DTEND:20261124T153000Z
 SEQUENCE:0
@@ -2789,7 +2789,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785592@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SEQUENCE:1
@@ -2823,7 +2823,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-772296@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SEQUENCE:0
@@ -2854,7 +2854,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-788334@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SEQUENCE:1
@@ -2888,7 +2888,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789361@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T130000Z
 DTEND:20261124T151500Z
 SEQUENCE:0
@@ -2921,7 +2921,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803131@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261124T133000Z
 DTEND:20261124T153000Z
 SEQUENCE:0
@@ -2960,7 +2960,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-795335@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T080000Z
 DTEND:20261125T100000Z
 SEQUENCE:0
@@ -2988,16 +2988,16 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799920@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T080000Z
 DTEND:20261125T110000Z
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:Rejoignez AUXILIADOM en vous formant au métier d'auxiliaire de vie
   (POEI certifiante TP ADVF)
 DESCRIPTION:Type : Réunion d'information\nModalité : en physique\nOrganis
  é par : France Travail – Agence LA MADELEINE\nPublics : Tout public\nOb
  jectifs : Recrutement\, Découverte formation\nBénéfices : Rencontre rec
- ruteur\, CDI\, Se diplômer\, Formation financée\, Temps partiel\nInterve
+ ruteur\, CDI\, Se diplômer\, Temps partiel\, Formation financée\nInterve
  nants : AUXILIADOM\nPlaces restantes : 6 / 15\n\nDécouvrez une opportunit
  é unique avec AUXILIADOM\, en partenariat avec l'organisme de formation A
  CGD : une POEI (Préparation Opérationnelle à l'Emploi Individuelle) cer
@@ -3024,7 +3024,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799561@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T083000Z
 DTEND:20261125T100000Z
 SEQUENCE:1
@@ -3058,7 +3058,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797444@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T084500Z
 DTEND:20261125T113000Z
 SEQUENCE:0
@@ -3094,7 +3094,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-781408@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T090000Z
 DTEND:20261125T110000Z
 SEQUENCE:0
@@ -3126,7 +3126,7 @@ CATEGORIES:Portes ouvertes
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-796428@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T123000Z
 DTEND:20261125T143000Z
 SEQUENCE:0
@@ -3164,7 +3164,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-782482@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SEQUENCE:0
@@ -3194,7 +3194,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-769171@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SEQUENCE:0
@@ -3231,7 +3231,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-788057@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261125T130000Z
 DTEND:20261125T140000Z
 SEQUENCE:0
@@ -3261,7 +3261,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-794858@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T080000Z
 DTEND:20261126T110000Z
 SEQUENCE:0
@@ -3283,7 +3283,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-790531@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T080000Z
 DTEND:20261126T103000Z
 SEQUENCE:1
@@ -3292,7 +3292,7 @@ DESCRIPTION:Type : Forum\nModalité : en physique\nOrganisé par : France T
  ravail – Agence LILLE VAUCANSON\nPublics : Tout public\nObjectifs : Déc
  ouverte secteur / métier\, Recrutement\, Création d'entreprise\, Découv
  erte formation\, Insertion\nBénéfices : Rencontre recruteur\, Opportunit
- é d'emploi\, Se diplômer\nPlaces restantes : 109 / 150\n\nNe manquez pas
+ é d'emploi\, Se diplômer\nPlaces restantes : 106 / 150\n\nNe manquez pas
   la nouvelle édition du forum 'Destination Emploi' ! Rejoignez-nous le je
  udi 26 novembre 2026 à Hellemmes pour la nouvelle édition de 'Destinatio
  n Emploi' ! Un seul lieu\, une multitude d'opportunités : emploi multisec
@@ -3324,7 +3324,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-727590@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T083000Z
 DTEND:20261126T100000Z
 SEQUENCE:0
@@ -3353,7 +3353,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-801200@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T083000Z
 DTEND:20261126T110000Z
 SEQUENCE:0
@@ -3384,7 +3384,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789862@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T090000Z
 DTEND:20261126T110000Z
 SEQUENCE:2
@@ -3416,7 +3416,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-732003@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T123000Z
 DTEND:20261126T131500Z
 SEQUENCE:0
@@ -3442,7 +3442,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-779656@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T130000Z
 DTEND:20261126T150000Z
 SEQUENCE:0
@@ -3467,7 +3467,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-770910@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T130000Z
 DTEND:20261126T150000Z
 SEQUENCE:0
@@ -3492,7 +3492,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-732013@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T131500Z
 DTEND:20261126T140000Z
 SEQUENCE:0
@@ -3518,7 +3518,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-721651@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T133000Z
 DTEND:20261126T143000Z
 SEQUENCE:0
@@ -3561,7 +3561,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-732018@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261126T140000Z
 DTEND:20261126T144500Z
 SEQUENCE:0
@@ -3587,7 +3587,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-785244@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261127T083000Z
 DTEND:20261127T103000Z
 SEQUENCE:0
@@ -3610,7 +3610,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799224@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261127T090000Z
 DTEND:20261127T094500Z
 SEQUENCE:0
@@ -3645,7 +3645,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-783887@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261127T130000Z
 DTEND:20261127T134500Z
 SEQUENCE:1
@@ -3674,7 +3674,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797825@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T080000Z
 DTEND:20261130T110000Z
 SEQUENCE:0
@@ -3704,7 +3704,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-765943@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T090000Z
 DTEND:20261130T110000Z
 SEQUENCE:0
@@ -3738,7 +3738,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-796927@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T090000Z
 DTEND:20261130T110000Z
 SEQUENCE:3
@@ -3771,7 +3771,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-798761@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T124500Z
 DTEND:20261130T160000Z
 SEQUENCE:0
@@ -3808,7 +3808,7 @@ CATEGORIES:Portes ouvertes
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803594@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T130000Z
 DTEND:20261130T150000Z
 SEQUENCE:0
@@ -3831,7 +3831,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-798780@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261130T140000Z
 DTEND:20261130T160000Z
 SEQUENCE:0
@@ -3868,7 +3868,7 @@ CATEGORIES:Portes ouvertes
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799417@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T080000Z
 DTEND:20261201T153000Z
 SEQUENCE:0
@@ -3906,7 +3906,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799548@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T083000Z
 DTEND:20261201T104500Z
 SEQUENCE:0
@@ -3940,7 +3940,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-766186@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T123000Z
 DTEND:20261201T150000Z
 SEQUENCE:0
@@ -3973,7 +3973,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-802250@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T123000Z
 DTEND:20261201T150000Z
 SEQUENCE:0
@@ -4001,7 +4001,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-767914@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T130000Z
 DTEND:20261201T150000Z
 SEQUENCE:0
@@ -4031,7 +4031,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803615@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T130000Z
 DTEND:20261201T150000Z
 SEQUENCE:0
@@ -4064,7 +4064,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799428@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261201T130000Z
 DTEND:20261201T150000Z
 SEQUENCE:0
@@ -4100,7 +4100,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789328@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261202T123000Z
 DTEND:20261202T133000Z
 SEQUENCE:0
@@ -4133,7 +4133,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-713119@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261202T130000Z
 DTEND:20261202T150000Z
 SEQUENCE:0
@@ -4163,7 +4163,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-782485@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261202T130000Z
 DTEND:20261202T150000Z
 SEQUENCE:0
@@ -4193,7 +4193,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-782189@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T083000Z
 DTEND:20261203T093000Z
 SEQUENCE:2
@@ -4223,7 +4223,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-782201@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T093000Z
 DTEND:20261203T110000Z
 SEQUENCE:1
@@ -4253,7 +4253,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789216@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T123000Z
 DTEND:20261203T144500Z
 SEQUENCE:0
@@ -4291,7 +4291,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797424@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T123000Z
 DTEND:20261203T153000Z
 SEQUENCE:1
@@ -4322,7 +4322,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-801590@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T130000Z
 DTEND:20261203T150000Z
 SEQUENCE:0
@@ -4352,7 +4352,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-767918@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T130000Z
 DTEND:20261203T150000Z
 SEQUENCE:0
@@ -4385,7 +4385,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-780532@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261203T130000Z
 DTEND:20261203T143000Z
 SEQUENCE:1
@@ -4393,7 +4393,7 @@ SUMMARY:ReStart 2026 - Comprendre l'indemnisation des créateurs/repreneurs
   d'entreprise
 DESCRIPTION:Type : Réunion d'information\nModalité : à distance\, en phy
  sique\nOrganisé par : France Travail – Agence LA MADELEINE\nPublics : T
- out public\nObjectifs : Création d'entreprise\nPlaces restantes : 65 / 80
+ out public\nObjectifs : Création d'entreprise\nPlaces restantes : 62 / 80
  \n\nComprendre les essentiels de l'actualisation et l'indemnisation des cr
  éateurs/repreneurs d'entreprise : - Comment déclarer son changement de s
  ituation lorsqu'on créé son entreprise ? - Comment évolue l'accompagnem
@@ -4421,7 +4421,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-792146@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261204T080000Z
 DTEND:20261204T110000Z
 SEQUENCE:0
@@ -4463,7 +4463,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799091@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261204T080000Z
 DTEND:20261204T093000Z
 SEQUENCE:0
@@ -4489,7 +4489,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-767922@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261204T081500Z
 DTEND:20261204T110000Z
 SEQUENCE:0
@@ -4522,7 +4522,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-747154@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261204T083000Z
 DTEND:20261204T110000Z
 SEQUENCE:0
@@ -4551,7 +4551,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-793699@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261204T130000Z
 DTEND:20261204T153000Z
 SEQUENCE:0
@@ -4588,7 +4588,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803683@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261207T080000Z
 DTEND:20261207T150000Z
 SEQUENCE:0
@@ -4619,7 +4619,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797833@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261207T080000Z
 DTEND:20261207T110000Z
 SEQUENCE:0
@@ -4649,7 +4649,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-777954@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261207T090000Z
 DTEND:20261207T110000Z
 SEQUENCE:0
@@ -4681,7 +4681,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-789212@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261207T123000Z
 DTEND:20261207T150000Z
 SEQUENCE:2
@@ -4726,7 +4726,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-780529@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261207T130000Z
 DTEND:20261207T140000Z
 SEQUENCE:0
@@ -4756,7 +4756,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-783989@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261208T080000Z
 DTEND:20261208T120000Z
 SEQUENCE:0
@@ -4779,7 +4779,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799440@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261208T090000Z
 DTEND:20261208T110000Z
 SEQUENCE:0
@@ -4817,7 +4817,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-780902@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261208T130000Z
 DTEND:20261208T150000Z
 SEQUENCE:0
@@ -4845,7 +4845,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803599@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261208T130000Z
 DTEND:20261208T160000Z
 SEQUENCE:0
@@ -4885,7 +4885,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-802760@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261209T083000Z
 DTEND:20261209T110000Z
 SEQUENCE:0
@@ -4914,7 +4914,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799432@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261209T130000Z
 DTEND:20261209T151500Z
 SEQUENCE:0
@@ -4943,7 +4943,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-804946@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261210T083000Z
 DTEND:20261210T110000Z
 SEQUENCE:0
@@ -4975,7 +4975,7 @@ CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-770943@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261210T130000Z
 DTEND:20261210T150000Z
 SEQUENCE:0
@@ -4999,15 +4999,75 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
+UID:mee-799435@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261210T130000Z
+DTEND:20261210T150000Z
+SEQUENCE:0
+SUMMARY:Atelier "Parlons VAE"
+DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
+  Travail – Agence ROUBAIX CENTRE\nPublics : Tout public\nObjectifs : Dé
+ couverte formation\, S'informer\nPlaces restantes : 25 / 25\n\nObjectif de
+  l'atelier : Accompagner les participants dans la compréhension complète
+  du dispositif VAE afin qu'ils puissent\, à l'issue de la séance\, ident
+ ifier la première étape concrète pour se lancer. L'atelier vise à clar
+ ifier le fonctionnement\, les conditions\, les acteurs et les différentes
+  phases du parcours VAE\, et à orienter chaque participant vers la bonne 
+ démarche en fonction de son projet. L'atelier sera animé par OSE ROUBAIX
+ .\n\nDéroulement :\nContenu abordé : Présentation du dispositif VAE et 
+ de ses finalités Conditions d'éligibilité : durée d'expérience\, sect
+ eurs concernés\, certifications possibles Le déroulé du parcours Délai
+ s moyens\, coûts éventuels et financements possibles (CPF\, Région\, em
+ ployeur ) Les interlocuteurs clés Questions/réponses et exemples concret
+ s\n\nDétail et inscription : https://mesevenementsemploi.francetravail.fr
+ /mes-evenements-emploi/evenement/799435
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Roubaix (59100)
+GEO:50.689796;3.177074
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/799435
+CATEGORIES:Atelier
+END:VEVENT
+BEGIN:VEVENT
+UID:mee-791841@agenda-insertion
+DTSTAMP:20261115T060152Z
+DTSTART:20261210T130000Z
+DTEND:20261210T150000Z
+SEQUENCE:1
+SUMMARY:Atelier Rédiger un mail professionnel impactant !
+DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
+  Travail – Agence LILLE VAUCANSON\nPublics : Jeunes\nObjectifs : Les out
+ ils du numérique\nBénéfices : Développement de compétences\nPlaces re
+ stantes : 19 / 20\n\nVous souhaitez rédiger des e-mails qui font bonne im
+ pression ? Apprenez à écrire des messages clairs et professionnels pour 
+ contacter un employeur\, une administration ou un organisme. Bonus : déco
+ uvrez comment l'intelligence artificielle peut vous aider !\n\nDéroulemen
+ t :\nDéroulé de l'atelier (2h): L'atelier débutera par une démonstrati
+ on animée par un professionnel de Reconnect. Vous passerez ensuite à la 
+ pratique à travers des exercices concrets\, avec un accompagnement et des
+  conseils personnalisés. Pensez à apporter votre ordinateur portable ou 
+ votre smartphone pour participer aux exercices.\n\nDétail et inscription 
+ : https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evene
+ ment/791841
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Lille (59800)
+GEO:50.629539;3.094101
+URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
+ ement/791841
+CATEGORIES:Atelier
+END:VEVENT
+BEGIN:VEVENT
 UID:mee-795160@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261210T130000Z
 DTEND:20261210T153000Z
 SEQUENCE:0
 SUMMARY:La formation financée par la région - mode d'emploi
 DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : La Hal
  le de l'emploi – Agence La Halle Lille Métropole\nPublics : Tout public
- \nObjectifs : Découverte formation\nPlaces restantes : 30 / 30\n\nVous av
+ \nObjectifs : Découverte formation\nPlaces restantes : 29 / 30\n\nVous av
  ez repéré une formation financée par la Région et souhaitez y accéder
   avec toutes les cartes en main ? Cet atelier est fait pour vous ! Rejoign
  ez-nous pour une session pratique et dynamique qui vous guidera pas à pas
@@ -5033,7 +5093,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-769174@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261210T130000Z
 DTEND:20261210T150000Z
 SEQUENCE:0
@@ -5067,68 +5127,8 @@ URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
 CATEGORIES:Job dating
 END:VEVENT
 BEGIN:VEVENT
-UID:mee-799435@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261210T130000Z
-DTEND:20261210T150000Z
-SEQUENCE:0
-SUMMARY:Atelier "Parlons VAE"
-DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
-  Travail – Agence ROUBAIX CENTRE\nPublics : Tout public\nObjectifs : Dé
- couverte formation\, S'informer\nPlaces restantes : 25 / 25\n\nObjectif de
-  l'atelier : Accompagner les participants dans la compréhension complète
-  du dispositif VAE afin qu'ils puissent\, à l'issue de la séance\, ident
- ifier la première étape concrète pour se lancer. L'atelier vise à clar
- ifier le fonctionnement\, les conditions\, les acteurs et les différentes
-  phases du parcours VAE\, et à orienter chaque participant vers la bonne 
- démarche en fonction de son projet. L'atelier sera animé par OSE ROUBAIX
- .\n\nDéroulement :\nContenu abordé : Présentation du dispositif VAE et 
- de ses finalités Conditions d'éligibilité : durée d'expérience\, sect
- eurs concernés\, certifications possibles Le déroulé du parcours Délai
- s moyens\, coûts éventuels et financements possibles (CPF\, Région\, em
- ployeur ) Les interlocuteurs clés Questions/réponses et exemples concret
- s\n\nDétail et inscription : https://mesevenementsemploi.francetravail.fr
- /mes-evenements-emploi/evenement/799435
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Roubaix (59100)
-GEO:50.689796;3.177074
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/799435
-CATEGORIES:Atelier
-END:VEVENT
-BEGIN:VEVENT
-UID:mee-791841@agenda-insertion
-DTSTAMP:20261114T055906Z
-DTSTART:20261210T130000Z
-DTEND:20261210T150000Z
-SEQUENCE:1
-SUMMARY:Atelier Rédiger un mail professionnel impactant !
-DESCRIPTION:Type : Atelier\nModalité : en physique\nOrganisé par : France
-  Travail – Agence LILLE VAUCANSON\nPublics : Jeunes\nObjectifs : Les out
- ils du numérique\nBénéfices : Développement de compétences\nPlaces re
- stantes : 19 / 20\n\nVous souhaitez rédiger des e-mails qui font bonne im
- pression ? Apprenez à écrire des messages clairs et professionnels pour 
- contacter un employeur\, une administration ou un organisme. Bonus : déco
- uvrez comment l'intelligence artificielle peut vous aider !\n\nDéroulemen
- t :\nDéroulé de l'atelier (2h): L'atelier débutera par une démonstrati
- on animée par un professionnel de Reconnect. Vous passerez ensuite à la 
- pratique à travers des exercices concrets\, avec un accompagnement et des
-  conseils personnalisés. Pensez à apporter votre ordinateur portable ou 
- votre smartphone pour participer aux exercices.\n\nDétail et inscription 
- : https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evene
- ment/791841
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-LOCATION:Lille (59800)
-GEO:50.629539;3.094101
-URL:https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/even
- ement/791841
-CATEGORIES:Atelier
-END:VEVENT
-BEGIN:VEVENT
 UID:mee-804005@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261215T123000Z
 DTEND:20261215T150000Z
 SEQUENCE:0
@@ -5164,7 +5164,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-791845@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261215T130000Z
 DTEND:20261215T150000Z
 SEQUENCE:0
@@ -5198,7 +5198,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-795229@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261215T130000Z
 DTEND:20261215T155000Z
 SEQUENCE:0
@@ -5225,7 +5225,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-800171@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261215T130000Z
 DTEND:20261215T150000Z
 SEQUENCE:0
@@ -5251,7 +5251,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797842@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261215T130000Z
 DTEND:20261215T153000Z
 SEQUENCE:0
@@ -5281,7 +5281,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-797528@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261216T123000Z
 DTEND:20261216T153000Z
 SEQUENCE:0
@@ -5310,7 +5310,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-713127@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261216T130000Z
 DTEND:20261216T150000Z
 SEQUENCE:0
@@ -5340,7 +5340,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-805238@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T073000Z
 DTEND:20261217T083000Z
 SEQUENCE:0
@@ -5383,7 +5383,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-795175@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T083000Z
 DTEND:20261217T103000Z
 SEQUENCE:0
@@ -5414,7 +5414,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-805648@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T083000Z
 DTEND:20261217T093000Z
 SEQUENCE:0
@@ -5457,7 +5457,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-805651@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T093000Z
 DTEND:20261217T103000Z
 SEQUENCE:0
@@ -5466,7 +5466,7 @@ SUMMARY:Bénéficiaires du RSA : boostez votre recherche d'emploi avec l'ac
 DESCRIPTION:Type : Réunion d'information\nModalité : en physique\nOrganis
  é par : France Travail – Agence WATTRELOS\nPublics : Bénéficiaires RS
  A\nObjectifs : Coaching\, Aides à l'emploi\, Insertion\nPlaces restantes 
- : 25 / 25\n\nInscrit à France Travail et bénéficiaire du RSA\, vous all
+ : 24 / 25\n\nInscrit à France Travail et bénéficiaire du RSA\, vous all
  ez bénéficier de l'accompagnement GLOBAL\, soutenu par le département d
  u Nord\, France Travail et le Fonds Social Européen. Vous rencontrez des 
  difficultés sociales dans votre recherche d'emploi ? L'accompagnement GLO
@@ -5500,7 +5500,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-770915@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T130000Z
 DTEND:20261217T150000Z
 SEQUENCE:0
@@ -5525,7 +5525,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-794914@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T130000Z
 DTEND:20261217T150000Z
 SEQUENCE:0
@@ -5556,7 +5556,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-799442@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T130000Z
 DTEND:20261217T150000Z
 SEQUENCE:0
@@ -5591,7 +5591,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-721653@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261217T133000Z
 DTEND:20261217T143000Z
 SEQUENCE:0
@@ -5634,7 +5634,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-803801@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261221T133000Z
 DTEND:20261221T141500Z
 SEQUENCE:0
@@ -5668,7 +5668,7 @@ CATEGORIES:Atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-765601@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20261222T083000Z
 DTEND:20261222T103000Z
 SEQUENCE:0
@@ -5699,7 +5699,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-786366@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20270113T080000Z
 DTEND:20270113T110000Z
 SEQUENCE:0
@@ -5726,7 +5726,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-779681@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20270119T130000Z
 DTEND:20270119T150000Z
 SEQUENCE:0
@@ -5751,7 +5751,7 @@ CATEGORIES:Réunion d'information
 END:VEVENT
 BEGIN:VEVENT
 UID:mee-780934@agenda-insertion
-DTSTAMP:20261114T055906Z
+DTSTAMP:20261115T060152Z
 DTSTART:20270126T124500Z
 DTEND:20270126T153000Z
 SEQUENCE:0
