@@ -271,7 +271,7 @@
      "#TousMobilisés"
     ],
     "organisateur": "France Travail",
-    "places_prises": 6,
+    "places_prises": 5,
     "places_total": 10,
     "publics": [
      "Résidents en quartier prioritaire de la ville",
@@ -2630,7 +2630,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "France Travail",
-    "places_prises": 15,
+    "places_prises": 14,
     "places_total": 15,
     "publics": [
      "Personnes en situation de handicap"
@@ -2683,7 +2683,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 29,
+    "places_prises": 23,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -3784,7 +3784,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -3990,7 +3990,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 60,
+    "places_prises": 59,
     "places_total": 60,
     "publics": [
      "Tout public"
@@ -4207,7 +4207,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "S'informer"
@@ -4319,7 +4319,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -4418,7 +4418,7 @@
      "Opération Transfrontalier"
     ],
     "organisateur": "France Travail",
-    "places_prises": 142,
+    "places_prises": 137,
     "places_total": 160,
     "publics": [
      "Tout public"
@@ -4970,7 +4970,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 18,
+    "places_prises": 19,
     "places_total": 80,
     "publics": [
      "Tout public"
@@ -5742,7 +5742,7 @@
      "Métiers l industrie agroalimentaire"
     ],
     "organisateur": "Mission Locale",
-    "places_prises": 259,
+    "places_prises": 262,
     "places_total": 600,
     "publics": [
      "Tout public",
@@ -6234,7 +6234,7 @@
     ],
     "operations": [],
     "organisateur": "Mission Locale",
-    "places_prises": 18,
+    "places_prises": 19,
     "places_total": 250,
     "publics": [
      "Tout public"
@@ -6491,7 +6491,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 68,
+    "places_prises": 70,
     "places_total": 71,
     "publics": [
      "Tout public"
@@ -6688,7 +6688,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
@@ -6904,7 +6904,7 @@
      "Les clés pour réussir"
     ],
     "organisateur": "France Travail",
-    "places_prises": 19,
+    "places_prises": 20,
     "places_total": 20,
     "publics": [
      "Jeunes"
@@ -7210,7 +7210,7 @@
      "Vos futurs collaborateurs"
     ],
     "organisateur": "France Travail",
-    "places_prises": 206,
+    "places_prises": 196,
     "places_total": 270,
     "publics": [
      "Tout public"
@@ -7874,7 +7874,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 10,
     "places_total": 40,
     "publics": [
      "Tout public"
@@ -7971,7 +7971,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier"
     ],
@@ -7979,7 +7979,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 8,
+    "places_prises": 7,
     "places_total": 9,
     "publics": [
      "Tout public"
@@ -8303,7 +8303,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 174,
+    "places_prises": 176,
     "places_total": 360,
     "publics": [
      "Séniors"
@@ -8581,10 +8581,10 @@
   },
   "mee:790531": {
    "cycle": "",
-   "empreinte": "78740be7f8a56114",
-   "modifie_jusqu": "2026-11-18T07:11:29+01:00",
+   "empreinte": "423a45a87be2061a",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -8609,8 +8609,8 @@
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
-     "Recrutement",
      "Création d'entreprise",
+     "Recrutement",
      "Découverte formation",
      "Insertion"
     ],
@@ -8618,13 +8618,13 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 44,
+    "places_prises": 48,
     "places_total": 150,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "DESTINATION EMPLOI",
@@ -8667,7 +8667,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 24,
+    "places_prises": 26,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -9000,7 +9000,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Les outils du numérique"
@@ -9455,7 +9455,7 @@
      "Métiers du commerce"
     ],
     "organisateur": "France Travail",
-    "places_prises": 29,
+    "places_prises": 30,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -9526,15 +9526,15 @@
   },
   "mee:793465": {
    "cycle": "",
-   "empreinte": "644e8f066a8f8ef1",
-   "modifie_jusqu": "2026-11-20T07:12:46+01:00",
+   "empreinte": "6828b4de7a1bd5e0",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 3,
+   "sequence": 4,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
-     "Opportunité d'emploi",
      "Temps complet",
+     "Opportunité d'emploi",
      "CDI"
     ],
     "code_postal": "59000",
@@ -9566,7 +9566,7 @@
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 3,
+    "sequence": 4,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Crousty Sabaidi recrute ses 10 employés polyvalents de restauration !",
@@ -9708,7 +9708,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "France Travail",
-    "places_prises": 59,
+    "places_prises": 62,
     "places_total": 80,
     "publics": [
      "Personnes en situation de handicap"
@@ -9813,7 +9813,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "Mission Locale",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 30,
     "publics": [
      "Personnes en situation de handicap"
@@ -10309,7 +10309,7 @@
      "#TousMobilisés"
     ],
     "organisateur": "France Travail",
-    "places_prises": 46,
+    "places_prises": 45,
     "places_total": 50,
     "publics": [
      "Tout public"
@@ -10698,10 +10698,10 @@
   },
   "mee:797267": {
    "cycle": "",
-   "empreinte": "1e2944582c434772",
-   "modifie_jusqu": "2026-11-05T17:52:23+01:00",
+   "empreinte": "0b359c0a0d21c9f6",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Opportunité d'emploi"
@@ -10720,13 +10720,13 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
      "Recrutement par l'art",
-     "Recrutement sans CV",
      "Recrutement",
+     "Recrutement sans CV",
      "Marché du travail",
      "Coaching",
      "Aides à l'emploi",
@@ -10737,13 +10737,13 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 12,
+    "places_prises": 11,
     "places_total": 14,
     "publics": [
      "Séniors"
     ],
     "raisons": [],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "ART D ACCEDER A L EMPLOI : TRAVERSEE Bilan et Rebond",
@@ -11124,7 +11124,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 22,
+    "places_prises": 21,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -11322,7 +11322,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 8,
     "places_total": 10,
     "publics": [
      "Tout public"
@@ -11414,7 +11414,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 24,
+    "places_prises": 25,
     "places_total": 70,
     "publics": [
      "Tout public"
@@ -11510,7 +11510,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 39,
+    "places_prises": 43,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -12122,7 +12122,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -12220,7 +12220,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -12368,7 +12368,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -12473,7 +12473,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -12621,7 +12621,7 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Aides à l'emploi"
     ],
@@ -12631,7 +12631,7 @@
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 25,
+    "places_prises": 24,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -12673,7 +12673,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
@@ -12722,7 +12722,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Se préparer",
      "S'informer"
@@ -12771,7 +12771,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Création d'entreprise"
     ],
@@ -12832,7 +12832,7 @@
      "#TousMobilisés"
     ],
     "organisateur": "France Travail",
-    "places_prises": 35,
+    "places_prises": 34,
     "places_total": 35,
     "publics": [
      "Tout public"
@@ -12880,7 +12880,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 14,
+    "places_prises": 13,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -12929,7 +12929,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 8,
+    "places_prises": 10,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -13023,7 +13023,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 9,
     "places_total": 30,
     "publics": [
      "Personnes en situation de handicap"
@@ -13430,7 +13430,7 @@
      "Métiers du Bois - Papier - Carton"
     ],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 5,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -13656,16 +13656,16 @@
   },
   "mee:803601": {
    "cycle": "",
-   "empreinte": "a6662331e132dc14",
-   "modifie_jusqu": "2026-11-22T07:01:52+01:00",
+   "empreinte": "df8ed13ad79ae2b1",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-18T07:11:29+01:00",
-   "sequence": 3,
+   "sequence": 4,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "CDI"
     ],
     "code_postal": "59810",
@@ -13691,7 +13691,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 14,
+    "places_prises": 12,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -13699,7 +13699,7 @@
     "raisons": [
      "ville écartée : Lesquin"
     ],
-    "sequence": 3,
+    "sequence": 4,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "FORMATION POEC PROLAIDIS LESQUIN Titre professionnel préparateur de commandes",
@@ -13710,16 +13710,16 @@
   },
   "mee:803608": {
    "cycle": "",
-   "empreinte": "6b13957a28bf9b99",
-   "modifie_jusqu": "2026-11-21T06:59:06+01:00",
+   "empreinte": "d255c64a10edd0b8",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-18T07:11:29+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "CDI"
     ],
     "code_postal": "59810",
@@ -13747,7 +13747,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 2,
+    "places_prises": 3,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -13755,7 +13755,7 @@
     "raisons": [
      "ville écartée : Lesquin"
     ],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "FORMATION POEC PROLAIDIS LESQUIN Titre professionnel préparateur de commandes",
@@ -14496,7 +14496,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 21,
+    "places_prises": 22,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -14697,7 +14697,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 16,
+    "places_prises": 17,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -14999,10 +14999,10 @@
   },
   "mee:805661": {
    "cycle": "",
-   "empreinte": "f8317fc02f708921",
-   "modifie_jusqu": "2026-11-14T06:59:06+01:00",
+   "empreinte": "e4f901b43d32e6c5",
+   "modifie_jusqu": "2026-11-23T07:37:30+01:00",
    "nouveau_jusqu": "2026-11-21T06:59:06+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -15025,24 +15025,24 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": true,
     "objectifs": [
      "Aides à l'emploi"
     ],
     "operations": [
-     "Vos futurs collaborateurs",
      "#TousMobilisés",
+     "Vos futurs collaborateurs",
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 5,
+    "places_prises": 6,
     "places_total": 20,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "MANPOWER LOGISTIQUE RECRUTE DES PREPARATEURS DE COMMANDES H/F",
