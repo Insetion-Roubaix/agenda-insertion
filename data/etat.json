@@ -4353,7 +4353,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 14,
+    "places_prises": 15,
     "places_total": 15,
     "publics": [
      "Jeunes"
@@ -4939,7 +4939,7 @@
      "QPV Ruralité A compétences égales Chances égales"
     ],
     "organisateur": "France Travail",
-    "places_prises": 383,
+    "places_prises": 382,
     "places_total": 500,
     "publics": [
      "Tout public"
@@ -6578,16 +6578,16 @@
   },
   "mee:789212": {
    "cycle": "",
-   "empreinte": "212cdf49a363b55b",
-   "modifie_jusqu": "2026-11-25T07:17:32+01:00",
+   "empreinte": "e79ace0928c2ddda",
+   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 3,
+   "sequence": 4,
    "snapshot": {
     "benefices": [
      "Formation assurée",
      "Rencontre recruteur",
-     "Opportunité d'emploi",
      "Temps complet",
+     "Opportunité d'emploi",
      "Se diplômer",
      "Contrat en alternance",
      "Formation financée"
@@ -6620,7 +6620,7 @@
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 6,
+    "places_prises": 7,
     "places_total": 15,
     "publics": [
      "Jeunes",
@@ -6629,7 +6629,7 @@
      "Débutant(e) accepté(e)"
     ],
     "raisons": [],
-    "sequence": 3,
+    "sequence": 4,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Auchan Leers Drive - Préparateur de commandes - Alternance",
@@ -6669,7 +6669,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 40,
+    "places_prises": 44,
     "places_total": 80,
     "publics": [
      "Tout public"
@@ -6988,7 +6988,7 @@
      "QPV Ruralité A compétences égales Chances égales"
     ],
     "organisateur": "France Travail",
-    "places_prises": 111,
+    "places_prises": 112,
     "places_total": 500,
     "publics": [
      "Tout public"
@@ -7037,7 +7037,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 51,
+    "places_prises": 52,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -9126,7 +9126,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 33,
+    "places_prises": 32,
     "places_total": 40,
     "publics": [
      "Tout public"
@@ -9512,7 +9512,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 69,
+    "places_prises": 70,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -10487,7 +10487,7 @@
      "1 jeune  1 solution"
     ],
     "organisateur": "France Travail",
-    "places_prises": 12,
+    "places_prises": 13,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -10536,7 +10536,7 @@
      "#TousEnImmersion"
     ],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 10,
     "places_total": 10,
     "publics": [
      "Tout public"
@@ -10977,7 +10977,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 35,
+    "places_prises": 38,
     "places_total": 80,
     "publics": [
      "Tout public"
@@ -11440,7 +11440,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 19,
+    "places_prises": 20,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -11494,7 +11494,7 @@
      "Métiers de l Hôtellerie Restauration"
     ],
     "organisateur": "France Travail",
-    "places_prises": 22,
+    "places_prises": 24,
     "places_total": 100,
     "publics": [
      "Résidents en quartier prioritaire de la ville",
@@ -12205,7 +12205,7 @@
     ],
     "operations": [],
     "organisateur": "Conseil départemental du Nord (59)",
-    "places_prises": 5,
+    "places_prises": 7,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -12698,7 +12698,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 21,
+    "places_prises": 22,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -12953,10 +12953,10 @@
   },
   "mee:805661": {
    "cycle": "",
-   "empreinte": "2515dfc8c259348c",
-   "modifie_jusqu": "2026-11-28T07:06:20+01:00",
+   "empreinte": "9e9694706e5c1d6a",
+   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
    "nouveau_jusqu": "2026-11-21T06:59:06+01:00",
-   "sequence": 4,
+   "sequence": 5,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -12985,8 +12985,8 @@
      "Aides à l'emploi"
     ],
     "operations": [
-     "Vos futurs collaborateurs",
      "#TousMobilisés",
+     "Vos futurs collaborateurs",
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
@@ -12996,7 +12996,7 @@
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 4,
+    "sequence": 5,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "MANPOWER LOGISTIQUE RECRUTE DES PREPARATEURS DE COMMANDES H/F",
@@ -13193,16 +13193,16 @@
   },
   "mee:807506": {
    "cycle": "",
-   "empreinte": "c73453694349c306",
-   "modifie_jusqu": "2026-11-28T07:06:20+01:00",
+   "empreinte": "c24ddff314393fcf",
+   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
    "nouveau_jusqu": "2026-11-25T07:17:32+01:00",
-   "sequence": 3,
+   "sequence": 4,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Opportunité d'emploi",
      "Temps complet",
+     "Opportunité d'emploi",
      "Temps partiel"
     ],
     "code_postal": "59160",
@@ -13230,21 +13230,21 @@
      "Métiers de la propreté"
     ],
     "organisateur": "France Travail",
-    "places_prises": 13,
+    "places_prises": 14,
     "places_total": 30,
     "publics": [
      "Bénéficiaires RSA",
-     "Séniors",
      "Résidents en quartier prioritaire de la ville",
+     "Séniors",
      "Jeunes",
      "Tout public",
-     "Personnes en situation de handicap",
      "Pas de diplôme exigé",
+     "Personnes en situation de handicap",
      "Débutant(e) accepté(e)",
      "Etrangers Primo Arrivants"
     ],
     "raisons": [],
-    "sequence": 3,
+    "sequence": 4,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "RECRUTEMENT D'AGENTS D'ENTRETIEN ET DE GARDIENS POUR LA SOCIETE CLEAN OFFICE",
@@ -13956,7 +13956,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 20,
+    "places_prises": 21,
     "places_total": 24,
     "publics": [
      "Tout public"
@@ -14111,7 +14111,7 @@
      "L alternance"
     ],
     "organisateur": "La Halle de l'emploi",
-    "places_prises": 9,
+    "places_prises": 10,
     "places_total": 150,
     "publics": [
      "Jeunes"
@@ -14257,7 +14257,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 3,
+    "places_prises": 4,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -14440,16 +14440,16 @@
   },
   "mee:809916": {
    "cycle": "",
-   "empreinte": "0c28cfcf9a2b9a8a",
-   "modifie_jusqu": "2026-11-20T07:18:14+01:00",
+   "empreinte": "26d06efeffee6d80",
+   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
    "nouveau_jusqu": "2026-11-27T07:18:14+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Formation assurée",
      "Développement de compétences",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "CDI"
     ],
     "code_postal": "59650",
@@ -14468,20 +14468,20 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": true,
     "objectifs": [
      "Recrutement"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 6,
     "places_total": 20,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "RECRUTEMENT OUVERTURE AU BUREAU LESQUIN",
@@ -14986,7 +14986,7 @@
      "Métiers de la métallurgie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 0,
+    "places_prises": 1,
     "places_total": 26,
     "publics": [
      "Tout public"
