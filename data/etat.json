@@ -3327,7 +3327,7 @@
     ],
     "operations": [],
     "organisateur": "La Halle de l'emploi",
-    "places_prises": 17,
+    "places_prises": 18,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -4886,10 +4886,10 @@
   },
   "mee:782968": {
    "cycle": "",
-   "empreinte": "238f4b446408caad",
-   "modifie_jusqu": "2026-11-28T07:06:20+01:00",
+   "empreinte": "f89d022d1cc687c7",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-24T07:13:02+01:00",
-   "sequence": 4,
+   "sequence": 5,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -4928,8 +4928,8 @@
     "nouveau": true,
     "objectifs": [
      "Découverte secteur / métier",
-     "Recrutement",
      "Création d'entreprise",
+     "Recrutement",
      "Découverte formation",
      "Insertion"
     ],
@@ -4945,7 +4945,7 @@
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 4,
+    "sequence": 5,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "DESTINATION EMPLOI",
@@ -5683,7 +5683,7 @@
      "Métiers du BTP"
     ],
     "organisateur": "France Travail",
-    "places_prises": 13,
+    "places_prises": 14,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -6558,7 +6558,7 @@
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 21,
+    "places_prises": 19,
     "places_total": 21,
     "publics": [
      "Jeunes",
@@ -6669,7 +6669,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 44,
+    "places_prises": 46,
     "places_total": 80,
     "publics": [
      "Tout public"
@@ -6773,7 +6773,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 241,
+    "places_prises": 242,
     "places_total": 360,
     "publics": [
      "Séniors"
@@ -6949,10 +6949,10 @@
   },
   "mee:790531": {
    "cycle": "",
-   "empreinte": "f06f385ec13673c3",
-   "modifie_jusqu": "2026-11-26T07:15:04+01:00",
+   "empreinte": "0a09339d3daddf76",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 5,
+   "sequence": 6,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -6977,8 +6977,8 @@
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
-     "Recrutement",
      "Création d'entreprise",
+     "Recrutement",
      "Découverte formation",
      "Insertion"
     ],
@@ -6988,13 +6988,13 @@
      "QPV Ruralité A compétences égales Chances égales"
     ],
     "organisateur": "France Travail",
-    "places_prises": 112,
+    "places_prises": 115,
     "places_total": 500,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 5,
+    "sequence": 6,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "DESTINATION EMPLOI",
@@ -7037,7 +7037,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 52,
+    "places_prises": 55,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -7521,7 +7521,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 11,
+    "places_prises": 12,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -8038,7 +8038,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 20,
+    "places_prises": 19,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -8572,7 +8572,7 @@
      "#TousEnImmersion"
     ],
     "organisateur": "France Travail",
-    "places_prises": 26,
+    "places_prises": 27,
     "places_total": 60,
     "publics": [
      "Bénéficiaires RSA",
@@ -8935,7 +8935,7 @@
      "HANDISCUTER"
     ],
     "organisateur": "France Travail",
-    "places_prises": 8,
+    "places_prises": 7,
     "places_total": 10,
     "publics": [
      "Personnes en situation de handicap"
@@ -9126,7 +9126,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 32,
+    "places_prises": 33,
     "places_total": 40,
     "publics": [
      "Tout public"
@@ -9512,7 +9512,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 70,
+    "places_prises": 71,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -10084,7 +10084,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 19,
+    "places_prises": 18,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -10384,7 +10384,7 @@
      "Métiers du Prendre soin"
     ],
     "organisateur": "France Travail",
-    "places_prises": 13,
+    "places_prises": 12,
     "places_total": 35,
     "publics": [
      "Tout public"
@@ -10487,7 +10487,7 @@
      "1 jeune  1 solution"
     ],
     "organisateur": "France Travail",
-    "places_prises": 13,
+    "places_prises": 14,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -10782,7 +10782,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 10,
+    "places_prises": 11,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -10977,7 +10977,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 38,
+    "places_prises": 40,
     "places_total": 80,
     "publics": [
      "Tout public"
@@ -11286,7 +11286,7 @@
      "Métiers du Bois - Papier - Carton"
     ],
     "organisateur": "France Travail",
-    "places_prises": 12,
+    "places_prises": 14,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -11440,7 +11440,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 20,
+    "places_prises": 21,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -11622,16 +11622,16 @@
   },
   "mee:803612": {
    "cycle": "",
-   "empreinte": "63befe7ab999d936",
-   "modifie_jusqu": "2026-11-27T07:18:14+01:00",
+   "empreinte": "198bfc892c145f9c",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-18T07:11:29+01:00",
-   "sequence": 2,
+   "sequence": 3,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "CDI"
     ],
     "code_postal": "59810",
@@ -11667,7 +11667,7 @@
     "raisons": [
      "ville écartée : Lesquin"
     ],
-    "sequence": 2,
+    "sequence": 3,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "FORMATION POEC PROLAIDIS LESQUIN Titre professionnel préparateur de commandes",
@@ -12205,7 +12205,7 @@
     ],
     "operations": [],
     "organisateur": "Conseil départemental du Nord (59)",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -12698,7 +12698,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 22,
+    "places_prises": 21,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -12953,10 +12953,10 @@
   },
   "mee:805661": {
    "cycle": "",
-   "empreinte": "9e9694706e5c1d6a",
-   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
+   "empreinte": "2515dfc8c259348c",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-21T06:59:06+01:00",
-   "sequence": 5,
+   "sequence": 6,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -12985,18 +12985,18 @@
      "Aides à l'emploi"
     ],
     "operations": [
-     "#TousMobilisés",
      "Vos futurs collaborateurs",
+     "#TousMobilisés",
      "1 jour, 1 formation"
     ],
     "organisateur": "France Travail",
-    "places_prises": 25,
+    "places_prises": 24,
     "places_total": 25,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 5,
+    "sequence": 6,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "MANPOWER LOGISTIQUE RECRUTE DES PREPARATEURS DE COMMANDES H/F",
@@ -13193,16 +13193,16 @@
   },
   "mee:807506": {
    "cycle": "",
-   "empreinte": "c24ddff314393fcf",
-   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
+   "empreinte": "4a7fbcb73aa65dd0",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-25T07:17:32+01:00",
-   "sequence": 4,
+   "sequence": 5,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "Temps partiel"
     ],
     "code_postal": "59160",
@@ -13230,7 +13230,7 @@
      "Métiers de la propreté"
     ],
     "organisateur": "France Travail",
-    "places_prises": 14,
+    "places_prises": 13,
     "places_total": 30,
     "publics": [
      "Bénéficiaires RSA",
@@ -13244,7 +13244,7 @@
      "Etrangers Primo Arrivants"
     ],
     "raisons": [],
-    "sequence": 4,
+    "sequence": 5,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "RECRUTEMENT D'AGENTS D'ENTRETIEN ET DE GARDIENS POUR LA SOCIETE CLEAN OFFICE",
@@ -13579,7 +13579,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 22,
+    "places_prises": 18,
     "places_total": 35,
     "publics": [
      "Tout public"
@@ -14205,7 +14205,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 10,
     "publics": [
      "Tout public"
@@ -14257,7 +14257,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 5,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -14277,10 +14277,10 @@
   },
   "mee:809462": {
    "cycle": "",
-   "empreinte": "610d28ee776e1d2e",
-   "modifie_jusqu": "2026-11-28T07:06:20+01:00",
+   "empreinte": "ae68b624761368a0",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-27T07:18:14+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -14310,18 +14310,18 @@
      "Recrutement",
      "Marché du travail",
      "Découverte formation",
-     "Insertion",
-     "S'informer"
+     "S'informer",
+     "Insertion"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 6,
     "places_total": 100,
     "publics": [
      "Femmes – mixité professionnelle"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Ca bouge pour elles !\" - Forum au féminin, 2iem édition",
@@ -14440,16 +14440,16 @@
   },
   "mee:809916": {
    "cycle": "",
-   "empreinte": "26d06efeffee6d80",
-   "modifie_jusqu": "2026-11-29T07:08:16+01:00",
+   "empreinte": "0c28cfcf9a2b9a8a",
+   "modifie_jusqu": "2026-11-30T07:19:38+01:00",
    "nouveau_jusqu": "2026-11-27T07:18:14+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Formation assurée",
      "Développement de compétences",
-     "Opportunité d'emploi",
      "Temps complet",
+     "Opportunité d'emploi",
      "CDI"
     ],
     "code_postal": "59650",
@@ -14475,13 +14475,13 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 6,
+    "places_prises": 7,
     "places_total": 20,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "RECRUTEMENT OUVERTURE AU BUREAU LESQUIN",
@@ -14525,7 +14525,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 3,
+    "places_prises": 2,
     "places_total": 20,
     "publics": [
      "Séniors"
@@ -14937,7 +14937,7 @@
      "Métiers de la métallurgie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 26,
     "publics": [
      "Tout public"
@@ -14986,7 +14986,7 @@
      "Métiers de la métallurgie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 2,
     "places_total": 26,
     "publics": [
      "Tout public"
