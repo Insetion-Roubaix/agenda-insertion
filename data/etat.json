@@ -552,10 +552,10 @@
   },
   "mee:721653": {
    "cycle": "",
-   "empreinte": "1b90e69c42266d1e",
-   "modifie_jusqu": "2026-11-05T17:52:23+01:00",
+   "empreinte": "bb7e29e6977e6983",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -580,16 +580,16 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": false,
     "objectifs": [
-     "Recrutement sans CV",
      "Recrutement",
+     "Recrutement sans CV",
      "Aides à l'emploi"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 2,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -597,7 +597,7 @@
     "raisons": [
      "à regarder : reserve aux"
     ],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "a_verifier",
     "titre": "Présentation Méthode IOD pour BRSA ( Bénéficiaires du RSA) RESERVE AUX DEMANDEURS DE L'AGENCE LILLE PORT FLUVIAL",
@@ -1718,7 +1718,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Création d'entreprise"
@@ -1819,7 +1819,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 25,
+    "places_prises": 27,
     "places_total": 50,
     "publics": [
      "Tout public"
@@ -1865,7 +1865,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 4,
+    "places_prises": 6,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -2303,65 +2303,6 @@
     "ville": "La Madeleine"
    }
   },
-  "mee:779981": {
-   "cycle": "annule",
-   "empreinte": "f8dea39d7bb66c3d",
-   "modifie_jusqu": "2026-11-18T07:11:29+01:00",
-   "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 1,
-   "snapshot": {
-    "benefices": [
-     "Rencontre recruteur",
-     "CDD",
-     "Opportunité d'emploi",
-     "Contrat en alternance",
-     "Contrat saisonnier"
-    ],
-    "code_postal": "59810",
-    "cycle": "",
-    "debut": "2026-11-20T09:30:00+01:00",
-    "deroulement": "Inscriptions Pour des raisons d'organisation, le Forum Emploi de l'aéroport de Lille est organisé en deux sessions : Soit le matin à 9h30 ou l'après-midi à 14h00 L'inscription sur le site de l'aéroport à l'une de ces sessions est obligatoire. Aucune inscription sur place ne sera possible. Aucune personne ne sera autorisée à entrer, sans inscription préalable. Des contrôles d'identité pourraient être réalisés à l'entrée du salon. Pensez à vous munir d'une pièce d'identité en cours de validité. Comment venir ? En voiture par l'A1 (sortie 20 Aéroport) ou par l'A23 (via le CRT de Lesquin) ; parking offert à l'aéroport aux participants du Forum Par la navette de l'aéroport, depuis le centre-ville de Lille Par la ligne de bus ilévia B68 depuis la gare TER de Lesquin ou depuis la station de métro 4 cantons Les exposants AÉROPORT DE LILLE SAS AVIAPARTNER SERIS SECURITY DERICHEBOURG LAGARDERE TRAVEL RETAIL",
-    "description": "le Forum de l'Emploi de l'aéroport de Lille vous permettra de découvrir les métiers de l'aéroport et de postuler pour l'un des 50 postes proposés pour 2026. Vous pourrez également vous renseigner sur les formations, les emplois et rencontrer les entreprises. INSCRIPTION SUR LE LIEN DU SITE DE L'AEROPORT EST IMPERATIF SOIT Le matin SOIT L'apres midi Les exposants AÉROPORT DE LILLE SAS : Agent d'exploitation (H/F), Agent Parcs et accès (H/F), Agent Clientèle (H/F) Bac à Bac2 en tourisme ou disposez d'une expérience reconnue dans un poste similaire. AVIAPARTNER : Contrat de professionalisation de 8 mois : Agent / Agente de chargement Aéroportuaire (H/F), Agent / Agente d'escale aéroportuaire (H/F), SERIS SECURITY : Agent de sureté aéroportuaire (H/F) DERICHEBOURG : Agent d'entretien (H/F), LAGARDERE TRAVEL RETAIL : Préparateur-vendeur / Préparatrice-vendeuse de sandwichs (H/F), Équipier(ère) polyvalent(e) de restauration rapide, Vendeur(se) magasinier(ère) (permis b obligatoire)",
-    "etablissement": "Agence VILLENEUVE D'ASCQ",
-    "fin": "2026-11-20T17:00:00+01:00",
-    "id_source": "779981",
-    "intervenants": [
-     "AEROPORT DE LILLE"
-    ],
-    "latitude": 50.57350540161133,
-    "longitude": 3.0970160961151123,
-    "modalites": [
-     "en physique"
-    ],
-    "modifie": false,
-    "nouveau": false,
-    "objectifs": [
-     "Découverte secteur / métier",
-     "Recrutement",
-     "Découverte formation",
-     "S'informer"
-    ],
-    "operations": [
-     "1 jeune  1 solution"
-    ],
-    "organisateur": "France Travail",
-    "places_prises": 99,
-    "places_total": 100,
-    "publics": [
-     "Tout public"
-    ],
-    "raisons": [
-     "ville écartée : Lesquin"
-    ],
-    "sequence": 0,
-    "source": "mee",
-    "statut_tri": "ecarte",
-    "titre": "L'aéroport de LILLE LESQUIN et ses partenaires recrutent",
-    "type": "Forum",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/779981",
-    "ville": "Lesquin"
-   }
-  },
   "mee:780035": {
    "cycle": "annule",
    "empreinte": "20e0064007b476c8",
@@ -2708,10 +2649,10 @@
   },
   "mee:782189": {
    "cycle": "",
-   "empreinte": "d23c1e10e1830cf4",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "58d9a7f080315e70",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 9,
+   "sequence": 10,
    "snapshot": {
     "benefices": [],
     "code_postal": "59170",
@@ -2738,19 +2679,19 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 17,
+    "places_prises": 18,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA",
-     "Résidents en quartier prioritaire de la ville",
      "Séniors",
-     "Personnes en situation de handicap",
+     "Résidents en quartier prioritaire de la ville",
      "Pas de diplôme exigé",
-     "Cadres",
-     "Public insertion par activité économique"
+     "Personnes en situation de handicap",
+     "Public insertion par activité économique",
+     "Cadres"
     ],
     "raisons": [],
-    "sequence": 9,
+    "sequence": 10,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "LIVE",
@@ -3111,7 +3052,7 @@
     ],
     "operations": [],
     "organisateur": "Mission Locale",
-    "places_prises": 59,
+    "places_prises": 61,
     "places_total": 250,
     "publics": [
      "Tout public"
@@ -3553,7 +3494,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 34,
+    "places_prises": 35,
     "places_total": 40,
     "publics": [
      "Tout public"
@@ -3663,60 +3604,6 @@
     "type": "Atelier",
     "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/788334",
     "ville": "Lille"
-   }
-  },
-  "mee:788993": {
-   "cycle": "",
-   "empreinte": "1148592d893064e2",
-   "modifie_jusqu": "2026-11-05T17:52:23+01:00",
-   "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 0,
-   "snapshot": {
-    "benefices": [
-     "Développement de compétences",
-     "Opportunité d'emploi"
-    ],
-    "code_postal": "59150",
-    "cycle": "",
-    "debut": "2026-11-20T09:00:00+01:00",
-    "deroulement": "Ce dispositif vous offre un accompagnement complet : Faire le point, Identifiez vos compétences et valorisez vos atouts. Découvrez les métiers qui recrutent réellement sur votre territoire. Renforcer vos bases : Bénéficiez d'une remise à niveau en français, mathématiques et numérique (via le socle CléA). Validez votre projet par des périodes d'immersion et des stages en entreprise. Un accompagnement adapté pris en charge par le conseil régional des HAUTS-DE-FRANCE",
-    "description": "Vous êtes actuellement en phase de réflexion ou d'élaboration de votre projet professionnel ? Vous souhaitez donner un nouvel élan à votre carrière, vous reconvertir ou accéder directement à un emploi ou une alternance ? La prestation S'engager vers l'emploi , un dispositif d'accompagnement et de formation conçu pour vous aider à transformer vos aspirations en une réalité professionnelle concrète.",
-    "etablissement": "Agence WATTRELOS",
-    "fin": "2026-11-20T11:00:00+01:00",
-    "id_source": "788993",
-    "intervenants": [],
-    "latitude": 50.709617614746094,
-    "longitude": 3.2088170051574707,
-    "modalites": [
-     "en physique"
-    ],
-    "modifie": false,
-    "nouveau": false,
-    "objectifs": [
-     "Découverte secteur / métier",
-     "Les outils du numérique",
-     "Découverte formation",
-     "Coaching",
-     "Aides à l'emploi",
-     "Se préparer",
-     "Stratégie et techniques de recherches d'emploi",
-     "S'informer"
-    ],
-    "operations": [],
-    "organisateur": "France Travail",
-    "places_prises": 7,
-    "places_total": 40,
-    "publics": [
-     "Tout public"
-    ],
-    "raisons": [],
-    "sequence": 0,
-    "source": "mee",
-    "statut_tri": "retenu",
-    "titre": "Dispositif régional S'engager vers l'emploi : Accompagnement et Formation OMEP Wattrelos",
-    "type": "Réunion d'information",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/788993",
-    "ville": "Wattrelos"
    }
   },
   "mee:789207": {
@@ -3874,7 +3761,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 61,
+    "places_prises": 66,
     "places_total": 90,
     "publics": [
      "Tout public"
@@ -4364,7 +4251,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Se préparer",
@@ -4425,7 +4312,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 21,
+    "places_prises": 25,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -4464,7 +4351,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Création d'entreprise"
@@ -4473,7 +4360,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 25,
+    "places_prises": 27,
     "places_total": 180,
     "publics": [
      "Bénéficiaires RSA",
@@ -4760,7 +4647,7 @@
     ],
     "operations": [],
     "organisateur": "La Halle de l'emploi",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -4905,7 +4792,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 15,
+    "places_prises": 14,
     "places_total": 20,
     "publics": [
      "Séniors"
@@ -5013,7 +4900,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 29,
+    "places_prises": 30,
     "places_total": 35,
     "publics": [
      "Tout public"
@@ -5116,7 +5003,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 68,
+    "places_prises": 71,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -5568,10 +5455,10 @@
   },
   "mee:798780": {
    "cycle": "",
-   "empreinte": "2a14b53a0169db19",
-   "modifie_jusqu": "2026-12-01T07:09:59+01:00",
+   "empreinte": "c56ad1807896ac82",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 2,
+   "sequence": 3,
    "snapshot": {
     "benefices": [],
     "code_postal": "59000",
@@ -5597,13 +5484,13 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 79,
-    "places_total": 80,
+    "places_prises": 82,
+    "places_total": 82,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 2,
+    "sequence": 3,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "VILLAGE CREATION D'ENTREPRISE / Semaine de la Création d'Entreprise RESTART 2026",
@@ -5661,10 +5548,10 @@
   },
   "mee:799168": {
    "cycle": "",
-   "empreinte": "4dcf8b92d0f92f44",
-   "modifie_jusqu": "2026-12-03T07:09:06+01:00",
+   "empreinte": "95e4ddbabc0ba05c",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-05T17:52:23+01:00",
-   "sequence": 2,
+   "sequence": 3,
    "snapshot": {
     "benefices": [
      "Développement de compétences",
@@ -5693,15 +5580,15 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 300,
-    "places_total": 300,
+    "places_prises": 336,
+    "places_total": 350,
     "publics": [
      "Tout public"
     ],
     "raisons": [
      "à distance uniquement"
     ],
-    "sequence": 2,
+    "sequence": 3,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "Créer son entreprise et développer ses compétences : découvrez les financements AGEFICE, FIF PL et FAFCEA",
@@ -6108,7 +5995,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
@@ -6119,7 +6006,7 @@
      "Métiers du Prendre soin"
     ],
     "organisateur": "France Travail",
-    "places_prises": 43,
+    "places_prises": 45,
     "places_total": 45,
     "publics": [
      "Tout public"
@@ -6427,52 +6314,6 @@
     "ville": "Lille"
    }
   },
-  "mee:800636": {
-   "cycle": "",
-   "empreinte": "4496d7d395986180",
-   "modifie_jusqu": "2026-11-08T16:39:36+01:00",
-   "nouveau_jusqu": "2026-11-15T16:39:36+01:00",
-   "sequence": 0,
-   "snapshot": {
-    "benefices": [
-     "CDI"
-    ],
-    "code_postal": "59800",
-    "cycle": "",
-    "debut": "2026-11-20T14:00:00+01:00",
-    "deroulement": "Réunion collective suivie d'entretien individuel avec l'employeur, merci de vous munir d'un CV à jour",
-    "description": "Vous êtes cuisinier(ère) expérimenté(e), chef(fe) de partie, pâtissier(ère) ou second(e) de cuisine ? Les Restaurants de Lille recherchent des talents pour rejoindre leurs équipes en CDD ou CDI ! Profil recherché : - Cuisinier(ère) expérimenté(e) (5 ans minimum) - 1 Cuisinier de nuit (18h30 / 3h ou 5h) - Chef(fe) de partie - Pâtissier(ère) - Second(e) de cuisine Conditions de travail : CDD/CDI Temps plein Intéressé(e), n'hésitez pas à vous positionner !",
-    "etablissement": "Agence LILLE PORT FLUVIAL",
-    "fin": "2026-11-20T16:00:00+01:00",
-    "id_source": "800636",
-    "intervenants": [],
-    "latitude": 50.63011169433594,
-    "longitude": 3.0748300552368164,
-    "modalites": [
-     "en physique"
-    ],
-    "modifie": false,
-    "nouveau": false,
-    "objectifs": [
-     "Recrutement"
-    ],
-    "operations": [],
-    "organisateur": "France Travail",
-    "places_prises": 4,
-    "places_total": 30,
-    "publics": [
-     "Tout public"
-    ],
-    "raisons": [],
-    "sequence": 0,
-    "source": "mee",
-    "statut_tri": "retenu",
-    "titre": "Cuisinier(ère)s, chef(fe)s de partie, pâtissier(ère)s : le Groupe Les Restaurants de Lille recrute !",
-    "type": "Job dating",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/800636",
-    "ville": "Lille"
-   }
-  },
   "mee:801042": {
    "cycle": "",
    "empreinte": "7915ed8e220c6e58",
@@ -6580,10 +6421,10 @@
   },
   "mee:801401": {
    "cycle": "",
-   "empreinte": "3f2e7f8139a4d496",
-   "modifie_jusqu": "2026-12-03T07:09:06+01:00",
+   "empreinte": "81a4da361a80d6cc",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-15T16:39:36+01:00",
-   "sequence": 5,
+   "sequence": 6,
    "snapshot": {
     "benefices": [
      "Opportunité d'emploi"
@@ -6612,13 +6453,13 @@
      "#TousEnImmersion"
     ],
     "organisateur": "France Travail",
-    "places_prises": 10,
-    "places_total": 10,
+    "places_prises": 12,
+    "places_total": 12,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 5,
+    "sequence": 6,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Accéder aux Opportunités d'Emplois présentation Immersion facilité",
@@ -7071,7 +6912,7 @@
      "Métiers du Bois - Papier - Carton"
     ],
     "organisateur": "France Travail",
-    "places_prises": 62,
+    "places_prises": 67,
     "places_total": 100,
     "publics": [
      "Tout public"
@@ -7225,7 +7066,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 24,
+    "places_prises": 25,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -7242,16 +7083,16 @@
   },
   "mee:803599": {
    "cycle": "",
-   "empreinte": "0196b8ab12d39f80",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "4852adfc08930087",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-20T07:12:46+01:00",
-   "sequence": 7,
+   "sequence": 8,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
      "CDD",
-     "Temps complet",
      "Opportunité d'emploi",
+     "Temps complet",
      "CDI",
      "Temps partiel"
     ],
@@ -7279,14 +7120,14 @@
      "Métiers de l Hôtellerie Restauration"
     ],
     "organisateur": "France Travail",
-    "places_prises": 40,
+    "places_prises": 43,
     "places_total": 100,
     "publics": [
      "Résidents en quartier prioritaire de la ville",
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 7,
+    "sequence": 8,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Job dating HRT : rencontrez des employeurs et décrochez un emploi dès l'après-midi !",
@@ -7373,7 +7214,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Aides à l'emploi",
@@ -7493,7 +7334,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 10,
+    "places_prises": 14,
     "places_total": 23,
     "publics": [
      "Tout public"
@@ -7593,7 +7434,7 @@
      "La semaine de l'industrie"
     ],
     "organisateur": "France Travail",
-    "places_prises": 10,
+    "places_prises": 9,
     "places_total": 25,
     "publics": [
      "Tout public"
@@ -7753,106 +7594,6 @@
     "ville": "Villeneuve-d'Ascq"
    }
   },
-  "mee:804685": {
-   "cycle": "",
-   "empreinte": "4f551b782175f54f",
-   "modifie_jusqu": "2026-11-13T07:12:46+01:00",
-   "nouveau_jusqu": "2026-11-20T07:12:46+01:00",
-   "sequence": 0,
-   "snapshot": {
-    "benefices": [],
-    "code_postal": "59200",
-    "cycle": "",
-    "debut": "2026-11-20T10:00:00+01:00",
-    "deroulement": "Votre programme 1. Les Ateliers de préparation Un cycle de 4 ateliers intensifs 2. L'Événement de restitution Le point d'orgue du projet : une représentation artistique devant un panel d'entreprises locales. Ce moment privilégié permettra aux employeurs de découvrir vos talents en situation réelle. Lieu : La virgule, Tourcoing",
-    "description": "En collaboration avec La virgule de Tourcoing Donnez une nouvelle dimension à votre recherche d'emploi ! Découvrez notre dispositif innovant : un accompagnement collectif unique pour 10 demandeurs d'emploi ! Grâce aux codes de l'improvisation théâtrale, boostez les compétences que les recruteurs recherchent : Confiance en soi : s'affirmer et gérer son stress. Communication : améliorer votre aisance orale et votre posture. Créativité : développer votre capacité d'adaptation et votre esprit d'équipe.",
-    "etablissement": "Agence TOURCOING",
-    "fin": "2026-11-20T11:00:00+01:00",
-    "id_source": "804685",
-    "intervenants": [],
-    "latitude": 50.717769622802734,
-    "longitude": 3.172089099884033,
-    "modalites": [
-     "en physique"
-    ],
-    "modifie": false,
-    "nouveau": false,
-    "objectifs": [
-     "S'informer"
-    ],
-    "operations": [
-     "L'Art d'accéder à l'emploi"
-    ],
-    "organisateur": "France Travail",
-    "places_prises": 7,
-    "places_total": 30,
-    "publics": [
-     "Bénéficiaires RSA",
-     "Tout public",
-     "Pas de diplôme exigé",
-     "Débutant(e) accepté(e)"
-    ],
-    "raisons": [],
-    "sequence": 0,
-    "source": "mee",
-    "statut_tri": "retenu",
-    "titre": "Présentation de L'Art d'Accéder à l'Emploi: \" Improviser pour Réussir \"",
-    "type": "Atelier",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/804685",
-    "ville": "Tourcoing"
-   }
-  },
-  "mee:804817": {
-   "cycle": "",
-   "empreinte": "c12907301e884d79",
-   "modifie_jusqu": "2026-11-27T07:18:14+01:00",
-   "nouveau_jusqu": "2026-11-20T07:12:46+01:00",
-   "sequence": 2,
-   "snapshot": {
-    "benefices": [
-     "Formation assurée",
-     "Opportunité d'emploi",
-     "Formation financée"
-    ],
-    "code_postal": "59110",
-    "cycle": "",
-    "debut": "2026-11-20T09:30:00+01:00",
-    "deroulement": "Pré-sélection des candidats(es) par un entretien de motivation (se munir de son CV)",
-    "description": "Dans le cadre du recrutement d'un(e) employé(e) en libre service du magasin Action de Marquette Lez-Lille, vous serez reçu(e) en entretien par le centre de formation RFCI chargé de la formation avant l'embauche. La formation théorique POEI (Préparation Opérationnelle à l'Emploi) se déroulera à Villeneuve d'Ascq pendant 5 semaines à compter du 23 novembre 2026. A l'issue un CDI, 24h semaine, sera proposé. Plus toute information complémentaire, une offre d'emploi est diffusée sur le site France Travail sous la référence n 216DMCK. Prérequis incontournable : être inscrit à France Travail",
-    "etablissement": "Agence LA MADELEINE",
-    "fin": "2026-11-20T12:00:00+01:00",
-    "id_source": "804817",
-    "intervenants": [],
-    "latitude": 50.64491271972656,
-    "longitude": 3.072129964828491,
-    "modalites": [
-     "en physique"
-    ],
-    "modifie": true,
-    "nouveau": false,
-    "objectifs": [
-     "Recrutement",
-     "Découverte formation"
-    ],
-    "operations": [
-     "Métiers du commerce"
-    ],
-    "organisateur": "France Travail",
-    "places_prises": 30,
-    "places_total": 30,
-    "publics": [
-     "Tout public"
-    ],
-    "raisons": [],
-    "sequence": 2,
-    "source": "mee",
-    "statut_tri": "retenu",
-    "titre": "Le magasin ACTION de Marquette-Lez-Lille forme et recrute des employé(e) libre service",
-    "type": "Job dating",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/804817",
-    "ville": "La Madeleine"
-   }
-  },
   "mee:804946": {
    "cycle": "",
    "empreinte": "cb3dcc138fd593a6",
@@ -7934,7 +7675,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 25,
+    "places_prises": 24,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -7997,10 +7738,10 @@
   },
   "mee:805346": {
    "cycle": "",
-   "empreinte": "fb9bf1883ecc8934",
-   "modifie_jusqu": "2026-12-03T07:09:06+01:00",
+   "empreinte": "920a65c6ee6a8916",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-24T07:13:02+01:00",
-   "sequence": 5,
+   "sequence": 6,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur"
@@ -8029,13 +7770,13 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 70,
-    "places_total": 108,
+    "places_prises": 81,
+    "places_total": 122,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 5,
+    "sequence": 6,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Forum de recrutement SIA HABITAT",
@@ -8075,7 +7816,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 19,
+    "places_prises": 24,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -8121,7 +7862,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 20,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -8378,10 +8119,10 @@
   },
   "mee:807506": {
    "cycle": "",
-   "empreinte": "cbd334d6ca955482",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "f5f6ebf2e58b28aa",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-25T07:17:32+01:00",
-   "sequence": 9,
+   "sequence": 10,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -8415,8 +8156,8 @@
      "Métiers de la propreté"
     ],
     "organisateur": "France Travail",
-    "places_prises": 28,
-    "places_total": 30,
+    "places_prises": 31,
+    "places_total": 32,
     "publics": [
      "Bénéficiaires RSA",
      "Résidents en quartier prioritaire de la ville",
@@ -8429,7 +8170,7 @@
      "Etrangers Primo Arrivants"
     ],
     "raisons": [],
-    "sequence": 9,
+    "sequence": 10,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "RECRUTEMENT D'AGENTS D'ENTRETIEN ET DE GARDIENS POUR LA SOCIETE CLEAN OFFICE",
@@ -8616,7 +8357,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 26,
+    "places_prises": 28,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -8715,7 +8456,7 @@
      "La semaine de la création et reprise d'entreprise - ReStart"
     ],
     "organisateur": "France Travail",
-    "places_prises": 11,
+    "places_prises": 12,
     "places_total": 35,
     "publics": [
      "Tout public"
@@ -9036,7 +8777,7 @@
     "modalites": [
      "en physique"
     ],
-    "modifie": true,
+    "modifie": false,
     "nouveau": false,
     "objectifs": [
      "Se préparer",
@@ -9046,7 +8787,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 30,
+    "places_prises": 31,
     "places_total": 90,
     "publics": [
      "Séniors"
@@ -9158,10 +8899,10 @@
   },
   "mee:808572": {
    "cycle": "",
-   "empreinte": "ee276edccd029f24",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "3850917122c8ced6",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-26T07:15:04+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Formation assurée",
@@ -9187,20 +8928,20 @@
     "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
-     "Découverte formation",
      "Marché du travail",
+     "Découverte formation",
      "S'informer",
      "Insertion"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 2,
+    "places_prises": 3,
     "places_total": 30,
     "publics": [
      "Femmes – mixité professionnelle"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Les femmes dans l'industrie et le bâtiment",
@@ -9247,7 +8988,7 @@
      "#TousMobilisés"
     ],
     "organisateur": "France Travail",
-    "places_prises": 16,
+    "places_prises": 18,
     "places_total": 25,
     "publics": [
      "Débutant(e) accepté(e)",
@@ -9296,7 +9037,7 @@
      "L alternance"
     ],
     "organisateur": "La Halle de l'emploi",
-    "places_prises": 45,
+    "places_prises": 49,
     "places_total": 150,
     "publics": [
      "Jeunes"
@@ -9342,7 +9083,7 @@
      "Mobilisation 50 ans et plus"
     ],
     "organisateur": "France Travail",
-    "places_prises": 17,
+    "places_prises": 18,
     "places_total": 25,
     "publics": [
      "Séniors"
@@ -9517,10 +9258,10 @@
   },
   "mee:809695": {
    "cycle": "",
-   "empreinte": "387a8aa79468c80e",
-   "modifie_jusqu": "2026-12-02T07:11:07+01:00",
+   "empreinte": "8a2fda496baffc64",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-27T07:18:14+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "CDD",
@@ -9542,7 +9283,7 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Marché du travail",
      "Aides à l'emploi",
@@ -9550,20 +9291,20 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 8,
     "places_total": 75,
     "publics": [
      "Public placé sous Main de justice",
      "Bénéficiaires RSA",
-     "Séniors",
      "Résidents en quartier prioritaire de la ville",
+     "Séniors",
      "Jeunes",
      "Tout public",
      "Personnes en situation de handicap",
      "Public insertion par activité économique"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Recrutement Bâtiment, manutention et nettoyage spécial clauses sociales",
@@ -9597,7 +9338,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement",
      "Aides à l'emploi",
@@ -9700,7 +9441,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Marché du travail",
      "Se préparer",
@@ -9727,10 +9468,10 @@
   },
   "mee:809976": {
    "cycle": "",
-   "empreinte": "23725b66128f9997",
-   "modifie_jusqu": "2026-11-28T07:06:20+01:00",
+   "empreinte": "9bd6fc9e53f26ef2",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-11-27T07:18:14+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -9745,7 +9486,10 @@
     "fin": "2026-12-09T12:00:00+01:00",
     "id_source": "809976",
     "intervenants": [
-     "SAS JOMNILA"
+     "SAS JOMNILA",
+     "LVDH HAUTS DE FRANCE 2",
+     "INTERACTION THEDRA OUEST",
+     "RESO FRANCE"
     ],
     "latitude": 50.63310623168945,
     "longitude": 3.0597031116485596,
@@ -9753,19 +9497,21 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Recrutement"
     ],
-    "operations": [],
+    "operations": [
+     "Vos futurs collaborateurs"
+    ],
     "organisateur": "La Halle de l'emploi",
-    "places_prises": 4,
+    "places_prises": 5,
     "places_total": 150,
     "publics": [
      "Tout public"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Job Dating sortants de formation hôtellerie restauration tourisme à La Halle de l'emploi",
@@ -9797,7 +9543,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Aides à l'emploi"
     ],
@@ -9841,13 +9587,13 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Aides à l'emploi"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 0,
+    "places_prises": 1,
     "places_total": 3,
     "publics": [
      "Tout public"
@@ -9885,7 +9631,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Aides à l'emploi"
     ],
@@ -9929,7 +9675,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Aides à l'emploi"
     ],
@@ -9973,7 +9719,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Se préparer"
     ],
@@ -10019,7 +9765,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Se préparer"
     ],
@@ -10065,7 +9811,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Se préparer"
     ],
@@ -10163,7 +9909,7 @@
      "en physique"
     ],
     "modifie": false,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Découverte formation"
     ],
@@ -10310,7 +10056,7 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
      "Recrutement",
@@ -10363,7 +10109,7 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
      "Recrutement",
@@ -10416,7 +10162,7 @@
      "en physique"
     ],
     "modifie": true,
-    "nouveau": true,
+    "nouveau": false,
     "objectifs": [
      "Découverte secteur / métier",
      "Recrutement",
@@ -10767,7 +10513,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 9,
+    "places_prises": 11,
     "places_total": 25,
     "publics": [
      "Tout public",
@@ -10842,10 +10588,10 @@
   },
   "mee:812004": {
    "cycle": "",
-   "empreinte": "15dc670f2c98c157",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "081dc1adccb9dc41",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-12-01T07:09:59+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [],
     "code_postal": "59120",
@@ -10866,12 +10612,12 @@
     "nouveau": true,
     "objectifs": [
      "Aides à l'emploi",
-     "Stratégie et techniques de recherches d'emploi",
-     "Insertion"
+     "Insertion",
+     "Stratégie et techniques de recherches d'emploi"
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 7,
+    "places_prises": 9,
     "places_total": 20,
     "publics": [
      "Bénéficiaires RSA",
@@ -10880,7 +10626,7 @@
     "raisons": [
      "ville écartée : Loos"
     ],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "Et si vous preniez du temps pour vous ? Découvrez le programme OSER !",
@@ -10968,7 +10714,7 @@
     ],
     "operations": [],
     "organisateur": "Mission Locale",
-    "places_prises": 4,
+    "places_prises": 7,
     "places_total": 150,
     "publics": [
      "Tout public"
@@ -11077,7 +10823,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 2,
     "places_total": 15,
     "publics": [
      "Tout public"
@@ -11601,7 +11347,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 12,
+    "places_prises": 14,
     "places_total": 30,
     "publics": [
      "Tout public"
@@ -11763,7 +11509,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 2,
+    "places_prises": 3,
     "places_total": 30,
     "publics": [
      "Tout public",
@@ -11874,7 +11620,7 @@
      "Métiers du transport et de la logistique"
     ],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 2,
     "places_total": 24,
     "publics": [
      "Tout public"
@@ -12034,7 +11780,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 2,
+    "places_prises": 4,
     "places_total": 20,
     "publics": [
      "Tout public"
@@ -12139,7 +11885,7 @@
      "Métiers du numérique et informatique"
     ],
     "organisateur": "France Travail",
-    "places_prises": 10,
+    "places_prises": 14,
     "places_total": 50,
     "publics": [
      "Tout public"
@@ -12158,10 +11904,10 @@
   },
   "mee:813874": {
    "cycle": "",
-   "empreinte": "e7e69ff1c08214c8",
-   "modifie_jusqu": "2026-12-04T07:15:01+01:00",
+   "empreinte": "5de8a02b5f0fb20c",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-12-03T07:09:06+01:00",
-   "sequence": 1,
+   "sequence": 2,
    "snapshot": {
     "benefices": [
      "Rencontre recruteur",
@@ -12174,7 +11920,7 @@
     "cycle": "",
     "debut": "2026-12-15T14:00:00+01:00",
     "deroulement": "Merci d'apporter votre cv à jour. Présentation de l'entreprise et des postes, suivie d'un entretien individuel court. Prévoyez d'être disponible la demi-journée.",
-    "description": "RECRUTEMENT : Boulangerie Louise à Villeneuve d'Ascq ! Vous cherchez un métier passionnant avec un rythme respectueux de votre vie personnelle ? Rejoignez une enseigne qui valorise le vrai savoir-faire artisanal ! Les postes à pourvoir Rue Denis Papin ou Rue Jules Guesde : Boulangers(ères) CDI à temps complet, débutant accepté si titulaire du CAP. Vendeurs(ses) préparateurs(trices) CDI 24 heures par semaine avec une première expérience. Horaires postés matin ou après-midi. Amplitude horaire : 06h30-19h30 Rendez-vous de recrutement : Le 15 décembre à 14h00 Lieu : France Travail, Villeneuve d'Ascq Format : Réunion de présentation suivie d'un entretien. Pourquoi les rejoindre ? Prise de poste rapide Repos assuré le dimanche Formation assurée sur le poste Avantages : Prime de fin d'année, bons Noël, 10% de remise et une baguette offerte par jour travaillé ! Prêt(e) à relever le défi ? Présentez-vous à la session",
+    "description": "RECRUTEMENT : Boulangerie Louise à Villeneuve d'Ascq ! Vous cherchez un métier passionnant avec un rythme respectueux de votre vie personnelle ? Rejoignez une enseigne qui valorise le vrai savoir-faire artisanal ! Les postes à pourvoir Rue Denis Papin ou Rue Jules Guesde : Boulangers(ères) CDI à temps complet, débutant accepté si titulaire du CAP. Vendeurs(ses) préparateurs(trices) CDI 24 heures par semaine avec une première expérience dans le commerce, CAISSE EXIGEE Horaires postés matin ou après-midi. Amplitude horaire : 06h30-19h30 Rendez-vous de recrutement : Le 15 décembre à 14h00 Lieu : France Travail, Villeneuve d'Ascq Format : Réunion de présentation suivie d'un entretien. Pourquoi les rejoindre ? Prise de poste rapide Repos assuré le dimanche Formation assurée sur le poste Avantages : Prime de fin d'année, bons Noël, 10% de remise et une baguette offerte par jour travaillé ! Prêt(e) à relever le défi ? Présentez-vous à la session",
     "etablissement": "Agence VILLENEUVE D'ASCQ",
     "fin": "2026-12-15T16:00:00+01:00",
     "id_source": "813874",
@@ -12197,14 +11943,14 @@
      "#TousMobilisés"
     ],
     "organisateur": "France Travail",
-    "places_prises": 4,
-    "places_total": 40,
+    "places_prises": 21,
+    "places_total": 45,
     "publics": [
      "Tout public",
      "Débutant(e) accepté(e)"
     ],
     "raisons": [],
-    "sequence": 1,
+    "sequence": 2,
     "source": "mee",
     "statut_tri": "retenu",
     "titre": "Boulangerie Louise recrute des boulangers H/F et vendeurs H/F à Villeneuve d'Ascq.",
@@ -12300,7 +12046,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 0,
+    "places_prises": 1,
     "places_total": 20,
     "publics": [
      "Tout public",
@@ -12346,7 +12092,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 13,
+    "places_prises": 21,
     "places_total": 35,
     "publics": [
      "Professionnels du spectacle"
@@ -12392,7 +12138,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 11,
+    "places_prises": 14,
     "places_total": 35,
     "publics": [
      "Professionnels du spectacle"
@@ -12555,10 +12301,10 @@
   },
   "mee:814700": {
    "cycle": "",
-   "empreinte": "45b07bd72d4bfadf",
-   "modifie_jusqu": "2026-11-27T07:15:01+01:00",
+   "empreinte": "ddd0bec06ec3982d",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-12-04T07:15:01+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Candidater sans se déplacer"
@@ -12577,11 +12323,11 @@
     "modalites": [
      "à distance"
     ],
-    "modifie": false,
+    "modifie": true,
     "nouveau": true,
     "objectifs": [
-     "International",
      "Découverte secteur / métier",
+     "International",
      "Découverte formation",
      "Se préparer",
      "S'informer"
@@ -12598,7 +12344,7 @@
     "raisons": [
      "à distance uniquement"
     ],
-    "sequence": 0,
+    "sequence": 1,
     "source": "mee",
     "statut_tri": "ecarte",
     "titre": "Erasmus EFP / EDA : pour les candidats de la région HAUTS DE FRANCE \"Effectuer une immersion professionnelle et linguistique en Europe\"",
@@ -12761,7 +12507,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 0,
+    "places_prises": 1,
     "places_total": 12,
     "publics": [
      "Tout public"
@@ -12813,7 +12559,7 @@
     ],
     "operations": [],
     "organisateur": "France Travail",
-    "places_prises": 1,
+    "places_prises": 3,
     "places_total": 25,
     "publics": [
      "Bénéficiaires RSA"
@@ -12832,16 +12578,16 @@
   },
   "mee:815113": {
    "cycle": "",
-   "empreinte": "2fb8966a0b7cbc43",
-   "modifie_jusqu": "2026-11-27T07:15:01+01:00",
+   "empreinte": "02cd7b07b2d5397a",
+   "modifie_jusqu": "2026-12-05T07:12:23+01:00",
    "nouveau_jusqu": "2026-12-04T07:15:01+01:00",
-   "sequence": 0,
+   "sequence": 1,
    "snapshot": {
     "benefices": [
      "Formation assurée",
      "Développement de compétences",
-     "Opportunité d'emploi",
      "Temps complet",
+     "Opportunité d'emploi",
      "CDI"
     ],
     "code_postal": "59650",
@@ -12860,6 +12606,151 @@
     "modalites": [
      "en physique"
     ],
+    "modifie": true,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement"
+    ],
+    "operations": [],
+    "organisateur": "France Travail",
+    "places_prises": 6,
+    "places_total": 23,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [],
+    "sequence": 1,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "RECRUTEMENT OUVERTURE RESTAURANT AU BUREAU LESQUIN",
+    "type": "Job dating",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815113",
+    "ville": "Villeneuve-d'Ascq"
+   }
+  },
+  "mee:815317": {
+   "cycle": "",
+   "empreinte": "e00772147e56d82a",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [],
+    "code_postal": "59110",
+    "cycle": "",
+    "debut": "2026-12-02T09:15:00+01:00",
+    "deroulement": "",
+    "description": "Rendez-vous en individuel avez Rémy Giachetti de La Chambre D'eau qui intervient sur la gestion administrative, le conseil aux porteurs de projets culturels et l'accompagnement des compagnies ou structures. Pour rappel, La Chambre D'eau accompagne des associations concernant les démarches administratives, la recherche de financements et la vie associative mais également le soutien à la création contemporaine pluridisciplinaire en milieu rural, l'accueil d'artistes en résidence, la médiation culturelle et actions de coopération territoriale.",
+    "etablissement": "Agence LA MADELEINE",
+    "fin": "2026-12-02T12:15:00+01:00",
+    "id_source": "815317",
+    "intervenants": [
+     "LA CHAMBRE D'EAU"
+    ],
+    "latitude": 50.64491271972656,
+    "longitude": 3.072129964828491,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Création d'entreprise",
+     "Se préparer",
+     "S'informer"
+    ],
+    "operations": [
+     "La semaine de la création et reprise d'entreprise - ReStart"
+    ],
+    "organisateur": "France Travail",
+    "places_prises": 3,
+    "places_total": 4,
+    "publics": [
+     "Professionnels du spectacle"
+    ],
+    "raisons": [
+     "type non souhaité : Permanence"
+    ],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "ecarte",
+    "titre": "[INTERMITTENTS DU SPECTACLE] Créer son activité dans le spectacle vivant",
+    "type": "Permanence",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815317",
+    "ville": "La Madeleine"
+   }
+  },
+  "mee:815337": {
+   "cycle": "",
+   "empreinte": "a72d0d5f974cb2d2",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [],
+    "code_postal": "59000",
+    "cycle": "",
+    "debut": "2026-12-15T09:00:00+01:00",
+    "deroulement": "Mini-entretiens individuels : Échangez en face-à-face avec les recruteurs pour leur présenter votre profil et discuter des opportunités. N'oubliez pas votre cv !",
+    "description": "Que vous soyez en reconversion, à la recherche d'un premier emploi ou simplement curieux de découvrir de nouveaux horizons, des postes vous attendent dans les secteurs de la Logistique, Hôtellerie restauration, Service à la personne. * Agence intérim STAFFMATCH : - Cuisiniers - Personnels de chambre - Réceptionnistes - Commis de cuisine - Serveurs Transports et Logistique : - Préparateurs de commandes (avec CACES 1) - Caristes (CACES 1, 3 et 5) - Agents de tri * Agence DESTIA : - Assistant(e) de vie aux familles",
+    "etablissement": "Agence LILLE PORT FLUVIAL",
+    "fin": "2026-12-15T11:30:00+01:00",
+    "id_source": "815337",
+    "intervenants": [],
+    "latitude": 50.627254486083984,
+    "longitude": 3.0326590538024902,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement"
+    ],
+    "operations": [],
+    "organisateur": "France Travail",
+    "places_prises": 31,
+    "places_total": 100,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "Matinée de l'emploi : Logistique, Hôtellerie restauration, Service à la personne",
+    "type": "Job dating",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815337",
+    "ville": "Lille"
+   }
+  },
+  "mee:815453": {
+   "cycle": "",
+   "empreinte": "ca93bb56a5f0d467",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [
+     "Temps complet",
+     "CDI"
+    ],
+    "code_postal": "59650",
+    "cycle": "",
+    "debut": "2026-12-15T09:00:00+01:00",
+    "deroulement": "REUNION D INFORMATION COLLECTIVE DÉPANNEUR CHAUDIÈRES DOMESTIQUES (H/F) ET/OU PLOMBIER / PLOMBIÈRE CHAUFFAGISTE (H/F) FORMATION OU EXPERIENCE OBLIGATOIRE PERMIS B OBLIGATOIRE Entretien individuel à la suite *VENIR AVEC UN CV",
+    "description": "REUNION D INFORMATION COLLECTIVE DÉPANNEUR CHAUDIÈRES DOMESTIQUES (H/F) ET/OU PLOMBIER / PLOMBIÈRE CHAUFFAGISTE (H/F) FORMATION OU EXPERIENCE OBLIGATOIRE PERMIS B OBLIGATOIRE Entretien individuel à la suite *VENIR AVEC UN CV",
+    "etablissement": "Agence VILLENEUVE D'ASCQ",
+    "fin": "2026-12-15T12:00:00+01:00",
+    "id_source": "815453",
+    "intervenants": [
+     "GAZ SERVICE"
+    ],
+    "latitude": 50.616355895996094,
+    "longitude": 3.1364529132843018,
+    "modalites": [
+     "en physique"
+    ],
     "modifie": false,
     "nouveau": true,
     "objectifs": [
@@ -12868,7 +12759,7 @@
     "operations": [],
     "organisateur": "France Travail",
     "places_prises": 0,
-    "places_total": 23,
+    "places_total": 25,
     "publics": [
      "Tout public"
     ],
@@ -12876,9 +12767,264 @@
     "sequence": 0,
     "source": "mee",
     "statut_tri": "retenu",
-    "titre": "RECRUTEMENT OUVERTURE RESTAURANT AU BUREAU LESQUIN",
+    "titre": "RECRUTEMENT GAZ SERVICE VILLENEUVE D ASCQ DÉPANNEUR CHAUDIÈRES DOMESTIQUES (H/F) ET/OU PLOMBIER / PLOMBIÈRE CHAUFFAGISTE (H/F)",
     "type": "Job dating",
-    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815113",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815453",
+    "ville": "Villeneuve-d'Ascq"
+   }
+  },
+  "mee:815595": {
+   "cycle": "",
+   "empreinte": "021dffb6c660b986",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [
+     "Rencontre recruteur",
+     "Temps complet",
+     "Opportunité d'emploi"
+    ],
+    "code_postal": "59150",
+    "cycle": "",
+    "debut": "2026-12-07T13:30:00+01:00",
+    "deroulement": "Rencontre employeur Venir avec CV à jour.",
+    "description": "Adéquat Logistique recrute des Manutentionnaires pour ID LOGISTICS LEERS Prérequis : - Port de charges lourdes - Expérience de 6 mois min ( picking, prélèvement, drive...) - Le permis n'est pas obligatoire - Personne dynamique, sérieuse et motivé Horaires : - 5h/ 12h ou 12H/20H Merci de vous venir de votre CV.",
+    "etablissement": "Agence WATTRELOS",
+    "fin": "2026-12-07T15:00:00+01:00",
+    "id_source": "815595",
+    "intervenants": [
+     "INSIDE STAFFING BY ADEQUAT 156"
+    ],
+    "latitude": 50.691585540771484,
+    "longitude": 3.2323689460754395,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement"
+    ],
+    "operations": [
+     "#TousMobilisés",
+     "Vos futurs collaborateurs",
+     "1 jour, 1 formation"
+    ],
+    "organisateur": "France Travail",
+    "places_prises": 1,
+    "places_total": 20,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "ADEQUAT LOGISTIQUE RECRUTE DES Manutentionnaire H/F",
+    "type": "Job dating",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815595",
+    "ville": "Wattrelos"
+   }
+  },
+  "mee:815643": {
+   "cycle": "",
+   "empreinte": "344781c8e6e0a6fb",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [],
+    "code_postal": "59110",
+    "cycle": "",
+    "debut": "2026-12-03T14:30:00+01:00",
+    "deroulement": "Au sein de l'agence France Travail de La Madeleine: - présentation de la méthode de recrutement par simulation - présentation des recrutements en cours et à venir via cette méthode - questions / réponses - inscription sur des recrutements en cours / création d'une alerte sur ces recrutements",
+    "description": "Développée par France Travail, la Méthode de recrutement par simulation (MRS) propose d'aborder le recrutement de façon innovante, sans tenir compte de l'expérience et du niveau de diplôme du candidat. - La MRS donne sa chance à tout le monde - Élargissement des perspectives professionnelles : la MRS vous permet d'accéder à des métiers ou des secteurs auxquels vous n'avez pas accès dans les procédures classiques de recrutement. - Une méthode de recrutement objective : la MRS permet une sélection sur des critères mesurables identiques pour tous, donc équitables et transparents. - Un accès direct au poste ou à une formation qualifiante préalable à l'embauche.",
+    "etablissement": "Agence La Halle Lille Métropole",
+    "fin": "2026-12-03T15:15:00+01:00",
+    "id_source": "815643",
+    "intervenants": [],
+    "latitude": 50.64491271972656,
+    "longitude": 3.072129964828491,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement sans CV",
+     "S'informer"
+    ],
+    "operations": [
+     "Méthode de Recrutement par Simulation"
+    ],
+    "organisateur": "France Travail",
+    "places_prises": 1,
+    "places_total": 15,
+    "publics": [
+     "Tout public",
+     "Pas de diplôme exigé"
+    ],
+    "raisons": [],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "Découvrir la méthode de recrutement par simulation (MRS) pour élargir vos opportunités d'emploi",
+    "type": "Réunion d'information",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815643",
+    "ville": "La Madeleine"
+   }
+  },
+  "mee:815823": {
+   "cycle": "",
+   "empreinte": "657f839007cb7cfd",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [
+     "Formation assurée",
+     "Développement de compétences",
+     "Opportunité d'emploi",
+     "Temps complet",
+     "CDI"
+    ],
+    "code_postal": "59650",
+    "cycle": "",
+    "debut": "2026-12-17T09:00:00+01:00",
+    "deroulement": "REUNION D INFORMATION COLLECTIVE présentation de l'enseigne LA CÔTE & L'ARÊTE dans le cadre de son ouverture sur LESQUIN, des postes à pourvoir et du parcours POEI préparation opérationnelle à l'emploi individuel pour profils débutant H/F Entretien individuel à la suite *VENIR AVEC UN CV Liste des postes à pourvoir en cdi temps plein Commis / Commise de cuisine Employé polyvalent / Employée polyvalente de restauration Chef / Cheffe de partie Second / Seconde de cuisine Barman / Barmaid Commis / Commise de salle runner Serveur / Serveuse de restaurant",
+    "description": "REUNION D INFORMATION COLLECTIVE présentation de l'enseigne LA CÔTE & L'ARÊTE dans le cadre de son ouverture sur LESQUIN, des postes à pourvoir et du parcours POEI préparation opérationnelle à l'emploi individuel pour profils débutant H/F Entretien individuel à la suite *VENIR AVEC UN CV Liste des postes à pourvoir en cdi temps plein Commis / Commise de cuisine Employé polyvalent / Employée polyvalente de restauration Chef / Cheffe de partie Second / Seconde de cuisine Barman / Barmaid Commis / Commise de salle runner Serveur / Serveuse de restaurant",
+    "etablissement": "Agence VILLENEUVE D'ASCQ",
+    "fin": "2026-12-17T11:00:00+01:00",
+    "id_source": "815823",
+    "intervenants": [
+     "LCAL"
+    ],
+    "latitude": 50.616355895996094,
+    "longitude": 3.1364529132843018,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement"
+    ],
+    "operations": [],
+    "organisateur": "France Travail",
+    "places_prises": 4,
+    "places_total": 30,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "RECRUTEMENT OUVERTURE RESTAURANT LA CÔTE & L'ARÊTE LESQUIN",
+    "type": "Job dating",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815823",
+    "ville": "Villeneuve-d'Ascq"
+   }
+  },
+  "mee:815858": {
+   "cycle": "",
+   "empreinte": "739f3f835fd3d499",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [
+     "Opportunité d'emploi"
+    ],
+    "code_postal": "59800",
+    "cycle": "",
+    "debut": "2026-12-08T10:00:00+01:00",
+    "deroulement": "Présentation rapide de la visioconférence Présentation des principaux événements emploi à venir sur la métropole lilloise Focus sur les forums, job datings et recrutements Présentation des secteurs et entreprises concernés Informations pratiques : dates, lieux, profils recherchés et modalités d'inscription Présentation de Mes Événements Emploi pour retrouver les événements et s'inscrire",
+    "description": "Vous êtes à la recherche d'un emploi et souhaitez connaître les opportunités à venir sur la métropole lilloise ? Cette visioconférence vous permettra de découvrir une sélection d'événements de recrutement, forums, job datings, rencontres employeurs et secteurs qui recrutent prochainement. L'objectif est de vous aider à identifier rapidement les événements qui peuvent correspondre à votre recherche et à vous positionner sur les opportunités présentées.",
+    "etablissement": "Agence LILLE VAUCANSON",
+    "fin": "2026-12-08T11:00:00+01:00",
+    "id_source": "815858",
+    "intervenants": [],
+    "latitude": 50.629539489746094,
+    "longitude": 3.0941009521484375,
+    "modalites": [
+     "à distance"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Aides à l'emploi",
+     "S'informer"
+    ],
+    "operations": [],
+    "organisateur": "France Travail",
+    "places_prises": 0,
+    "places_total": 200,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [
+     "à distance uniquement"
+    ],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "ecarte",
+    "titre": "Opportunités Emploi Lille Métropole",
+    "type": "Conférence",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815858",
+    "ville": "Lille"
+   }
+  },
+  "mee:815939": {
+   "cycle": "",
+   "empreinte": "e4d5f9cf8b6765b1",
+   "modifie_jusqu": "2026-11-28T07:12:23+01:00",
+   "nouveau_jusqu": "2026-12-05T07:12:23+01:00",
+   "sequence": 0,
+   "snapshot": {
+    "benefices": [
+     "Formation assurée",
+     "Développement de compétences",
+     "Temps complet",
+     "Opportunité d'emploi",
+     "CDI"
+    ],
+    "code_postal": "59650",
+    "cycle": "",
+    "debut": "2027-01-07T09:00:00+01:00",
+    "deroulement": "REUNION D INFORMATION COLLECTIVE présentation de l'enseigne LA CÔTE & L'ARÊTE dans le cadre de son ouverture sur LESQUIN, des postes à pourvoir et du parcours POEI préparation opérationnelle à l'emploi individuel pour profils débutant H/F Entretien individuel à la suite *VENIR AVEC UN CV Liste des postes à pourvoir en cdi temps plein Commis / Commise de cuisine Employé polyvalent / Employée polyvalente de restauration Chef / Cheffe de partie Second / Seconde de cuisine Barman / Barmaid Commis / Commise de salle runner Serveur / Serveuse de restaurant",
+    "description": "REUNION D INFORMATION COLLECTIVE présentation de l'enseigne LA CÔTE & L'ARÊTE dans le cadre de son ouverture sur LESQUIN, des postes à pourvoir et du parcours POEI préparation opérationnelle à l'emploi individuel pour profils débutant H/F Entretien individuel à la suite *VENIR AVEC UN CV Liste des postes à pourvoir en cdi temps plein Commis / Commise de cuisine Employé polyvalent / Employée polyvalente de restauration Chef / Cheffe de partie Second / Seconde de cuisine Barman / Barmaid Commis / Commise de salle runner Serveur / Serveuse de restaurant",
+    "etablissement": "Agence VILLENEUVE D'ASCQ",
+    "fin": "2027-01-07T11:00:00+01:00",
+    "id_source": "815939",
+    "intervenants": [
+     "LCAL"
+    ],
+    "latitude": 50.616355895996094,
+    "longitude": 3.1364529132843018,
+    "modalites": [
+     "en physique"
+    ],
+    "modifie": false,
+    "nouveau": true,
+    "objectifs": [
+     "Recrutement"
+    ],
+    "operations": [],
+    "organisateur": "France Travail",
+    "places_prises": 0,
+    "places_total": 30,
+    "publics": [
+     "Tout public"
+    ],
+    "raisons": [],
+    "sequence": 0,
+    "source": "mee",
+    "statut_tri": "retenu",
+    "titre": "RECRUTEMENT OUVERTURE RESTAURANT LA CÔTE & L'ARÊTE LESQUIN",
+    "type": "Job dating",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/815939",
     "ville": "Villeneuve-d'Ascq"
    }
   }
